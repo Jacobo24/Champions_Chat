@@ -1,0 +1,844 @@
+﻿season_year,player_name,team_name,nationality,apps,clean_sheets,goals_conceded,minutes_per_goal_conceded
+1992,Fabien Barthez,Olympique de Marsella,Francia,10,7,4,225
+1992,Francesco Antonioli,AC Milan,Italia,4,4,0,0
+1992,Sebastiano Rossi,AC Milan,Italia,6,4,2,269
+1992,Thomas Ravelli,IFK Göteborg,Suecia,8,4,8,90
+1992,Andy Goram,Rangers FC,Escocia,10,4,7,129
+1992,Vítor Baía,FC Oporto,Portugal,10,4,8,110
+1992,Dany Verlinden,Club Brujas KV,Bélgica,10,4,11,82
+1992,Hans van Breukelen,PSV Eindhoven,Países Bajos,9,3,12,68
+1992,Carlo Cudicini,AC Milan,Italia,2,2,0,0
+1992,Florin Tene,FC Dinamo 1948,Rumania,4,2,3,120
+1992,Andoni Zubizarreta,FC Barcelona,España,4,2,4,90
+1992,Kazimierz Sidorczuk,Lech Poznan,Polonia / Austria,4,2,4,90
+1992,Valente,FC Oporto,Portugal,1,1,0,0
+1992,Pascal Olmeta,Olympique de Marsella,Francia,1,1,0,0
+1992,Lars Gaute Bø,Viking FK,Noruega,2,1,1,180
+1992,Olegs Grisins,Skonto Riga (- 2016),Letonia,2,1,2,90
+1992,Dick Last,IFK Göteborg,Suecia,2,1,2,90
+1992,Jyrki Rovio,FC Kuusysi,Finlandia,2,1,2,90
+1992,Tamás Balogh,Ferencváros TC,Hungría,2,1,4,45
+1992,Evgeniy Plotnikov,CSKA Moscú,Rusia,3,1,3,90
+1992,Eike Immel,VfB Stuttgart,Alemania,3,1,5,54
+1992,Aleksandr Guteev,CSKA Moscú,Rusia,3,1,7,32
+1992,Antonis Minou,AEK Atenas FC,Grecia,4,1,6,60
+1992,Alexander Vencel,Slovan Bratislava,Eslovaquia,4,1,6,60
+1992,Dmitriy Kharin,CSKA Moscú,Rusia,5,1,6,68
+1993,Sebastiano Rossi,AC Milan,Italia,11,9,2,495
+1993,Vítor Baía,FC Oporto,Portugal,11,7,9,110
+1993,Filip De Wilde,RSC Anderlecht,Bélgica,10,6,11,82
+1993,Andoni Zubizarreta,FC Barcelona,España,12,6,12,90
+1993,Hayrettin Demirbaş,Galatasaray,Turquía,10,4,14,64
+1993,Jean-Luc Ettori,AS Mónaco,Francia,11,4,10,99
+1993,Aleksandr Pomazun,FC Spartak de Moscú,Rusia / Ucrania,6,3,6,85
+1993,Ed de Goey,Feyenoord,Países Bajos,4,2,2,180
+1993,Gintaras Stauce,FC Spartak de Moscú,Lituania,5,2,8,49
+1993,Mario Ielpo,AC Milan,Italia,1,1,0,0
+1993,Andreas Hilfiker,FC Aarau,Suiza,2,1,1,180
+1993,Magnus Hedman,AIK,Suecia,2,1,2,90
+1993,Hans-Jürgen Gundelach,SV Werder Bremen,Alemania,2,1,2,90
+1993,David Cluett,Floriana FC,Malta,2,1,2,90
+1993,Kristján Finnbogi Finnbogason,ÍA Akranes,Islandia,2,1,3,60
+1993,Wesley Lamont,Linfield FC,Irlanda del Norte,2,1,4,45
+1993,Petr Kouba,AC Sparta Praga,República Checa,3,1,5,54
+1993,Jaroslaw Bako,Lech Poznan,Polonia,3,1,5,45
+1993,Peter Schmeichel,Manchester United,Dinamarca / Polonia,4,1,6,60
+1993,Dumitru Stangaciu,FCSB,Rumania,4,1,8,45
+1993,Palle Petersen,FC Copenhague,Dinamarca,4,1,10,36
+1993,Milan Sova,AC Sparta Praga,República Checa,1,0,1,90
+1993,Gennadiy Tumilovich,Dinamo Minsk,Bielorrusia / Rusia,1,0,1,90
+1993,Oleg Morgun,Levski Sofia,Ucrania,1,0,3,30
+1993,Andrey Satsunkevich,Dinamo Minsk,Bielorrusia,1,0,5,18
+1994,Edwin van der Sar,Ajax de Ámsterdam,Países Bajos,11,8,4,248
+1994,Sebastiano Rossi,AC Milan,Italia,11,7,6,165
+1994,Tonci Gabric,HNK Hajduk Split,Croacia,7,4,6,105
+1994,Thomas Ravelli,IFK Göteborg,Suecia,8,3,9,80
+1994,Bernard Lama,París Saint-Germain FC,Francia / Guayana Francesa,10,3,8,113
+1994,Sven Scheuer,Bayern Múnich,Alemania,4,2,6,48
+1994,Otto Konrad,Red Bull Salzburgo,Austria,6,2,5,102
+1994,Filip De Wilde,RSC Anderlecht,Bélgica,6,2,7,77
+1994,Ilias Atmatsidis,AEK Atenas FC,Grecia,6,2,9,60
+1994,Michel Preud'homme,SL Benfica,Bélgica,8,2,7,103
+1994,Daniel Gherasim,FCSB,Rumania,1,1,0,0
+1994,Uwe Gospodarek,Bayern Múnich,Alemania,2,1,2,80
+1994,Peter Schmeichel,Manchester United,Dinamarca / Polonia,3,1,4,68
+1994,Gary Walsh,Manchester United,Inglaterra,3,1,7,39
+1994,Oliver Kahn,Bayern Múnich,Alemania,5,1,6,75
+1994,Dumitru Stangaciu,FCSB,Rumania,6,1,6,90
+1994,Gintaras Stauce,Galatasaray,Lituania,6,1,9,60
+1994,Dmitriy Tyapushkin,FC Spartak de Moscú,Rusia / Ucrania,6,1,12,45
+1994,Carles Busquets,FC Barcelona,España,8,1,11,65
+1994,Herbert Ilsanker,Red Bull Salzburgo,Austria,1,0,1,30
+1994,Zoran Slavica,HNK Hajduk Split,Croacia,1,0,4,23
+1994,Oleksandr Shovkovskyi,FC Dinamo de Kiev,Ucrania,6,0,11,49
+1995,Edwin van der Sar,Ajax de Ámsterdam,Países Bajos,11,8,7,141
+1995,Jozef Wandzik,Panathinaikos FC,Polonia,10,7,6,150
+1995,Angelo Peruzzi,Juventus de Turín,Italia,10,4,11,82
+1995,Stanislav Cherchesov,FC Spartak de Moscú,Rusia,6,3,4,135
+1995,Vítor Baía,FC Oporto,Portugal,6,3,5,108
+1995,Bogdan Stelea,FCSB,Rumania,6,3,5,108
+1995,Paco Buyo,Real Madrid CF,España,7,3,5,126
+1995,Dominique Casagrande,FC Nantes,Francia,8,3,9,80
+1995,Maciej Szczesny,Legia de Varsovia,Polonia,8,3,11,65
+1995,Stefan Klos,Borussia Dortmund,Alemania,8,2,11,65
+1995,Michelangelo Rampulla,Juventus de Turín,Italia,1,1,0,0
+1995,David Marraud,FC Nantes,Francia,2,1,3,60
+1995,Patrick Foletti,Grasshopper Club Zurich,Suiza / Italia,3,1,5,54
+1995,Ola By Rise,Rosenborg BK,Noruega,4,1,9,40
+1995,Tim Flowers,Blackburn Rovers,Inglaterra,6,1,8,68
+1995,Attila Hajdu,Ferencváros TC,Hungría,6,1,19,28
+1995,Santiago Cañizares,Real Madrid CF,España,1,0,2,45
+1995,Lars Winde,Aalborg BK,Dinamarca,1,0,2,45
+1995,Billy Thomson,Rangers FC,Escocia,1,0,3,15
+1995,Ruslan Nigmatullin,FC Spartak de Moscú,Rusia,2,0,4,45
+1995,Jørn Jamtfall,Rosenborg BK,Noruega,2,0,7,26
+1995,Pascal Zuberbühler,Grasshopper Club Zurich,Suiza,3,0,8,34
+1995,Thomas Gill,Aalborg BK,Noruega,5,0,10,45
+1995,Andy Goram,Rangers FC,Escocia,6,0,11,45
+1996,Peter Schmeichel,Manchester United,Dinamarca / Polonia,9,5,4,203
+1996,Angelo Peruzzi,Juventus de Turín,Italia,9,5,6,135
+1996,Stefan Klos,Borussia Dortmund,Alemania,11,5,10,99
+1996,Hilário,FC Oporto,Portugal,5,3,5,90
+1996,Edwin van der Sar,Ajax de Ámsterdam,Países Bajos,10,3,13,69
+1996,Pascal Zuberbühler,Grasshopper Club Zurich,Suiza,6,2,5,108
+1996,Rüştü Reçber,Fenerbahce,Turquía,6,2,6,90
+1996,José Francisco Molina,Atlético de Madrid,España,8,2,8,90
+1996,Michelangelo Rampulla,Juventus de Turín,Italia,2,1,1,180
+1996,Andrzej Wozniak,FC Oporto,Polonia,3,1,3,90
+1996,Bogdan Stelea,FCSB,Rumania,5,1,9,45
+1996,Maciej Szczesny,RTS Widzew Łódź,Polonia,6,1,10,54
+1996,Lionel Charbonnier,AJ Auxerre,Francia,7,1,10,63
+1996,Jørn Jamtfall,Rosenborg BK,Noruega,8,1,14,51
+1996,Raimond van der Gouw,Manchester United,Países Bajos,1,0,1,90
+1996,Fabien Cool,AJ Auxerre,Francia,1,0,1,90
+1996,Theo Snelders,Rangers FC,Países Bajos,2,0,5,36
+1996,Daniel Gherasim,FCSB,Rumania,2,0,6,23
+1996,Andy Goram,Rangers FC,Escocia,4,0,8,45
+1996,Sebastiano Rossi,AC Milan,Italia,6,0,11,49
+1996,Michael Konsel,SK Rapid Viena,Austria,6,0,12,45
+1996,Thomas Ravelli,IFK Göteborg,Suecia,6,0,13,42
+1997,Stefan Klos,Borussia Dortmund,Alemania,10,6,5,180
+1997,Bodo Illgner,Real Madrid CF,Alemania,5,4,1,450
+1997,Santiago Cañizares,Real Madrid CF,España,6,3,4,135
+1997,Gianluigi Buffon,Parma,Italia,6,3,5,108
+1997,Jerzy Dudek,Feyenoord,Polonia,6,3,10,54
+1997,Peter Schmeichel,Manchester United,Dinamarca / Polonia,7,3,5,126
+1997,Oliver Kahn,Bayern Múnich,Alemania,8,3,7,103
+1997,Dirk Heinen,Bayer 04 Leverkusen,Alemania,8,3,11,65
+1997,Fabien Barthez,AS Mónaco,Francia,10,3,15,60
+1997,Jørn Jamtfall,Rosenborg BK,Noruega,6,2,8,68
+1997,Ronald Waterreus,PSV Eindhoven,Países Bajos,6,2,8,68
+1997,Filip De Wilde,Sporting de Lisboa,Bélgica,6,2,8,59
+1997,Christophe Revault,París Saint-Germain FC,Francia,6,2,10,54
+1997,Tomas Postulka,AC Sparta Praga,República Checa,6,2,11,49
+1997,Kyriakos Tochouroglou,Olympiacos El Pireo,Grecia / Australia,6,2,14,39
+1997,Oleksandr Shovkovskyi,FC Dinamo de Kiev,Ucrania,8,2,11,65
+1997,Angelo Peruzzi,Juventus de Turín,Italia,11,2,15,62
+1997,Michelangelo Rampulla,Juventus de Turín,Italia,1,1,0,0
+1997,Jan Willem van Ede,PSV Eindhoven,Países Bajos,1,1,0,0
+1997,Sören Järelöv,IFK Göteborg,Suecia,2,1,1,103
+1997,Shaka Hislop,Newcastle United,Trinidad y Tobago / Inglaterra,2,1,1,180
+1997,Marjan Mrmic,Besiktas JK,Croacia,3,1,4,62
+1997,Fevzi Tuncay,Besiktas JK,Turquía,4,1,5,58
+1997,Thomas Ravelli,IFK Göteborg,Suecia,5,1,8,55
+1997,Ruud Hesp,FC Barcelona,Países Bajos,5,1,9,47
+1998,Oliver Kahn,Bayern Múnich,Alemania,11,5,11,90
+1998,Angelo Peruzzi,Juventus de Turín,Italia,8,4,6,105
+1998,Jani Viander,HJK Helsinki,Finlandia,3,2,5,54
+1998,Imanol Etxeberria,Athletic Club,España,6,2,6,90
+1998,Edwin van der Sar,Ajax de Ámsterdam,Países Bajos,6,2,6,90
+1998,Guillaume Warmuz,RC Lens,Francia,6,2,6,90
+1998,Aleksandr Filimonov,FC Spartak de Moscú,Rusia,6,2,6,90
+1998,Drazen Ladic,GNK Dinamo Zagreb,Croacia,6,2,7,77
+1998,Ruud Hesp,FC Barcelona,Países Bajos,6,2,9,60
+1998,Gianluca Pagliuca,Inter de Milán,Italia,8,2,8,90
+1998,Dimitrios Eleftheropoulos,Olympiacos El Pireo,Grecia,8,2,9,80
+1998,Andreas Reinke,1.FC Kaiserslautern,Alemania,8,2,12,60
+1998,Peter Schmeichel,Manchester United,Dinamarca / Polonia,11,2,16,62
+1998,Patrick Lodewijks,PSV Eindhoven,Países Bajos,1,1,0,0
+1998,Árni Arason,Rosenborg BK,Islandia,2,1,3,60
+1998,Rui Correia,FC Oporto,Portugal,3,1,4,68
+1998,Ivica Kralj,FC Oporto,Serbia / Montenegro,3,1,5,54
+1998,Claudio Taffarel,Galatasaray,Brasil / Italia,6,1,8,68
+1998,Jozef Wandzik,Panathinaikos FC,Polonia,6,1,9,60
+1998,Kazimierz Sidorczuk,SK Sturm Graz,Polonia / Austria,6,1,16,34
+1998,Bodo Illgner,Real Madrid CF,Alemania,8,1,11,65
+1998,Oleksandr Shovkovskyi,FC Dinamo de Kiev,Ucrania,10,1,12,75
+1998,Wilburt Need,PSV Eindhoven,Países Bajos,1,0,3,21
+1998,Sergey Ovchinnikov,SL Benfica,Rusia,2,0,3,60
+1998,Emeka Andersen,Brøndby IF,Dinamarca,2,0,7,26
+1999,Francesco Toldo,Fiorentina,Italia,11,7,13,76
+1999,Ed de Goey,Chelsea FC,Países Bajos,14,6,14,90
+1999,Vítor Baía,FC Oporto,Portugal,9,5,7,114
+1999,Luca Marchegiani,SS Lazio,Italia,10,5,6,150
+1999,Raimond van der Gouw,Manchester United,Países Bajos,7,4,5,126
+1999,Santiago Cañizares,Valencia CF,España,11,4,11,88
+1999,Jerzy Dudek,Feyenoord,Polonia,12,4,13,83
+1999,Iker Casillas,Real Madrid CF,España,12,4,19,57
+1999,Drazen Ladic,GNK Dinamo Zagreb,Croacia,4,3,2,141
+1999,Jørn Jamtfall,Rosenborg BK,Noruega,8,3,9,80
+1999,Tomas Postulka,AC Sparta Praga,República Checa,8,3,13,55
+1999,Stéphane Porato,Olympique de Marsella,Francia,10,3,18,50
+1999,Ulrich Ramé,Girondins de Burdeos,Francia,11,3,18,55
+1999,Albano Bizzarri,Real Madrid CF,Argentina / Italia,4,2,2,180
+1999,Francesc Arnau,FC Barcelona,España,4,2,5,72
+1999,Marco Ballotta,SS Lazio,Italia,4,2,6,60
+1999,Adam Matysek,Bayer 04 Leverkusen,Polonia,6,2,7,77
+1999,Mark Bosnich,Manchester United,Australia / Croacia,7,2,6,105
+1999,Andrés Palop,Valencia CF,España,7,2,7,81
+1999,Lee Baxter,AIK,Escocia / Suecia,1,1,0,0
+1999,Teddy Richert,Girondins de Burdeos,Francia,1,1,0,0
+1999,Stéphane Trévisan,Olympique de Marsella,Francia,2,1,1,180
+1999,Luka Gresak,NK Maribor,Eslovenia,2,1,2,90
+1999,Jimmy van Fessem,Willem II Tilburg,Países Bajos,3,1,2,103
+1999,Lionel Charbonnier,Rangers FC,Francia,3,1,3,90
+2000,Santiago Cañizares,Valencia CF,España,16,9,12,120
+2000,Oliver Kahn,Bayern Múnich,Alemania,16,9,13,109
+2000,David Seaman,Arsenal FC,Inglaterra,10,4,8,113
+2000,Nigel Martyn,Leeds United,Inglaterra,10,4,14,64
+2000,Claudio Taffarel,Galatasaray,Brasil / Italia,11,4,16,62
+2000,Fabien Barthez,Manchester United,Francia,12,4,10,108
+2000,Grégory Coupet,Olympique de Lyon,Francia,12,4,10,108
+2000,Konstantinos Chalkias,Panathinaikos FC,Grecia,4,3,2,167
+2000,Stefan Klos,Rangers FC,Alemania,4,3,3,120
+2000,Josef Schicklgruber,SK Sturm Graz,Austria,5,3,10,37
+2000,Iker Casillas,Real Madrid CF,España,11,3,15,66
+2000,Aleksandr Filimonov,FC Spartak de Moscú,Rusia,12,3,13,83
+2000,José Francisco Molina,RC Deportivo de La Coruña,España,13,3,14,84
+2000,Luca Marchegiani,SS Lazio,Italia,5,2,6,75
+2000,Ike Shorunmu,Besiktas JK,Nigeria,5,2,12,38
+2000,Dida,AC Milan,Brasil,6,2,5,108
+2000,Dimitrios Eleftheropoulos,Olympiacos El Pireo,Grecia,6,2,5,108
+2000,Paul Robinson,Leeds United,Inglaterra,6,2,7,77
+2000,Oleksandr Shovkovskyi,FC Dinamo de Kiev,Ucrania,6,2,8,68
+2000,Sven Andersson,Helsingborgs IF,Suecia,6,2,14,39
+2000,Kazimierz Sidorczuk,SK Sturm Graz,Polonia / Austria,8,2,15,48
+2000,Filip De Wilde,RSC Anderlecht,Bélgica,8,2,18,40
+2000,Lionel Létizi,París Saint-Germain FC,Francia / Italia,12,2,19,57
+2000,Adam Matysek,Bayer 04 Leverkusen,Polonia,1,1,0,0
+2000,Jacques Songo'o,RC Deportivo de La Coruña,Camerún / Francia,1,1,0,0
+2001,Jerzy Dudek,Liverpool FC,Polonia,12,7,10,108
+2001,Antonis Nikopolidis,Panathinaikos FC,Grecia,14,7,14,90
+2001,Fabien Barthez,Manchester United,Francia,15,7,13,104
+2001,Petr Cech,AC Sparta Praga,República Checa,12,6,13,83
+2001,Iker Casillas,Real Madrid CF,España,9,5,6,124
+2001,Faryd Mondragón,Galatasaray,Colombia / Líbano,12,5,10,108
+2001,Francesco Antonioli,AS Roma,Italia,10,4,7,129
+2001,Gianluigi Buffon,Juventus de Turín,Italia,10,4,12,75
+2001,José Francisco Molina,RC Deportivo de La Coruña,España,11,4,14,68
+2001,Oliver Kahn,Bayern Múnich,Alemania,12,4,10,108
+2001,Roberto Bonano,FC Barcelona,Argentina / Italia,13,4,13,90
+2001,César Sánchez,Real Madrid CF,España,9,3,8,99
+2001,Mickaël Landreau,FC Nantes,Francia,11,3,12,83
+2001,Stefan Wessels,Bayern Múnich,Alemania,2,2,0,0
+2001,Pepe Reina,FC Barcelona,España,4,2,4,69
+2001,Paulo Santos,FC Oporto,Portugal,5,2,4,113
+2001,Sergey Ovchinnikov,FC Oporto,Rusia,5,2,5,90
+2001,Jens Lehmann,Borussia Dortmund,Alemania,6,2,7,77
+2001,Rab Douglas,Celtic FC,Escocia,6,2,11,49
+2001,Ricardo,Boavista FC,Portugal,12,2,15,72
+2001,Hans Jörg Butt,Bayer 04 Leverkusen,Alemania,17,2,28,55
+2001,Miki,RCD Mallorca,España,1,1,0,0
+2001,Ivica Kralj,PSV Eindhoven,Serbia / Montenegro,1,1,0,0
+2001,Stuart Taylor,Arsenal FC,Inglaterra,2,1,1,135
+2001,Chris Kirkland,Liverpool FC,Inglaterra,2,1,1,180
+2002,Dida,AC Milan,Brasil,12,8,5,216
+2002,Francesco Toldo,Inter de Milán,Italia,16,6,19,76
+2002,David Seaman,Arsenal FC,Inglaterra,9,5,6,128
+2002,Francesco Antonioli,AS Roma,Italia,9,5,9,90
+2002,Gianluigi Buffon,Juventus de Turín,Italia,15,5,16,84
+2002,Roberto Bonano,FC Barcelona,Argentina / Italia,8,4,5,144
+2002,Santiago Cañizares,Valencia CF,España,12,4,12,88
+2002,Andrés Palop,Valencia CF,España,3,3,0,0
+2002,Vitaliy Reva,FC Dinamo de Kiev,Ucrania,6,3,9,60
+2002,Fabien Barthez,Manchester United,Francia,10,3,12,73
+2002,Pascal Zuberbühler,FC Basilea,Suiza,12,3,22,49
+2002,Iker Casillas,Real Madrid CF,España,15,3,21,64
+2002,Joey Didulica,Ajax de Ámsterdam,Croacia / Australia,4,2,3,120
+2002,Víctor Valdés,FC Barcelona,España,4,2,3,120
+2002,Edwin Zoetebier,Feyenoord,Países Bajos,5,2,4,101
+2002,Ronald Waterreus,PSV Eindhoven,Países Bajos,5,2,8,56
+2002,Jan Moons,KRC Genk,Bélgica,5,2,8,46
+2002,Bogdan Lobonț,Ajax de Ámsterdam,Rumania,6,2,6,90
+2002,Dany Verlinden,Club Brujas KV,Bélgica,6,2,7,77
+2002,Fabien Cool,AJ Auxerre,Francia,6,2,7,77
+2002,Dionysis Chiotis,AEK Atenas FC,Grecia,6,2,7,77
+2002,Faryd Mondragón,Galatasaray,Colombia / Líbano,6,2,10,54
+2002,Dudu Aouate,Maccabi Haifa,Israel / Francia,6,2,12,45
+2002,Hans Jörg Butt,Bayer 04 Leverkusen,Alemania,10,2,18,50
+2002,Jens Lehmann,Borussia Dortmund,Alemania,12,2,12,90
+2003,José Francisco Molina,RC Deportivo de La Coruña,España,12,7,14,74
+2003,Carlo Cudicini,Chelsea FC,Italia,9,6,5,162
+2003,Dida,AC Milan,Brasil,9,5,7,116
+2003,Vítor Baía,FC Oporto,Portugal,13,5,12,98
+2003,Tim Howard,Manchester United,Estados Unidos / Hungría,7,4,5,126
+2003,Jens Lehmann,Arsenal FC,Alemania,10,4,11,82
+2003,Timo Hildebrand,VfB Stuttgart,Alemania,8,3,7,103
+2003,Jaromir Blazek,AC Sparta Praga,República Checa,8,3,9,80
+2003,Iker Casillas,Real Madrid CF,España,9,3,10,81
+2003,Grégory Coupet,Olympique de Lyon,Francia,9,3,10,74
+2003,Daniel Zitka,RSC Anderlecht,República Checa,6,2,6,90
+2003,Magnus Hedman,Celtic FC,Suecia,6,2,7,77
+2003,Bogdan Lobonț,Ajax de Ámsterdam,Rumania,6,2,7,77
+2003,Ronald Waterreus,PSV Eindhoven,Países Bajos,6,2,7,77
+2003,Óscar Córdoba,Besiktas JK,Colombia,6,2,7,77
+2003,Sander Westerveld,Real Sociedad,Países Bajos,6,2,8,68
+2003,Faryd Mondragón,Galatasaray,Colombia / Líbano,6,2,8,68
+2003,Oliver Kahn,Bayern Múnich,Alemania,8,2,7,103
+2003,Sergey Ovchinnikov,Lokomotiv Moscú,Rusia,8,2,9,80
+2003,Flavio Roma,AS Mónaco,Italia,12,2,19,57
+2003,Rémy Vercoutre,Olympique de Lyon,Francia,1,1,0,0
+2003,Roy Carroll,Manchester United,Irlanda del Norte,1,1,0,0
+2003,Tony Sylva,AS Mónaco,Senegal / Francia,1,1,0,0
+2003,Antonio Chimenti,Juventus de Turín,Italia,2,1,2,90
+2003,Dany Verlinden,Club Brujas KV,Bélgica,4,1,3,120
+2004,Dida,AC Milan,Brasil,13,9,12,96
+2004,Gianluigi Buffon,Juventus de Turín,Italia,9,7,3,270
+2004,Antonis Nikopolidis,Olympiacos El Pireo,Grecia,6,4,5,108
+2004,Jerzy Dudek,Liverpool FC,Polonia,8,4,8,90
+2004,Petr Cech,Chelsea FC,República Checa,11,4,13,76
+2004,Lionel Létizi,París Saint-Germain FC,Francia / Italia,6,3,8,68
+2004,Rüştü Reçber,Fenerbahce,Turquía,6,3,13,38
+2004,Flavio Roma,AS Mónaco,Italia,8,3,7,103
+2004,Iker Casillas,Real Madrid CF,España,8,3,10,72
+2004,Heurelho Gomes,PSV Eindhoven,Brasil,10,3,12,75
+2004,Nicolas Puydebois,Olympique de Lyon,Francia,3,2,2,99
+2004,Chris Kirkland,Liverpool FC,Inglaterra,4,2,2,180
+2004,José Francisco Molina,RC Deportivo de La Coruña,España,5,2,4,113
+2004,Igor Akinfeev,CSKA Moscú,Rusia,6,2,5,108
+2004,Oleksandr Shovkovskyi,FC Dinamo de Kiev,Ucrania,6,2,8,68
+2004,Vítor Baía,FC Oporto,Portugal,6,2,9,60
+2004,Jan Lastuvka,Shakhtar Donetsk,República Checa,6,2,9,60
+2004,Santiago Cañizares,Valencia CF,España,6,2,10,54
+2004,Jens Lehmann,Arsenal FC,Alemania,7,2,8,79
+2004,Hans Jörg Butt,Bayer 04 Leverkusen,Alemania,8,2,13,55
+2004,Oliver Kahn,Bayern Múnich,Alemania,10,2,13,69
+2004,Volkan Demirel,Fenerbahce,Turquía,1,1,0,0
+2004,Christian Abbiati,AC Milan,Italia,1,1,0,0
+2004,Carlo Cudicini,Chelsea FC,Italia,1,1,0,0
+2004,Fabián Carini,Inter de Milán,Uruguay / Italia,1,1,0,0
+2005,Jens Lehmann,Arsenal FC,Alemania,8,8,0,0
+2005,Víctor Valdés,FC Barcelona,España,12,7,5,216
+2005,Pepe Reina,Liverpool FC,España,8,5,4,180
+2005,Grégory Coupet,Olympique de Lyon,Francia,9,5,6,135
+2005,Tony Sylva,LOSC Lille,Senegal / Francia,6,4,2,270
+2005,Petr Cech,Chelsea FC,República Checa,7,4,4,158
+2005,Sebastián Viera,Villarreal CF,Uruguay / Italia,8,4,6,120
+2005,Heurelho Gomes,PSV Eindhoven,Brasil,8,4,11,65
+2005,Dida,AC Milan,Brasil,12,4,10,106
+2005,Mariano Barbosa,Villarreal CF,Argentina / Italia,4,3,1,360
+2005,Moretto,SL Benfica,Brasil / Italia,4,3,2,180
+2005,Júlio César,Inter de Milán,Brasil,5,3,3,150
+2005,Manuel Almunia,Arsenal FC,España,6,3,4,130
+2005,Edwin van der Sar,Manchester United,Países Bajos,6,3,4,135
+2005,Oliver Kahn,Bayern Múnich,Alemania,7,3,8,79
+2005,Quim,SL Benfica,Portugal,3,2,1,209
+2005,Toni Doblas,Real Betis Balompié,España,5,2,7,64
+2005,Christian Abbiati,Juventus de Turín,Italia,6,2,5,108
+2005,Maarten Stekelenburg,Ajax de Ámsterdam,Países Bajos,6,2,6,90
+2005,Frank Rost,FC Schalke 04,Alemania,6,2,9,60
+2005,Eldin Jakupović,FC Thun,Suiza / Bosnia y Herzegovina,6,2,9,60
+2005,Vítor Baía,FC Oporto,Portugal,6,2,9,60
+2005,Juraj Cobej,FC Petrzalka,Eslovaquia,6,2,9,60
+2005,Iker Casillas,Real Madrid CF,España,7,2,7,90
+2005,Zeljko Kalac,AC Milan,Australia / Croacia,1,1,0,0
+2006,Pepe Reina,Liverpool FC,España,12,7,7,154
+2006,Dida,AC Milan,Brasil,11,6,8,122
+2006,Doni,AS Roma,Brasil / Italia,10,5,12,75
+2006,Igor Akinfeev,CSKA Moscú,Rusia,6,4,5,108
+2006,Grégory Coupet,Olympique de Lyon,Francia,7,4,5,126
+2006,Víctor Valdés,FC Barcelona,España,8,4,6,120
+2006,Artur Boruc,Celtic FC,Polonia,8,4,10,72
+2006,Oliver Kahn,Bayern Múnich,Alemania,9,4,9,90
+2006,Heurelho Gomes,PSV Eindhoven,Brasil,10,4,11,82
+2006,Edwin van der Sar,Manchester United,Países Bajos,12,4,13,83
+2006,Tim Wiese,SV Werder Bremen,Alemania,5,3,3,150
+2006,Júlio César,Inter de Milán,Brasil,6,3,5,108
+2006,Jens Lehmann,Arsenal FC,Alemania,8,3,5,144
+2006,Helton,FC Oporto,Brasil / Portugal,8,3,7,103
+2006,Santiago Cañizares,Valencia CF,España,9,3,10,81
+2006,Zeljko Kalac,AC Milan,Australia / Croacia,3,2,2,96
+2006,Hilário,Chelsea FC,Portugal,3,2,2,135
+2006,Ricardo,Sporting de Lisboa,Portugal,6,2,6,90
+2006,Jesper Christiansen,FC Copenhague,Dinamarca,6,2,8,68
+2006,Quim,SL Benfica,Portugal,6,2,8,68
+2006,Stefano Sorrentino,AEK Atenas FC,Italia,6,2,9,60
+2006,Petr Cech,Chelsea FC,República Checa,8,2,10,72
+2006,Rémy Vercoutre,Olympique de Lyon,Francia,1,1,0,0
+2006,Grégory Malicki,LOSC Lille,Francia,1,1,0,0
+2006,Bozhidar Mitrev,Levski Sofia,Bulgaria,2,1,2,68
+2007,Víctor Valdés,FC Barcelona,España,11,8,5,198
+2007,Edwin van der Sar,Manchester United,Países Bajos,10,7,8,106
+2007,Manuel Almunia,Arsenal FC,España,8,5,8,90
+2007,Carlo Cudicini,Chelsea FC,Italia,5,4,2,170
+2007,Petr Cech,Chelsea FC,República Checa,9,4,11,70
+2007,Manuel Neuer,FC Schalke 04,Alemania,10,4,8,113
+2007,Pepe Reina,Liverpool FC,España,12,4,12,90
+2007,Santiago Cañizares,Valencia CF,España,4,3,2,180
+2007,Tomasz Kuszczak,Manchester United,Polonia / Inglaterra,5,3,2,163
+2007,Zeljko Kalac,AC Milan,Australia / Croacia,5,3,3,120
+2007,Helton,FC Oporto,Brasil / Portugal,7,3,7,90
+2007,Júlio César,Inter de Milán,Brasil,8,3,7,103
+2007,Antonis Nikopolidis,Olympiacos El Pireo,Grecia,8,3,10,72
+2007,Volkan Demirel,Fenerbahce,Turquía,10,3,16,56
+2007,Heurelho Gomes,PSV Eindhoven,Brasil,6,2,6,90
+2007,Allan McGregor,Rangers FC,Escocia,6,2,9,60
+2007,Steve Mandanda,Olympique de Marsella,Francia / RD del Congo,6,2,9,60
+2007,Lars Hirschfeld,Rosenborg BK,Canadá / Alemania,6,2,10,54
+2007,Rémy Vercoutre,Olympique de Lyon,Francia,6,2,10,54
+2007,Andriy Pyatov,Shakhtar Donetsk,Ucrania,6,2,11,49
+2007,Hilário,Chelsea FC,Portugal,1,1,0,0
+2007,Morgan De Sanctis,Sevilla FC,Italia,1,1,0,0
+2007,Michal Vorel,SK Slavia Praga,República Checa,1,1,0,0
+2007,Jens Lehmann,Arsenal FC,Alemania,2,1,1,180
+2007,Rui Patrício,Sporting de Lisboa,Portugal,2,1,2,90
+2008,Edwin van der Sar,Manchester United,Países Bajos,10,7,5,180
+2008,Petr Cech,Chelsea FC,República Checa,12,5,13,83
+2008,Michael Rensing,Bayern Múnich,Alemania / Serbia,7,4,4,158
+2008,Víctor Valdés,FC Barcelona,España,12,4,10,108
+2008,Lukasz Fabianski,Arsenal FC,Polonia,3,3,0,0
+2008,Alexander Manninger,Juventus de Turín,Austria,5,3,3,150
+2008,Stanislav Bogush,FC Dinamo de Kiev,Ucrania,6,3,4,135
+2008,Rui Patrício,Sporting de Lisboa,Portugal,6,3,14,37
+2008,Mario Galinovic,Panathinaikos FC,Croacia,7,3,8,79
+2008,Pepe Reina,Liverpool FC,España,9,3,11,74
+2008,Diego López,Villarreal CF,España,9,3,11,74
+2008,Manuel Almunia,Arsenal FC,España,10,3,17,49
+2008,Tiago Ferreira,Sporting de Lisboa,Portugal,3,2,5,39
+2008,Arjan Beqaj,Anorthosis Famagusta,Albania / Grecia,5,2,5,81
+2008,Leo Franco,Atlético de Madrid,Argentina / Italia,6,2,5,108
+2008,Artur Boruc,Celtic FC,Polonia,6,2,7,77
+2008,Vyacheslav Malafeev,Zenit de San Petersburgo,Rusia,6,2,7,77
+2008,Steve Mandanda,Olympique de Marsella,Francia / RD del Congo,6,2,7,77
+2008,Sébastien Frey,Fiorentina,Francia,6,2,8,68
+2008,Volkan Demirel,Fenerbahce,Turquía,6,2,11,49
+2008,Júlio César,Inter de Milán,Brasil,7,2,9,70
+2008,Iker Casillas,Real Madrid CF,España,7,2,10,63
+2008,Doni,AS Roma,Brasil / Italia,8,2,7,103
+2008,Helton,FC Oporto,Brasil / Portugal,9,2,12,68
+2008,Jerzy Dudek,Real Madrid CF,Polonia,1,1,0,0
+2009,Cédric Carrasso,Girondins de Burdeos,Francia,9,6,5,155
+2009,Víctor Valdés,FC Barcelona,España,12,6,10,108
+2009,Júlio César,Inter de Milán,Brasil,13,6,9,130
+2009,Hans Jörg Butt,Bayern Múnich,Alemania,13,5,15,78
+2009,Petr Cech,Chelsea FC,República Checa,6,4,4,128
+2009,Hugo Lloris,Olympique de Lyon,Francia,12,4,10,108
+2009,Gianluigi Buffon,Juventus de Turín,Italia,6,3,7,77
+2009,Helton,FC Oporto,Brasil / Portugal,7,3,8,79
+2009,Antonis Nikopolidis,Olympiacos El Pireo,Grecia,8,3,8,90
+2009,Rüştü Reçber,Besiktas JK,Turquía,4,2,4,90
+2009,Andrés Palop,Sevilla FC,España,5,2,4,113
+2009,Pepe Reina,Liverpool FC,España,5,2,5,90
+2009,Manuel Almunia,Arsenal FC,España,5,2,7,64
+2009,Sergey Ryzhikov,Rubin Kazan,Rusia,6,2,7,77
+2009,Diego Benaglio,VfL Wolfsburgo,Suiza / Italia,6,2,8,68
+2009,Edwin van der Sar,Manchester United,Países Bajos,6,2,9,60
+2009,Sébastien Frey,Fiorentina,Francia,7,2,9,70
+2009,Iker Casillas,Real Madrid CF,España,8,2,9,80
+2009,Hilário,Chelsea FC,Portugal,1,1,0,0
+2009,Roberto,Atlético de Madrid,España,1,1,0,0
+2009,Ulrich Ramé,Girondins de Burdeos,Francia,2,1,1,125
+2009,Ben Foster,Manchester United,Inglaterra,2,1,1,180
+2009,Vito Mannone,Arsenal FC,Italia,3,1,3,90
+2009,Oleksandr Shovkovskyi,FC Dinamo de Kiev,Ucrania,4,1,5,72
+2009,Giedrius Arlauskis,Unirea Urziceni ( - 2011),Lituania,5,1,7,64
+2010,Iker Casillas,Real Madrid CF,España,11,7,6,165
+2010,Edwin van der Sar,Manchester United,Países Bajos,10,6,6,150
+2010,Steve Mandanda,Olympique de Marsella,Francia / RD del Congo,8,5,5,144
+2010,Andriy Pyatov,Shakhtar Donetsk,Ucrania,10,5,14,64
+2010,Christian Abbiati,AC Milan,Italia,6,4,3,156
+2010,Petr Cech,Chelsea FC,República Checa,9,4,6,135
+2010,Felipe,SC Braga,Brasil,5,3,9,50
+2010,Sergey Ryzhikov,Rubin Kazan,Rusia,6,3,4,135
+2010,Johan Sellberg-Wiland,FC Copenhague,Suecia,8,3,7,103
+2010,Heurelho Gomes,Tottenham Hotspur,Brasil,8,3,10,64
+2010,Víctor Valdés,FC Barcelona,España,11,3,9,110
+2010,Manuel Neuer,FC Schalke 04,Alemania,12,3,14,77
+2010,Tomasz Kuszczak,Manchester United,Polonia / Inglaterra,2,2,0,0
+2010,José Manuel Pinto,FC Barcelona,España,2,2,0,0
+2010,Luca Castellazzi,Inter de Milán,Italia,3,2,3,75
+2010,César Sánchez,Valencia CF,España,4,2,2,180
+2010,Hans Jörg Butt,Bayern Múnich,Alemania,4,2,3,120
+2010,Thomas Kraft,Bayern Múnich,Alemania,4,2,6,60
+2010,Tim Wiese,SV Werder Bremen,Alemania,5,2,9,44
+2010,Allan McGregor,Rangers FC,Escocia,6,2,6,90
+2010,Andriy Dykan,FC Spartak de Moscú,Ucrania / Rusia,6,2,10,54
+2010,Vincent Enyeama,Hapoel Tel Aviv,Nigeria,6,2,10,54
+2010,Alexandros Tzorvas,Panathinaikos FC,Grecia,6,2,13,42
+2010,Hugo Lloris,Olympique de Lyon,Francia,8,2,14,51
+2010,Antonio Adán,Real Madrid CF,España,1,1,0,0
+2011,Iker Casillas,Real Madrid CF,España,10,5,10,90
+2011,Manuel Neuer,Bayern Múnich,Alemania,12,5,14,77
+2011,Petr Cech,Chelsea FC,República Checa,13,5,15,78
+2011,Kenneth Vermeer,Ajax de Ámsterdam,Países Bajos / Surinam,6,4,6,90
+2011,Hugo Lloris,Olympique de Lyon,Francia,8,4,12,60
+2011,Steve Mandanda,Olympique de Marsella,Francia / RD del Congo,9,4,7,116
+2011,Christian Abbiati,AC Milan,Italia,9,4,12,68
+2011,Artur Moraes,SL Benfica,Brasil / Italia,10,4,10,90
+2011,Víctor Valdés,FC Barcelona,España,11,4,10,99
+2011,Tolga Zengin,Trabzonspor,Turquía,6,3,5,108
+2011,Vyacheslav Malafeev,Zenit de San Petersburgo,Rusia,7,3,7,90
+2011,Wojciech Szczesny,Arsenal FC,Polonia,7,3,7,90
+2011,Mickaël Landreau,LOSC Lille,Francia,5,2,5,90
+2011,Urko Pardo,APOEL FC,Chipre / Bélgica,5,2,8,50
+2011,Joe Hart,Manchester City,Inglaterra,6,2,6,90
+2011,Helton,FC Oporto,Brasil / Portugal,6,2,7,77
+2011,Diego Alves,Valencia CF,Brasil / Italia,6,2,7,77
+2011,Vladimir Gabulov,CSKA Moscú,Rusia,6,2,8,68
+2011,Morgan De Sanctis,SSC Nápoles,Italia,8,2,11,65
+2011,José Manuel Pinto,FC Barcelona,España,1,1,0,0
+2011,Anders Lindegaard,Manchester United,Dinamarca,2,1,1,180
+2011,Antonio Adán,Real Madrid CF,España,2,1,2,90
+2011,Balázs Megyeri,Olympiacos El Pireo,Hungría,3,1,2,135
+2011,David de Gea,Manchester United,España,4,1,7,51
+2011,Marek Cech,FC Viktoria Plzen,República Checa,5,1,7,64
+2012,Helton,FC Oporto,Brasil / Portugal,8,5,6,120
+2012,Willy Caballero,Málaga CF,Argentina / España,9,5,7,116
+2012,Gianluigi Buffon,Juventus de Turín,Italia,10,5,8,113
+2012,Manuel Neuer,Bayern Múnich,Alemania,13,5,11,106
+2012,Roman Weidenfeller,Borussia Dortmund,Alemania,13,4,14,84
+2012,Artur Moraes,SL Benfica,Brasil / Italia,6,3,5,108
+2012,Salvatore Sirigu,París Saint-Germain FC,Italia,10,3,8,113
+2012,Víctor Valdés,FC Barcelona,España,11,3,17,58
+2012,Lars Unnerstall,FC Schalke 04,Alemania,5,2,5,90
+2012,Vicente Guaita,Valencia CF,España,6,2,6,90
+2012,Mário Felgueiras,CFR Cluj,Portugal,6,2,7,77
+2012,Silvio Proto,RSC Anderlecht,Bélgica / Italia,6,2,9,60
+2012,Vyacheslav Malafeev,Zenit de San Petersburgo,Rusia,6,2,9,60
+2012,Diego López,Real Madrid CF,España,6,2,9,60
+2012,Christian Abbiati,AC Milan,Italia,7,2,9,70
+2012,José Manuel Pinto,FC Barcelona,España,1,1,0,0
+2012,Lukasz Fabianski,Arsenal FC,Polonia,1,1,0,0
+2012,Steeve Elana,LOSC Lille,Martinica / Francia,2,1,1,180
+2012,Diego Alves,Valencia CF,Brasil / Italia,2,1,2,90
+2012,Oleksandr Shovkovskyi,FC Dinamo de Kiev,Ucrania,2,1,3,60
+2012,Wojciech Szczesny,Arsenal FC,Polonia,3,1,5,54
+2012,Maksym Koval,FC Dinamo de Kiev,Ucrania,4,1,7,51
+2012,Beto,SC Braga,Portugal,5,1,11,41
+2012,Petr Cech,Chelsea FC,República Checa,6,1,10,54
+2012,David de Gea,Manchester United,España,7,1,8,79
+2013,Petr Cech,Chelsea FC,República Checa,10,6,7,118
+2013,Iker Casillas,Real Madrid CF,España,13,6,9,122
+2013,David de Gea,Manchester United,España,10,5,9,100
+2013,Thibaut Courtois,Atlético de Madrid,Bélgica,12,5,10,108
+2013,Wojciech Szczesny,Arsenal FC,Polonia,7,4,5,116
+2013,Manuel Neuer,Bayern Múnich,Alemania,12,4,13,83
+2013,Víctor Valdés,FC Barcelona,España,6,3,3,180
+2013,Andriy Pyatov,Shakhtar Donetsk,Ucrania,6,3,6,90
+2013,Christian Abbiati,AC Milan,Italia,7,3,9,70
+2013,Roberto,Olympiacos El Pireo,España,8,3,11,65
+2013,Bernd Leno,Bayer 04 Leverkusen,Alemania,8,3,16,45
+2013,Salvatore Sirigu,París Saint-Germain FC,Italia,10,3,9,100
+2013,Mark Schwarzer,Chelsea FC,Australia / Alemania,3,2,3,84
+2013,Timo Hildebrand,FC Schalke 04,Alemania,4,2,6,60
+2013,Ralf Fährmann,FC Schalke 04,Alemania,4,2,9,40
+2013,Jasper Cillessen,Ajax de Ámsterdam,Países Bajos,5,2,4,113
+2013,Yuriy Lodygin,Zenit de San Petersburgo,Rusia / Grecia,7,2,13,48
+2013,Daniel Aranzubia,Atlético de Madrid,España,1,1,0,0
+2013,Rafael Cabral,SSC Nápoles,Brasil / Portugal,1,1,0,0
+2013,Mitchell Langerak,Borussia Dortmund,Australia,2,1,1,135
+2013,Claudio Bravo,Real Sociedad,Chile / España,5,1,9,50
+2013,Yann Sommer,FC Basilea,Suiza,6,1,6,90
+2013,Helton,FC Oporto,Brasil / Portugal,6,1,7,77
+2013,Artur Moraes,SL Benfica,Brasil / Italia,6,1,8,68
+2013,Ciprian Tătărușanu,FCSB,Rumania,6,1,10,54
+2014,Miguel Ángel Moyá,Atlético de Madrid,España,7,6,1,533
+2014,Danijel Subasic,AS Mónaco,Croacia,10,6,5,180
+2014,Manuel Neuer,Bayern Múnich,Alemania,12,6,13,83
+2014,Gianluigi Buffon,Juventus de Turín,Italia,13,6,10,117
+2014,Marc-André ter Stegen,FC Barcelona,Alemania,13,6,11,106
+2014,Iker Casillas,Real Madrid CF,España,10,5,9,100
+2014,Andriy Pyatov,Shakhtar Donetsk,Ucrania,8,4,11,65
+2014,Fabiano,FC Oporto,Chipre / Brasil,9,4,11,74
+2014,Gorka Iraizoz,Athletic Club,España,6,3,6,90
+2014,Yuriy Lodygin,Zenit de San Petersburgo,Rusia / Grecia,6,3,6,90
+2014,Roman Weidenfeller,Borussia Dortmund,Alemania,7,3,8,79
+2014,Bernd Leno,Bayer 04 Leverkusen,Alemania,8,3,8,90
+2014,Keylor Navas,Real Madrid CF,Costa Rica / España,2,2,0,0
+2014,Artur Moraes,SL Benfica,Brasil / Italia,3,2,1,198
+2014,Thibaut Courtois,Chelsea FC,Bélgica,5,2,4,113
+2014,Tomáš Vaclík,FC Basilea,República Checa,8,2,13,55
+2014,Salvatore Sirigu,París Saint-Germain FC,Italia,10,2,15,60
+2014,Emiliano Martínez,Arsenal FC,Argentina / España,2,1,1,180
+2014,Petr Cech,Chelsea FC,República Checa,3,1,2,135
+2014,David Ospina,Arsenal FC,Colombia / Francia,3,1,4,52
+2014,Júlio César,SL Benfica,Brasil,3,1,4,68
+2014,Jan Oblak,Atlético de Madrid,Eslovenia,4,1,6,56
+2014,Wojciech Szczesny,Arsenal FC,Polonia,4,1,6,55
+2014,Silvio Proto,RSC Anderlecht,Bélgica / Italia,5,1,9,50
+2014,Vladislav Stoyanov,Ludogorets Razgrad,Bulgaria,5,1,12,38
+2015,Keylor Navas,Real Madrid CF,Costa Rica / España,11,9,6,165
+2015,Jan Oblak,Atlético de Madrid,Eslovenia,13,8,13,90
+2015,Oleksandr Shovkovskyi,FC Dinamo de Kiev,Ucrania,7,5,5,126
+2015,Kevin Trapp,París Saint-Germain FC,Alemania,10,5,6,150
+2015,Jeroen Zoet,PSV Eindhoven,Países Bajos,8,4,7,103
+2015,Diego Benaglio,VfL Wolfsburgo,Suiza / Italia,8,4,9,80
+2015,Manuel Neuer,Bayern Múnich,Alemania,11,4,11,90
+2015,Asmir Begovic,Chelsea FC,Bosnia y Herzegovina / Canadá,5,3,3,150
+2015,Petr Cech,Arsenal FC,República Checa,5,3,7,64
+2015,Gianluigi Buffon,Juventus de Turín,Italia,8,3,9,80
+2015,Marc-André ter Stegen,FC Barcelona,Alemania,10,3,8,113
+2015,Joe Hart,Manchester City,Inglaterra,12,3,12,89
+2015,Yuriy Lodygin,Zenit de San Petersburgo,Rusia / Grecia,6,2,7,77
+2015,David de Gea,Manchester United,España,6,2,7,77
+2015,Sergio Rico,Sevilla FC,España,6,2,11,49
+2015,Júlio César,SL Benfica,Brasil,7,2,8,79
+2015,Morgan De Sanctis,AS Roma,Italia,1,1,0,0
+2015,Willy Caballero,Manchester City,Argentina / España,1,1,0,0
+2015,Sven Ulreich,Bayern Múnich,Alemania,1,1,0,0
+2015,Anton Kanibolotskyi,Shakhtar Donetsk,Ucrania,2,1,2,90
+2015,Koen Casteels,VfL Wolfsburgo,Bélgica,2,1,2,90
+2015,Kiko Casilla,Real Madrid CF,España,2,1,3,60
+2015,Thibaut Courtois,Chelsea FC,Bélgica,3,1,4,68
+2015,Iker Casillas,FC Oporto,España,6,1,8,68
+2015,Jaume Doménech,Valencia CF,España,6,1,9,60
+2016,Gianluigi Buffon,Juventus de Turín,Italia,12,8,7,154
+2016,Jan Oblak,Atlético de Madrid,Eslovenia,11,6,7,141
+2016,Kasper Schmeichel,Leicester City,Dinamarca,8,5,4,180
+2016,Sergio Rico,Sevilla FC,España,8,5,6,120
+2016,Robin Olsen,FC Copenhague,Suecia / Dinamarca,6,4,2,270
+2016,Marc-André ter Stegen,FC Barcelona,Alemania,9,4,12,68
+2016,Anthony Lopes,Olympique de Lyon,Portugal / Francia,6,3,3,180
+2016,Bernd Leno,Bayer 04 Leverkusen,Alemania,7,3,8,79
+2016,Ederson,SL Benfica,Brasil / Portugal,7,3,10,63
+2016,Iker Casillas,FC Oporto,España,8,3,6,120
+2016,Roman Bürki,Borussia Dortmund,Suiza,8,3,10,72
+2016,Artur Rudko,FC Dinamo de Kiev,Ucrania,5,2,4,113
+2016,Hugo Lloris,Tottenham Hotspur,Francia,6,2,6,90
+2016,David Ospina,Arsenal FC,Colombia / Francia,8,2,16,45
+2016,Manuel Neuer,Bayern Múnich,Alemania,9,2,11,74
+2016,Ramazan Özcan,Bayer 04 Leverkusen,Austria / Turquía,1,1,0,0
+2016,Jasper Cillessen,FC Barcelona,Países Bajos,1,1,0,0
+2016,Neto,Juventus de Turín,Brasil / Italia,1,1,0,0
+2016,Kevin Trapp,París Saint-Germain FC,Alemania,2,1,6,30
+2016,Claudio Bravo,Manchester City,Chile / España,4,1,5,65
+2016,Jeroen Zoet,PSV Eindhoven,Países Bajos,5,1,9,50
+2016,Vladislav Stoyanov,Ludogorets Razgrad,Bulgaria,5,1,12,38
+2016,Arkadiusz Malarz,Legia de Varsovia,Polonia,5,1,16,28
+2016,Alphonse Areola,París Saint-Germain FC,Francia / Filipinas,6,1,7,77
+2016,Rui Patrício,Sporting de Lisboa,Portugal,6,1,8,68
+2017,Loris Karius,Liverpool FC,Alemania,13,6,16,73
+2017,Marc-André ter Stegen,FC Barcelona,Alemania,9,5,6,135
+2017,Alisson,AS Roma,Brasil,12,5,19,57
+2017,David de Gea,Manchester United,España,6,4,3,180
+2017,Alphonse Areola,París Saint-Germain FC,Francia / Filipinas,8,4,9,80
+2017,Tomáš Vaclík,FC Basilea,República Checa,8,4,10,72
+2017,Ederson,Manchester City,Brasil / Portugal,9,4,10,81
+2017,Jan Oblak,Atlético de Madrid,Eslovenia,6,3,4,135
+2017,Gianluigi Buffon,Juventus de Turín,Italia,9,3,11,74
+2017,Sven Ulreich,Bayern Múnich,Alemania,11,3,12,83
+2017,Iker Casillas,FC Oporto,España,3,2,3,90
+2017,Thibaut Courtois,Chelsea FC,Bélgica,8,2,12,60
+2017,Sergio Rico,Sevilla FC,España,8,2,13,55
+2017,Keylor Navas,Real Madrid CF,Costa Rica / España,11,2,13,76
+2017,Roman Weidenfeller,Borussia Dortmund,Alemania,1,1,0,0
+2017,Michel Vorm,Tottenham Hotspur,Países Bajos / Surinam,1,1,0,0
+2017,Jasper Cillessen,FC Barcelona,Países Bajos,1,1,0,0
+2017,Manuel Neuer,Bayern Múnich,Alemania,1,1,0,0
+2017,Wojciech Szczesny,Juventus de Turín,Polonia,2,1,1,91
+2017,David Soria,Sevilla FC,España,2,1,2,90
+2017,Kiko Casilla,Real Madrid CF,España,2,1,3,60
+2017,Boy Waterman,APOEL FC,Países Bajos / Surinam,3,1,6,38
+2017,Frank Boeckx,RSC Anderlecht,Bélgica,3,1,8,34
+2017,Silvio Proto,Olympiacos El Pireo,Bélgica / Italia,5,1,10,45
+2017,Aleksandr Selikhov,FC Spartak de Moscú,Rusia,5,1,11,35
+2017,Loris Karius,Liverpool FC,Alemania,13,6,16,73
+2017,Marc-André ter Stegen,FC Barcelona,Alemania,9,5,6,135
+2017,Alisson,AS Roma,Brasil,12,5,19,57
+2017,David de Gea,Manchester United,España,6,4,3,180
+2017,Alphonse Areola,París Saint-Germain FC,Francia / Filipinas,8,4,9,80
+2017,Tomáš Vaclík,FC Basilea,República Checa,8,4,10,72
+2017,Ederson,Manchester City,Brasil / Portugal,9,4,10,81
+2017,Jan Oblak,Atlético de Madrid,Eslovenia,6,3,4,135
+2017,Gianluigi Buffon,Juventus de Turín,Italia,9,3,11,74
+2017,Sven Ulreich,Bayern Múnich,Alemania,11,3,12,83
+2017,Iker Casillas,FC Oporto,España,3,2,3,90
+2017,Thibaut Courtois,Chelsea FC,Bélgica,8,2,12,60
+2017,Sergio Rico,Sevilla FC,España,8,2,13,55
+2017,Keylor Navas,Real Madrid CF,Costa Rica / España,11,2,13,76
+2017,Roman Weidenfeller,Borussia Dortmund,Alemania,1,1,0,0
+2017,Michel Vorm,Tottenham Hotspur,Países Bajos / Surinam,1,1,0,0
+2017,Jasper Cillessen,FC Barcelona,Países Bajos,1,1,0,0
+2017,Manuel Neuer,Bayern Múnich,Alemania,1,1,0,0
+2017,Wojciech Szczesny,Juventus de Turín,Polonia,2,1,1,91
+2017,David Soria,Sevilla FC,España,2,1,2,90
+2017,Kiko Casilla,Real Madrid CF,España,2,1,3,60
+2017,Boy Waterman,APOEL FC,Países Bajos / Surinam,3,1,6,38
+2017,Frank Boeckx,RSC Anderlecht,Bélgica,3,1,8,34
+2017,Silvio Proto,Olympiacos El Pireo,Bélgica / Italia,5,1,10,45
+2017,Aleksandr Selikhov,FC Spartak de Moscú,Rusia,5,1,11,35
+2019,Manuel Neuer,Bayern Múnich,Alemania,11,6,8,124
+2019,Keylor Navas,París Saint-Germain FC,Costa Rica / España,9,5,6,133
+2019,Jan Oblak,Atlético de Madrid,Eslovenia,9,4,9,90
+2019,Sergio Rico,París Saint-Germain FC,España,3,3,0,0
+2019,Alex Meret,SSC Nápoles,Italia,6,3,4,135
+2019,André Onana,Ajax de Ámsterdam,Camerún,6,3,6,90
+2019,Ederson,Manchester City,Brasil / Portugal,8,3,7,96
+2019,Péter Gulácsi,RB Leipzig,Hungría,10,3,12,73
+2019,Paulo Gazzaniga,Tottenham Hotspur,Argentina / Italia,4,2,5,72
+2019,Wojciech Szczesny,Juventus de Turín,Polonia,7,2,6,105
+2019,Thibaut Courtois,Real Madrid CF,Bélgica,7,2,11,53
+2019,Pierluigi Gollini,Atalanta de Bérgamo,Italia,7,2,13,48
+2019,Roman Bürki,Borussia Dortmund,Suiza,8,2,11,65
+2019,Marc-André ter Stegen,FC Barcelona,Alemania,8,2,13,55
+2019,Anthony Lopes,Olympique de Lyon,Portugal / Francia,10,2,14,64
+2019,Yvon Mvogo,RB Leipzig,Suiza / Camerún,1,1,0,0
+2019,Léo Jardim,LOSC Lille,Brasil / Italia,1,1,0,0
+2019,Gianluigi Buffon,Juventus de Turín,Italia,1,1,0,0
+2019,Alphonse Areola,Real Madrid CF,Francia / Filipinas,2,1,1,135
+2019,Jaume Doménech,Valencia CF,España,2,1,4,45
+2019,Mikhail Kerzhakov,Zenit de San Petersburgo,Rusia,4,1,7,51
+2019,Alisson,Liverpool FC,Brasil,5,1,4,113
+2019,Gaëtan Coucke,KRC Genk,Bélgica,5,1,16,28
+2019,Samir Handanovič,Inter de Milán,Eslovenia,6,1,9,60
+2019,Lukas Hradecky,Bayer 04 Leverkusen,Finlandia / Eslovaquia,6,1,9,60
+2020,Edouard Mendy,Chelsea FC,Senegal / Guinea-Bissau,12,9,3,360
+2020,Ederson,Manchester City,Brasil / Portugal,12,7,5,216
+2020,Alisson,Liverpool FC,Brasil,7,5,5,126
+2020,Agustín Marchesín,FC Oporto,Argentina / Italia,9,5,9,90
+2020,Thibaut Courtois,Real Madrid CF,Bélgica,12,4,14,77
+2020,Roman Bürki,Borussia Dortmund,Suiza,4,3,1,360
+2020,Anatoliy Trubin,Shakhtar Donetsk,Ucrania,5,3,8,56
+2020,Manuel Neuer,Bayern Múnich,Alemania,8,3,8,90
+2020,Pierluigi Gollini,Atalanta de Bérgamo,Italia,3,2,1,270
+2020,Neto,FC Barcelona,Brasil / Italia,3,2,1,270
+2020,Yassine Bounou,Sevilla FC,Marruecos / Canadá,5,2,6,75
+2020,Samir Handanovič,Inter de Milán,Eslovenia,6,2,9,60
+2020,Wojciech Szczesny,Juventus de Turín,Polonia,7,2,8,79
+2020,Jan Oblak,Atlético de Madrid,Eslovenia,8,2,11,65
+2020,Yann Sommer,Borussia Mönchengladbach,Suiza,8,2,13,55
+2020,Keylor Navas,París Saint-Germain FC,Costa Rica / España,12,2,15,72
+2020,Gianluigi Buffon,Juventus de Turín,Italia,1,1,0,0
+2020,Adrián,Liverpool FC,España,1,1,0,0
+2020,Zack Steffen,Manchester City,Estados Unidos,1,1,0,0
+2020,Diogo Costa,FC Oporto,Portugal / Suiza,1,1,0,0
+2020,Caoimhín Kelleher,Liverpool FC,Irlanda,2,1,1,180
+2020,Matvey Safonov,FK Krasnodar,Rusia,4,1,8,45
+2020,Georgiy Bushchan,FC Dinamo de Kiev,Ucrania,4,1,9,40
+2020,David de Gea,Manchester United,España,5,1,8,56
+2020,Simon Mignolet,Club Brujas KV,Bélgica,5,1,9,50
+2021,Edouard Mendy,Chelsea FC,Senegal / Guinea-Bissau,9,5,7,116
+2021,Odysseas Vlachodimos,SL Benfica,Grecia / Alemania,10,5,17,53
+2021,Thibaut Courtois,Real Madrid CF,Bélgica,13,5,14,84
+2021,Manuel Neuer,Bayern Múnich,Alemania,9,4,6,135
+2021,Ederson,Manchester City,Brasil / Portugal,11,4,14,70
+2021,Alisson,Liverpool FC,Brasil,13,4,14,84
+2021,Ivo Grbic,LOSC Lille,Croacia,6,3,4,135
+2021,Marc-André ter Stegen,FC Barcelona,Alemania,6,3,9,60
+2021,Wojciech Szczesny,Juventus de Turín,Polonia,7,3,10,63
+2021,Samir Handanovič,Inter de Milán,Eslovenia,8,3,7,103
+2021,Jan Oblak,Atlético de Madrid,Eslovenia,10,3,10,90
+2021,Gerónimo Rulli,Villarreal CF,Argentina / Italia,12,3,16,68
+2021,Andriy Pyatov,Shakhtar Donetsk,Ucrania,3,2,2,133
+2021,Gianluigi Donnarumma,París Saint-Germain FC,Italia,5,2,6,75
+2021,Yassine Bounou,Sevilla FC,Marruecos / Canadá,6,2,5,108
+2021,Remko Pasveer,Ajax de Ámsterdam,Países Bajos,6,2,6,90
+2021,Gregor Kobel,Borussia Dortmund,Suiza,6,2,11,49
+2021,Diogo Costa,FC Oporto,Portugal / Suiza,6,2,11,49
+2021,Antonio Adán,Sporting de Lisboa,España,7,2,13,48
+2021,Tom Heaton,Manchester United,Inglaterra,1,1,0,0
+2021,Scott Carson,Manchester City,Inglaterra,1,1,0,0
+2021,Denys Boyko,FC Dinamo de Kiev,Ucrania,1,1,0,0
+2021,Mattia Perin,Juventus de Turín,Italia,1,1,0,0
+2021,Josep Martínez,RB Leipzig,España,1,1,0,0
+2021,Ciprian Tătărușanu,AC Milan,Rumania,3,1,2,135
+2022,André Onana,Inter de Milán,Camerún,13,8,11,106
+2022,Ederson,Manchester City,Brasil / Portugal,11,7,4,248
+2022,Simon Mignolet,Club Brujas KV,Bélgica,8,5,11,65
+2022,Thibaut Courtois,Real Madrid CF,Bélgica,10,5,11,82
+2022,Diogo Costa,FC Oporto,Portugal / Suiza,8,4,8,90
+2022,Alex Meret,SSC Nápoles,Italia,10,4,8,113
+2022,Manuel Neuer,Bayern Múnich,Alemania,3,3,0,0
+2022,Ciprian Tătărușanu,AC Milan,Rumania,5,3,5,90
+2022,Alisson,Liverpool FC,Brasil,8,3,12,60
+2022,Kepa Arrizabalaga,Chelsea FC,España,9,3,8,101
+2022,Marko Dmitrovic,Sevilla FC,Serbia,2,2,0,0
+2022,Sven Ulreich,Bayern Múnich,Alemania,3,2,2,135
+2022,Gregor Kobel,Borussia Dortmund,Suiza,4,2,2,158
+2022,Yann Sommer,Bayern Múnich,Suiza,4,2,4,90
+2022,Alexander Meyer,Borussia Dortmund,Alemania,5,2,5,81
+2022,Antonio Adán,Sporting de Lisboa,España,5,2,5,77
+2022,Hugo Lloris,Tottenham Hotspur,Francia,6,2,6,90
+2022,Lukas Hradecky,Bayer 04 Leverkusen,Finlandia / Eslovaquia,6,2,8,68
+2022,Janis Blaswich,RB Leipzig,Alemania,6,2,11,48
+2022,Mike Maignan,AC Milan,Francia / Guayana Francesa,7,2,6,105
+2022,Kevin Trapp,Eintracht Fráncfort​​,Alemania,8,2,13,55
+2022,Odysseas Vlachodimos,SL Benfica,Grecia / Alemania,10,2,13,69
+2022,Fraser Forster,Tottenham Hotspur,Inglaterra,2,1,1,180
+2022,Stefan Ortega,Manchester City,Alemania / España,2,1,1,180
+2022,Mathew Ryan,FC Copenhague,Australia / Escocia,2,1,3,60
+2023,Gregor Kobel,Borussia Dortmund,Suiza,12,6,10,108
+2023,Yann Sommer,Inter de Milán,Suiza,7,4,7,90
+2023,Álex Remiro,Real Sociedad,España,8,4,6,120
+2023,David Raya,Arsenal FC,España,9,4,7,116
+2023,Manuel Neuer,Bayern Múnich,Alemania,9,4,8,101
+2023,Ivan Provedel,SS Lazio,Italia,8,3,10,72
+2023,Gianluigi Donnarumma,París Saint-Germain FC,Italia,12,3,15,72
+2023,Alexander Schlager,Red Bull Salzburgo,Austria,6,2,8,68
+2023,Mike Maignan,AC Milan,Francia / Guayana Francesa,6,2,8,66
+2023,Dmytro Riznyk,Shakhtar Donetsk,Ucrania,6,2,12,45
+2023,Marc-André ter Stegen,FC Barcelona,Alemania,8,2,10,72
+2023,Diogo Costa,FC Oporto,Portugal / Suiza,8,2,12,60
+2023,Alex Meret,SSC Nápoles,Italia,8,2,13,55
+2023,Andriy Lunin,Real Madrid CF,Ucrania,8,2,13,55
+2023,Kamil Grabara,FC Copenhague,Polonia,8,2,14,51
+2023,Jan Oblak,Atlético de Madrid,Eslovenia,10,2,15,60
+2023,Marco Sportiello,AC Milan,Italia,1,1,0,0
+2023,Thibaut Courtois,Real Madrid CF,Bélgica,1,1,0,0
+2023,Timon Wellenreuther,Feyenoord,Alemania,2,1,3,60
+2023,Kepa Arrizabalaga,Real Madrid CF,España,4,1,5,72
+2023,Nick Pope,Newcastle United,Inglaterra,5,1,5,90
+2023,Anthony Racioppi,BSC Young Boys,Suiza,5,1,11,41
+2023,André Onana,Manchester United,Camerún,6,1,15,36
+2023,Ederson,Manchester City,Brasil / Portugal,7,1,10,63
+2023,Walter Benítez,PSV Eindhoven,Argentina / Francia,8,1,13,55
+2024,Yann Sommer,Inter de Milán,Suiza,14,7,16,79
+2024,David Raya,Arsenal FC,España,13,6,9,130
+2024,Gianluigi Donnarumma,París Saint-Germain FC,Italia,15,6,14,96
+2024,Marco Carnesecchi,Atalanta de Bérgamo,Italia,9,5,9,90
+2024,Emiliano Martínez,Aston Villa,Argentina / España,12,5,12,90
+2024,Manuel Neuer,Bayern Múnich,Alemania,10,4,11,75
+2024,Anatoliy Trubin,SL Benfica,Ucrania,12,4,19,57
+2024,Gregor Kobel,Borussia Dortmund,Suiza,13,4,19,62
+2024,Caoimhín Kelleher,Liverpool FC,Irlanda,4,3,3,120
+2024,Matej Kovar,Bayer 04 Leverkusen,República Checa,6,3,6,90
+2024,Alisson,Liverpool FC,Brasil,6,3,7,77
+2024,Michele Di Gregorio,Juventus de Turín,Italia,8,3,7,98
+2024,Kasper Schmeichel,Celtic FC,Dinamarca,10,3,17,53
+2024,Simon Mignolet,Club Brujas KV,Bélgica,12,3,19,57
+2024,Stefan Ortega,Manchester City,Alemania / España,2,2,0,0
+2024,Jonas Urbig,Bayern Múnich,Alemania,4,2,4,76
+2024,Lukas Hradecky,Bayer 04 Leverkusen,Finlandia / Eslovaquia,4,2,6,60
+2024,Iñaki Peña,FC Barcelona,España,5,2,5,90
+2024,Lukasz Skorupski,Bolonia,Polonia,7,2,8,79
+2024,Franco Israel,Sporting de Lisboa,Uruguay / Italia,8,2,12,60
+2024,Radoslaw Majecki,AS Mónaco,Polonia,8,2,14,51
+2024,Dmytro Riznyk,Shakhtar Donetsk,Ucrania,8,2,16,45
+2024,Wojciech Szczesny,FC Barcelona,Polonia,8,2,17,42
+2024,Marco Bizot,Stade Brestois 29,Países Bajos,9,2,14,58
+2024,Jan Oblak,Atlético de Madrid,Eslovenia,10,2,14,64
+2025,David Raya,Arsenal FC,España,4,4,0,0
+2025,Yann Sommer,Inter de Milán,Suiza,4,3,1,360
+2025,Nick Pope,Newcastle United,Inglaterra,4,3,2,180
+2025,Guglielmo Vicario,Tottenham Hotspur,Italia,4,3,2,180
+2025,Neofytos Michail,Pafos FC,Chipre,4,3,5,72
+2025,Giorgi Mamardashvili,Liverpool FC,Georgia,3,2,1,214
+2025,Thibaut Courtois,Real Madrid CF,Bélgica,4,2,2,180
+2025,Gianluigi Donnarumma,Manchester City,Italia,4,2,3,120
+2025,Marco Carnesecchi,Atalanta de Bérgamo,Italia,4,2,5,72
+2025,Philipp Köhn,AS Mónaco,Suiza / Alemania,4,2,6,60
+2025,Uğurcan Çakır,Galatasaray,Turquía,4,2,6,60
+2025,Alexandros Paschalakis,Olympiacos El Pireo,Grecia,1,1,0,0
+2025,Simon Mignolet,Club Brujas KV,Bélgica,1,1,0,0
+2025,Temirlan Anarbekov,Kairat Almaty,Kazajistán,2,1,2,90
+2025,Jakub Markovic,SK Slavia Praga,República Checa,2,1,3,60
+2025,Robert Sánchez,Chelsea FC,España / Inglaterra,3,1,5,54
+2025,Michael Zetterer,Eintracht Fráncfort​​,Alemania,3,1,6,45
+2025,Manuel Neuer,Bayern Múnich,Alemania,4,1,3,120
+2025,Gerónimo Rulli,Olympique de Marsella,Argentina / Italia,4,1,5,72
+2025,Lucas Chevalier,París Saint-Germain FC,Francia,4,1,5,72
+2025,Mateusz Kochalski,Qarabağ FK,Polonia,4,1,7,51
+2025,Vanja Milinković-Savić,SSC Nápoles,Serbia / España,4,1,9,40
+2025,Mark Flekken,Bayer 04 Leverkusen,Países Bajos,4,1,10,36
+2025,João Virgínia,Sporting de Lisboa,Portugal,1,0,1,90
+2025,Filip Jørgensen,Chelsea FC,Dinamarca / Suecia,1,0,1,90

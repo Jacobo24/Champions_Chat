@@ -1,0 +1,415 @@
+[
+  {
+    "id": "history_intro_uefa_champions_league",
+    "categoria": "history",
+    "tipo": "fact",
+    "season_year": 1993,
+    "titulo": "Transicion de la Copa de Europa a la Champions League",
+    "texto": "La temporada 1992-93 marca el nacimiento de la UEFA Champions League, que sustituye a la antigua Copa de Europa. El torneo adopta un formato mas atractivo para television, con fase de grupos y la posibilidad de que varios clubes del mismo pais participen segun el ranking. Tambien se introduce una identidad visual propia con himno y balon de estrellas.",
+    "metadata": {
+      "season_label": "1992-93",
+      "tema": "transicion_copa_europa_champions"
+    }
+  },
+
+  {
+    "id": "history_decada_1990",
+    "categoria": "history",
+    "tipo": "fact",
+    "season_year": 1999,
+    "titulo": "Decada de 1990 en la Champions moderna",
+    "texto": "En la decada de 1990 la recien creada Champions League combina el legado de la Copa de Europa con un formato moderno. Aparecen campeones como Marseille, Ajax, Juventus y Borussia Dortmund. La final de 1999 del Manchester United es una de las mas iconicas. En esta epoca se estabiliza la fase de grupos y el torneo comienza a internacionalizarse masivamente.",
+    "metadata": {
+      "tema": "decada",
+      "periodo": "1990s"
+    }
+  },
+  {
+    "id": "history_decada_2000",
+    "categoria": "history",
+    "tipo": "fact",
+    "season_year": 2005,
+    "titulo": "Decada de 2000: globalizacion y galacticos",
+    "texto": "La decada de 2000 esta marcada por la globalizacion del futbol de clubes. Real Madrid, Milan, Liverpool y Barcelona destacan en este periodo. Finales como las de 2002, 2003, 2004 y 2005 producen imagenes iconicas como la volea de Zidane, la final italiana de Old Trafford o la remontada del Liverpool en Estambul. El formato de 32 equipos y 8 grupos se convierte en estandar.",
+    "metadata": {
+      "tema": "decada",
+      "periodo": "2000s"
+    }
+  },
+  {
+    "id": "history_decada_2010",
+    "categoria": "history",
+    "tipo": "fact",
+    "season_year": 2015,
+    "titulo": "Decada de 2010: dominio espanol y revolucion tactica",
+    "texto": "En la decada de 2010 el futbol espanol domina la Champions con Barcelona y Real Madrid como grandes referencias. El Barcelona de Guardiola y luego de Luis Enrique marca una epoca con su juego de posicion. El Real Madrid logra cuatro Champions entre 2014 y 2018, incluidos tres titulos consecutivos bajo la direccion de Zidane. Bayern y Chelsea tambien ganan titulos en esta decada.",
+    "metadata": {
+      "tema": "decada",
+      "periodo": "2010s"
+    }
+  },
+  {
+    "id": "history_decada_2020",
+    "categoria": "history",
+    "tipo": "fact",
+    "season_year": 2023,
+    "titulo": "Decada de 2020: pressing, pandemia y cambios estructurales",
+    "texto": "La decada de 2020 comienza con la pandemia de COVID-19, que provoca un formato excepcional Final 8 en Lisboa en 2020. Bayern, Chelsea, Real Madrid y Manchester City se reparten los titulos. Se intensifica el juego de presion alta y analisis de datos. UEFA introduce un nuevo formato tipo liga a partir de 2024-25, eliminando la clasica fase de grupos.",
+    "metadata": {
+      "tema": "decada",
+      "periodo": "2020s"
+    }
+  },
+
+  {
+    "id": "history_1992_93_marseille",
+    "categoria": "history",
+    "tipo": "fact",
+    "season_year": 1993,
+    "titulo": "Temporada 1992-93: primer campeon de la era Champions",
+    "texto": "El Olympique de Marseille gana la primera Champions moderna en 1992-93. Vence 1-0 al Milan con un gol de Basile Boli. Es el primer y unico titulo de Champions para un club frances. La temporada simboliza la transicion definitiva hacia el nuevo formato europeo.",
+    "metadata": {
+      "season_label": "1992-93",
+      "campeon": "Olympique de Marseille",
+      "subcampeon": "Milan",
+      "revelacion": "Marseille"
+    }
+  },
+  {
+    "id": "history_1998_99_manchester_united",
+    "categoria": "history",
+    "tipo": "fact",
+    "season_year": 1999,
+    "titulo": "Temporada 1998-99: remontada historica del Manchester United",
+    "texto": "El Manchester United gana la Champions 1998-99 tras remontar 1-0 al Bayern Munich en el tiempo anadido. Los goles de Sheringham y Solskjaer en los minutos 90+1 y 90+3 deciden la final. El United completa un triplete historico esta temporada.",
+    "metadata": {
+      "season_label": "1998-99",
+      "campeon": "Manchester United",
+      "subcampeon": "Bayern Munich",
+      "revelacion": "Fiorentina"
+    }
+  },
+  {
+    "id": "history_2003_04_porto_depor_monaco_chelsea",
+    "categoria": "history",
+    "tipo": "fact",
+    "season_year": 2004,
+    "titulo": "Temporada 2003-04: la Champions de las sorpresas",
+    "texto": "En 2003-04 los cuatro semifinalistas (Porto, Deportivo, Monaco y Chelsea) nunca habian ganado la Champions ni la Copa de Europa. El Deportivo remonta al Milan con un 4-0 en Riazor tras perder 4-1 en San Siro. El Porto de Mourinho gana la final ante el Monaco y completa una temporada historica.",
+    "metadata": {
+      "season_label": "2003-04",
+      "campeon": "Porto",
+      "subcampeon": "Monaco",
+      "revelacion": "Deportivo de La Coruna"
+    }
+  },
+  {
+    "id": "history_2004_05_liverpool_milan",
+    "categoria": "history",
+    "tipo": "fact",
+    "season_year": 2005,
+    "titulo": "Temporada 2004-05: el Milagro de Estambul",
+    "texto": "La final de Estambul 2005 entre Liverpool y Milan es una de las mas recordadas. El Milan gana 3-0 al descanso, pero el Liverpool empata 3-3 y gana en los penaltis. Se considera la mayor remontada en una final de Champions.",
+    "metadata": {
+      "season_label": "2004-05",
+      "campeon": "Liverpool",
+      "subcampeon": "Milan",
+      "revelacion": "PSV Eindhoven"
+    }
+  },
+  {
+    "id": "history_2008_09_barcelona_triplete",
+    "categoria": "history",
+    "tipo": "fact",
+    "season_year": 2009,
+    "titulo": "Temporada 2008-09: primer triplete del Barcelona",
+    "texto": "El Barcelona de Pep Guardiola gana liga, copa y Champions en 2008-09. En la final de Roma derrota 2-0 al Manchester United. El equipo se convierte en una referencia mundial por su juego de posicion.",
+    "metadata": {
+      "season_label": "2008-09",
+      "campeon": "Barcelona",
+      "subcampeon": "Manchester United",
+      "revelacion": "Porto"
+    }
+  },
+  {
+    "id": "history_2013_14_real_madrid_decima",
+    "categoria": "history",
+    "tipo": "fact",
+    "season_year": 2014,
+    "titulo": "Temporada 2013-14: la Decima del Real Madrid",
+    "texto": "El Real Madrid gana la Champions 2013-14 tras empatar la final en el minuto 93 con un gol de Sergio Ramos. En la prorroga vence 4-1 al Atletico de Madrid. El titulo abre una nueva etapa de dominio madridista.",
+    "metadata": {
+      "season_label": "2013-14",
+      "campeon": "Real Madrid",
+      "subcampeon": "Atletico de Madrid",
+      "revelacion": "Atletico de Madrid"
+    }
+  },
+  {
+    "id": "history_2018_19_liverpool_ajax",
+    "categoria": "history",
+    "tipo": "fact",
+    "season_year": 2019,
+    "titulo": "Temporada 2018-19: remontadas historicas",
+    "texto": "La Champions 2018-19 destaca por las remontadas. El Liverpool elimina al Barcelona tras un 4-0 en Anfield. El Tottenham remonta al Ajax en el ultimo minuto para llegar a la final. El Liverpool gana la final 2-0 ante el Tottenham.",
+    "metadata": {
+      "season_label": "2018-19",
+      "campeon": "Liverpool",
+      "subcampeon": "Tottenham",
+      "revelacion": "Ajax"
+    }
+  },
+  {
+    "id": "history_2019_20_final_8",
+    "categoria": "history",
+    "tipo": "fact",
+    "season_year": 2020,
+    "titulo": "Temporada 2019-20: Final 8 y dominio del Bayern",
+    "texto": "Por la pandemia de COVID-19, la Champions 2019-20 se define en un formato Final 8 a partido unico en Lisboa. El Bayern Munich derrota 8-2 al Barcelona en cuartos y gana la final al Paris Saint Germain.",
+    "metadata": {
+      "season_label": "2019-20",
+      "campeon": "Bayern Munich",
+      "subcampeon": "Paris Saint Germain",
+      "revelacion": "RB Leipzig"
+    }
+  },
+  {
+    "id": "history_2021_22_real_madrid_remontadas",
+    "categoria": "history",
+    "tipo": "fact",
+    "season_year": 2022,
+    "titulo": "Temporada 2021-22: la Champions de las remontadas del Madrid",
+    "texto": "El Real Madrid remonta tres eliminatorias consecutivas ante PSG, Chelsea y Manchester City. En la final derrota 1-0 al Liverpool con gol de Vinicius y una actuacion legendaria de Courtois.",
+    "metadata": {
+      "season_label": "2021-22",
+      "campeon": "Real Madrid",
+      "subcampeon": "Liverpool",
+      "revelacion": "Villarreal"
+    }
+  },
+  {
+    "id": "history_2022_23_manchester_city",
+    "categoria": "history",
+    "tipo": "fact",
+    "season_year": 2023,
+    "titulo": "Temporada 2022-23: el primer titulo de Champions del City",
+    "texto": "El Manchester City gana su primera Champions League en 2023. El equipo de Guardiola completa un triplete historico y vence en la final al Inter de Milan.",
+    "metadata": {
+      "season_label": "2022-23",
+      "campeon": "Manchester City",
+      "subcampeon": "Inter de Milan",
+      "revelacion": "Inter de Milan"
+    }
+  },
+  {
+    "id": "history_2023_24_real_madrid_dortmund",
+    "categoria": "history",
+    "tipo": "fact",
+    "season_year": 2024,
+    "titulo": "Temporada 2023-24: nuevo titulo del Real Madrid",
+    "texto": "El Real Madrid gana la Champions 2023-24 frente al Borussia Dortmund en Wembley. Dani Carvajal y Vinicius Junior anotan los goles del titulo. Dortmund firma una gran temporada llegando a la final.",
+    "metadata": {
+      "season_label": "2023-24",
+      "campeon": "Real Madrid",
+      "subcampeon": "Borussia Dortmund",
+      "revelacion": "Borussia Dortmund"
+    }
+  },
+
+  {
+    "id": "history_all_time_top_scorers",
+    "categoria": "history",
+    "tipo": "fact",
+    "season_year": null,
+    "titulo": "Maximos goleadores historicos de la Champions League",
+    "texto": "Cristiano Ronaldo es el maximo goleador de la historia de la Champions con 140 goles en 183 partidos. Le siguen Lionel Messi con 129 goles en 163 partidos y Robert Lewandowski con 105 goles. Otros goleadores destacados incluyen a Karim Benzema con 90, Raul con 71, Ruud van Nistelrooy con 56 y Thierry Henry con 50.",
+    "metadata": {
+      "tema": "estadisticas_globales",
+      "subtema": "maximos_goleadores",
+      "top_scorers": [
+        {
+          "player_name": "Cristiano Ronaldo",
+          "apps": 183,
+          "goals": 140,
+          "assists": 50,
+          "penalties": 19
+        },
+        {
+          "player_name": "Lionel Messi",
+          "apps": 163,
+          "goals": 129,
+          "assists": 45,
+          "penalties": 18
+        },
+        {
+          "player_name": "Robert Lewandowski",
+          "apps": 114,
+          "goals": 105,
+          "assists": 26,
+          "penalties": 19
+        },
+        {
+          "player_name": "Karim Benzema",
+          "apps": 152,
+          "goals": 90,
+          "assists": 30,
+          "penalties": 3
+        },
+        {
+          "player_name": "Raul",
+          "apps": 142,
+          "goals": 71,
+          "assists": 32,
+          "penalties": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "history_all_time_top_goalkeepers",
+    "categoria": "history",
+    "tipo": "fact",
+    "season_year": null,
+    "titulo": "Porteros mas destacados en la historia de la Champions League",
+    "texto": "Entre los porteros con mejores registros historicos destacan Manuel Neuer, Iker Casillas y Gianluigi Buffon. Neuer suma 63 porterias a cero en 155 partidos. Casillas tiene 59 en 177 encuentros y Buffon 53 en 124. Otros guardametas importantes son Edwin van der Sar, Petr Cech, Victor Valdes, Jan Oblak, Dida, Oliver Kahn y Ederson.",
+    "metadata": {
+      "tema": "estadisticas_globales",
+      "subtema": "porteros_historicos",
+      "top_goalkeepers": [
+        {
+          "player_name": "Manuel Neuer",
+          "apps": 155,
+          "clean_sheets": 63,
+          "goals_conceded": 150,
+          "minutes_per_goal_conceded": 92
+        },
+        {
+          "player_name": "Iker Casillas",
+          "apps": 177,
+          "clean_sheets": 59,
+          "goals_conceded": 204,
+          "minutes_per_goal_conceded": 77
+        },
+        {
+          "player_name": "Gianluigi Buffon",
+          "apps": 124,
+          "clean_sheets": 53,
+          "goals_conceded": 118,
+          "minutes_per_goal_conceded": 95
+        },
+        {
+          "player_name": "Edwin van der Sar",
+          "apps": 98,
+          "clean_sheets": 51,
+          "goals_conceded": 85,
+          "minutes_per_goal_conceded": 104
+        },
+        {
+          "player_name": "Petr Cech",
+          "apps": 111,
+          "clean_sheets": 49,
+          "goals_conceded": 115,
+          "minutes_per_goal_conceded": 86
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "history_rule_gol_visitante_eliminado",
+    "categoria": "history",
+    "tipo": "fact",
+    "season_year": 2021,
+    "titulo": "Eliminacion de la regla del gol de visitante",
+    "texto": "Hasta la temporada 2020-21 se utilizaba la regla del gol de visitante para desempatar eliminatorias. A partir de 2021-22 la UEFA elimina esta norma. Si hay empate en el global, se juega prorroga y penaltis sin ventaja por goles fuera de casa.",
+    "metadata": {
+      "tema": "cambios_reglamento",
+      "subtema": "gol_visitante"
+    }
+  },
+  {
+    "id": "history_rule_var",
+    "categoria": "history",
+    "tipo": "fact",
+    "season_year": 2019,
+    "titulo": "Introduccion del VAR en la Champions League",
+    "texto": "El VAR se introduce en la Champions a finales de la decada de 2010. Revisa goles, penaltis, tarjetas rojas y errores de identidad. Su llegada cambia el analisis de muchas jugadas decisivas en eliminatorias.",
+    "metadata": {
+      "tema": "cambios_reglamento",
+      "subtema": "var"
+    }
+  },
+  {
+    "id": "history_rule_nuevo_formato_2024",
+    "categoria": "history",
+    "tipo": "fact",
+    "season_year": 2024,
+    "titulo": "Nuevo formato a partir de 2024-25",
+    "texto": "Desde 2024-25 la Champions abandona la fase de grupos tradicional y adopta una fase de liga con 36 equipos. Cada club juega contra 8 rivales y la clasificacion es unica. Los 8 primeros pasan a octavos y del 9 al 24 juegan play-offs.",
+    "metadata": {
+      "tema": "cambios_formato",
+      "subtema": "league_phase"
+    }
+  },
+
+  {
+    "id": "history_qa_001_origen_champions",
+    "categoria": "history",
+    "tipo": "qa",
+    "season_year": 1993,
+    "question": "Cuando empieza la UEFA Champions League y que cambia respecto a la Copa de Europa?",
+    "answer": "La UEFA Champions League empieza en la temporada 1992-93. Se introduce una fase de grupos, una identidad visual propia y la participacion de varios clubes por pais en funcion del ranking europeo.",
+    "metadata": {
+      "tema": "historia_general",
+      "nivel": "basico"
+    }
+  },
+  {
+    "id": "history_qa_002_gol_visitante",
+    "categoria": "history",
+    "tipo": "qa",
+    "season_year": 2021,
+    "question": "Cuando se elimino la regla del gol de visitante en la Champions?",
+    "answer": "La regla del gol de visitante se elimino en la temporada 2021-22. Hasta entonces, en caso de empate en el global pasaba el equipo que marcaba mas goles fuera de casa.",
+    "metadata": {
+      "tema": "cambios_reglamento",
+      "nivel": "medio"
+    }
+  },
+  {
+    "id": "history_qa_003_finales_iconicas",
+    "categoria": "history",
+    "tipo": "qa",
+    "season_year": 2005,
+    "question": "Cuales son algunas de las finales mas iconicas de la Champions moderna?",
+    "answer": "Entre las finales mas recordadas estan la de 1999 con la remontada del Manchester United, la de 2005 con el Milagro de Estambul, la de 2013-14 con el gol de Ramos en el minuto 93 y la final de 2018-19 marcada por grandes remontadas previas.",
+    "metadata": {
+      "tema": "finales_iconicas",
+      "nivel": "medio"
+    }
+  },
+  {
+    "id": "history_qa_004_maximo_goleador_historia",
+    "categoria": "history",
+    "tipo": "qa",
+    "season_year": null,
+    "question": "Quien es el maximo goleador de la historia de la Champions League?",
+    "answer": "Cristiano Ronaldo es el maximo goleador de la historia de la Champions League con 140 goles en 183 partidos.",
+    "metadata": {
+      "tema": "estadisticas_globales",
+      "nivel": "basico"
+    }
+  },
+  {
+    "id": "history_qa_005_portero_con_mas_porterias_cero",
+    "categoria": "history",
+    "tipo": "qa",
+    "season_year": null,
+    "question": "Que portero tiene mas porterias a cero en la Champions League?",
+    "answer": "Manuel Neuer es el portero con mas porterias a cero en la historia de la Champions con 63, seguido de Iker Casillas con 59 y Gianluigi Buffon con 53.",
+    "metadata": {
+      "tema": "estadisticas_globales",
+      "nivel": "medio"
+    }
+  }
+]

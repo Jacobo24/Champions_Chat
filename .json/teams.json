@@ -18,25 +18,7 @@
       "goals_for": 698,
       "goals_against": 371,
       "seasons_first": 1995,
-      "seasons_last": 2025,
-      "ucl_titles": 15,
-      "ucl_titles_seasons": [
-        "1955-56",
-        "1956-57",
-        "1957-58",
-        "1958-59",
-        "1959-60",
-        "1965-66",
-        "1997-98",
-        "1999-2000",
-        "2001-02",
-        "2013-14",
-        "2015-16",
-        "2016-17",
-        "2017-18",
-        "2021-22",
-        "2023-24"
-      ]
+      "seasons_last": 2025
     }
   },
   {
@@ -58,15 +40,7 @@
       "goals_for": 626,
       "goals_against": 333,
       "seasons_first": 1992,
-      "seasons_last": 2025,
-      "ucl_titles": 5,
-      "ucl_titles_seasons": [
-        "1991-92",
-        "2005-06",
-        "2008-09",
-        "2010-11",
-        "2014-15"
-      ]
+      "seasons_last": 2025
     }
   },
   {
@@ -88,16 +62,7 @@
       "goals_for": 632,
       "goals_against": 315,
       "seasons_first": 1994,
-      "seasons_last": 2025,
-      "ucl_titles": 6,
-      "ucl_titles_seasons": [
-        "1973-74",
-        "1974-75",
-        "1975-76",
-        "2000-01",
-        "2012-13",
-        "2019-20"
-      ]
+      "seasons_last": 2025
     }
   },
   {
@@ -119,17 +84,7 @@
       "goals_for": 290,
       "goals_against": 197,
       "seasons_first": 1992,
-      "seasons_last": 2025,
-      "ucl_titles": 7,
-      "ucl_titles_seasons": [
-        "1962-63",
-        "1968-69",
-        "1988-89",
-        "1989-90",
-        "1993-94",
-        "2002-03",
-        "2006-07"
-      ]
+      "seasons_last": 2025
     }
   },
   {
@@ -151,16 +106,7 @@
       "goals_for": 291,
       "goals_against": 160,
       "seasons_first": 2001,
-      "seasons_last": 2025,
-      "ucl_titles": 6,
-      "ucl_titles_seasons": [
-        "1976-77",
-        "1977-78",
-        "1980-81",
-        "1983-84",
-        "2004-05",
-        "2018-19"
-      ]
+      "seasons_last": 2025
     }
   },
   {
@@ -182,13 +128,7 @@
       "goals_for": 420,
       "goals_against": 251,
       "seasons_first": 1993,
-      "seasons_last": 2024,
-      "ucl_titles": 3,
-      "ucl_titles_seasons": [
-        "1967-68",
-        "1998-99",
-        "2007-08"
-      ]
+      "seasons_last": 2024
     }
   },
   {
@@ -210,12 +150,7 @@
       "goals_for": 334,
       "goals_against": 181,
       "seasons_first": 1999,
-      "seasons_last": 2023,
-      "ucl_titles": 2,
-      "ucl_titles_seasons": [
-        "2011-12",
-        "2020-21"
-      ]
+      "seasons_last": 2023
     }
   },
   {
@@ -237,11 +172,7 @@
       "goals_for": 287,
       "goals_against": 162,
       "seasons_first": 2012,
-      "seasons_last": 2025,
-      "ucl_titles": 1,
-      "ucl_titles_seasons": [
-        "2022-23"
-      ]
+      "seasons_last": 2025
     }
   },
   {
@@ -263,11 +194,7 @@
       "goals_for": 328,
       "goals_against": 189,
       "seasons_first": 1994,
-      "seasons_last": 2025,
-      "ucl_titles": 1,
-      "ucl_titles_seasons": [
-        "2024-25"
-      ]
+      "seasons_last": 2025
     }
   },
   {
@@ -289,12 +216,7 @@
       "goals_for": 356,
       "goals_against": 237,
       "seasons_first": 1995,
-      "seasons_last": 2025,
-      "ucl_titles": 2,
-      "ucl_titles_seasons": [
-        "1984-85",
-        "1995-96"
-      ]
+      "seasons_last": 2025
     }
   },
   {
@@ -316,9 +238,7 @@
       "goals_for": 197,
       "goals_against": 137,
       "seasons_first": 1996,
-      "seasons_last": 2025,
-      "ucl_titles": 0,
-      "ucl_titles_seasons": []
+      "seasons_last": 2025
     }
   },
   {
@@ -340,11 +260,7 @@
       "goals_for": 281,
       "goals_against": 209,
       "seasons_first": 1995,
-      "seasons_last": 2025,
-      "ucl_titles": 1,
-      "ucl_titles_seasons": [
-        "1996-97"
-      ]
+      "seasons_last": 2025
     }
   },
   {
@@ -366,14 +282,7 @@
       "goals_for": 203,
       "goals_against": 165,
       "seasons_first": 1994,
-      "seasons_last": 2023,
-      "ucl_titles": 4,
-      "ucl_titles_seasons": [
-        "1970-71",
-        "1971-72",
-        "1972-73",
-        "1994-95"
-      ]
+      "seasons_last": 2023
     }
   },
   {
@@ -395,12 +304,7 @@
       "goals_for": 318,
       "goals_against": 259,
       "seasons_first": 1992,
-      "seasons_last": 2024,
-      "ucl_titles": 2,
-      "ucl_titles_seasons": [
-        "1986-87",
-        "2003-04"
-      ]
+      "seasons_last": 2024
     }
   },
   {
@@ -422,13 +326,7 @@
       "goals_for": 235,
       "goals_against": 182,
       "seasons_first": 1998,
-      "seasons_last": 2025,
-      "ucl_titles": 3,
-      "ucl_titles_seasons": [
-        "1963-64",
-        "1964-65",
-        "2009-10"
-      ]
+      "seasons_last": 2025
     }
   },
   {
@@ -450,9 +348,7 @@
       "goals_for": 133,
       "goals_against": 148,
       "seasons_first": 2001,
-      "seasons_last": 2019,
-      "ucl_titles": 0,
-      "ucl_titles_seasons": []
+      "seasons_last": 2019
     }
   },
   {
@@ -462,7 +358,7 @@
     "team_name": "Tottenham",
     "season_year": null,
     "titulo": "Perfil historico del Tottenham en la Champions League",
-    "texto": "El Tottenham es un club ingles que ha tenido participaciones mas puntuales en la Champions, pero con una campaña muy llamativa en 2018-19, cuando llega a la final tras una remontada epica al Ajax en semifinales. Desde 2011 hasta 2023 ha disputado 53 partidos de Champions, con 23 victorias, 12 empates y 18 derrotas. Ha marcado 89 goles y ha encajado 74.",
+    "texto": "El Tottenham es un club ingles que ha tenido participaciones mas puntuales en la Champions, pero con una campaña muy llamativa en 2018-19, cuando llega a la final tras una remontada epica ante el Ajax en semifinales. Desde 2011 hasta 2023 ha disputado 53 partidos de Champions, con 23 victorias, 12 empates y 18 derrotas. Ha marcado 89 goles y ha encajado 74.",
     "metadata": {
       "team_name_en": "Tottenham",
       "country": "Inglaterra",
@@ -474,9 +370,7 @@
       "goals_for": 89,
       "goals_against": 74,
       "seasons_first": 2011,
-      "seasons_last": 2023,
-      "ucl_titles": 0,
-      "ucl_titles_seasons": []
+      "seasons_last": 2023
     }
   },
 

@@ -1,0 +1,467 @@
+[
+  {
+    "id": "coach_carlo_ancelotti_profile",
+    "categoria": "coach",
+    "tipo": "fact",
+    "entrenador": "Carlo Ancelotti",
+    "season_year": null,
+    "titulo": "Perfil historico de Carlo Ancelotti en la Champions League",
+    "texto": "Carlo Ancelotti es el entrenador mas exitoso de la historia de la Champions League. Ha dirigido 191 partidos en la competicion con Milan, Chelsea, Paris Saint Germain, Bayern Munich, Napoli y Real Madrid. Sus cifras generales en Champions son 107 victorias, 48 empates y 36 derrotas. Su estilo se basa en la flexibilidad táctica, la gestion emocional del vestuario y la adaptacion al talento disponible. Ha ganado cuatro Champions League como entrenador: 2003 y 2007 con Milan, 2014 y 2022 con Real Madrid. Tambien fue finalista en 2005. Su capacidad para gestionar momentos clave y para extraer el maximo de sus jugadores le ha convertido en una figura unica en Europa.",
+    "metadata": {
+      "equipos_dirigidos": ["Milan", "Chelsea", "Paris Saint Germain", "Bayern Munich", "Napoli", "Real Madrid"],
+      "matches": 191,
+      "wins": 107,
+      "draws": 48,
+      "losses": 36,
+      "ucl_titles": 4,
+      "titles": [2003, 2007, 2014, 2022],
+      "titles_detail": [
+        { "season": "2002-03", "team": "Milan" },
+        { "season": "2006-07", "team": "Milan" },
+        { "season": "2013-14", "team": "Real Madrid" },
+        { "season": "2021-22", "team": "Real Madrid" }
+      ]
+    }
+  },
+
+  {
+    "id": "coach_pep_guardiola_profile",
+    "categoria": "coach",
+    "tipo": "fact",
+    "entrenador": "Pep Guardiola",
+    "season_year": null,
+    "titulo": "Perfil historico de Pep Guardiola en la Champions League",
+    "texto": "Pep Guardiola es uno de los entrenadores mas influyentes del futbol moderno y un innovador del juego de posicion. Ha dirigido 167 partidos de Champions con Barcelona, Bayern Munich y Manchester City. Sus cifras: 103 victorias, 34 empates y 30 derrotas. Ha ganado tres Champions League: 2009 y 2011 con el Barcelona, y 2023 con el Manchester City. Tambien fue finalista en 2021 con el City. Su estilo se caracteriza por posesion dominante, presion tras perdida, estructuras flexibles y creacion constante de superioridades numericas. Es considerado uno de los tecnicos mas consistentes de la era moderna, alcanzando numerosas semifinales entre 2009 y 2024.",
+    "metadata": {
+      "equipos_dirigidos": ["Barcelona", "Bayern Munich", "Manchester City"],
+      "matches": 167,
+      "wins": 103,
+      "draws": 34,
+      "losses": 30,
+      "ucl_titles": 3,
+      "titles": [2009, 2011, 2023],
+      "titles_detail": [
+        { "season": "2008-09", "team": "Barcelona" },
+        { "season": "2010-11", "team": "Barcelona" },
+        { "season": "2022-23", "team": "Manchester City" }
+      ]
+    }
+  },
+
+  {
+    "id": "coach_zinedine_zidane_profile",
+    "categoria": "coach",
+    "tipo": "fact",
+    "entrenador": "Zinedine Zidane",
+    "season_year": null,
+    "titulo": "Perfil historico de Zinedine Zidane en la Champions League",
+    "texto": "Zinedine Zidane es el unico entrenador en la historia que ha ganado tres Champions League consecutivas. Dirigio 49 partidos de Champions con el Real Madrid entre 2016 y 2021. Sus cifras: 31 victorias, 11 empates y 7 derrotas. Gano las Champions 2016, 2017 y 2018, marcando el mayor ciclo ganador desde los anos sesenta. Su estilo es pragmático, basado en la jerarquia del vestuario, la adaptacion al rival y la gestion de la presion. Jugadores como Cristiano Ronaldo, Benzema, Modric o Ramos alcanzaron picos competitivos bajo su mando.",
+    "metadata": {
+      "equipos_dirigidos": ["Real Madrid"],
+      "matches": 49,
+      "wins": 31,
+      "draws": 11,
+      "losses": 7,
+      "ucl_titles": 3,
+      "titles": [2016, 2017, 2018],
+      "titles_detail": [
+        { "season": "2015-16", "team": "Real Madrid" },
+        { "season": "2016-17", "team": "Real Madrid" },
+        { "season": "2017-18", "team": "Real Madrid" }
+      ]
+    }
+  },
+
+  {
+    "id": "coach_alex_ferguson_profile",
+    "categoria": "coach",
+    "tipo": "fact",
+    "entrenador": "Alex Ferguson",
+    "season_year": null,
+    "titulo": "Perfil historico de Sir Alex Ferguson en la Champions League",
+    "texto": "Sir Alex Ferguson es el entrenador con mas años consecutivos en la Champions League moderna. Dirigio 190 partidos en la competicion con el Manchester United entre 1993 y 2013. Sus cifras: 102 victorias, 49 empates y 39 derrotas. Gano la Champions en 1999 con la famosa remontada ante el Bayern, y en 2008 frente al Chelsea. Tambien fue finalista en 2009 y 2011. Su estilo combina verticalidad, extremos rapidos, mentalidad ofensiva y una enorme capacidad para reconstruir equipos ciclo tras ciclo.",
+    "metadata": {
+      "equipos_dirigidos": ["Manchester United"],
+      "matches": 190,
+      "wins": 102,
+      "draws": 49,
+      "losses": 39,
+      "ucl_titles": 2,
+      "titles": [1999, 2008],
+      "titles_detail": [
+        { "season": "1998-99", "team": "Manchester United" },
+        { "season": "2007-08", "team": "Manchester United" }
+      ]
+    }
+  },
+
+  {
+    "id": "coach_jose_mourinho_profile",
+    "categoria": "coach",
+    "tipo": "fact",
+    "entrenador": "Jose Mourinho",
+    "season_year": null,
+    "titulo": "Perfil historico de Jose Mourinho en la Champions League",
+    "texto": "Jose Mourinho es uno de los entrenadores mas estrategicos de la historia del futbol. Ha dirigido 151 partidos de Champions con Porto, Chelsea, Inter, Real Madrid, Manchester United y Roma. Ha logrado 82 victorias, 39 empates y 30 derrotas. Ha ganado dos Champions: con Porto en 2004 y con Inter de Milan en 2010, donde conquisto el triplete. Llego a semifinales con el Real Madrid en 2011, 2012 y 2013. Su estilo se basa en el bloque defensivo compacto, transiciones verticales y un elevado nivel de preparacion psicologica.",
+    "metadata": {
+      "equipos_dirigidos": ["Porto", "Chelsea", "Inter", "Real Madrid", "Man Utd", "Roma"],
+      "matches": 151,
+      "wins": 82,
+      "draws": 39,
+      "losses": 30,
+      "ucl_titles": 2,
+      "titles": [2004, 2010],
+      "titles_detail": [
+        { "season": "2003-04", "team": "Porto" },
+        { "season": "2009-10", "team": "Inter" }
+      ]
+    }
+  },
+
+  {
+    "id": "coach_jupp_heynckes_profile",
+    "categoria": "coach",
+    "tipo": "fact",
+    "entrenador": "Jupp Heynckes",
+    "season_year": null,
+    "titulo": "Perfil historico de Jupp Heynckes en la Champions League",
+    "texto": "Jupp Heynckes es uno de los pocos entrenadores que han ganado la Champions League en distintas epocas. Dirigio 69 partidos de Champions con Real Madrid, Benfica, Athletic Club y Bayern Munich. Sus cifras: 41 victorias, 14 empates y 14 derrotas. Gano la Champions en 1998 con el Real Madrid y en 2013 con el Bayern Munich, logrando un triplete historico. Su estilo se basa en el equilibrio, la amplitud ofensiva y el dominio fisico del partido.",
+    "metadata": {
+      "equipos_dirigidos": ["Real Madrid", "Benfica", "Athletic Club", "Bayern Munich"],
+      "matches": 69,
+      "wins": 41,
+      "draws": 14,
+      "losses": 14,
+      "ucl_titles": 2,
+      "titles": [1998, 2013],
+      "titles_detail": [
+        { "season": "1997-98", "team": "Real Madrid" },
+        { "season": "2012-13", "team": "Bayern Munich" }
+      ]
+    }
+  },
+
+  {
+    "id": "coach_vicente_del_bosque_profile",
+    "categoria": "coach",
+    "tipo": "fact",
+    "entrenador": "Vicente del Bosque",
+    "season_year": null,
+    "titulo": "Perfil historico de Vicente del Bosque en Champions League",
+    "texto": "Vicente del Bosque dirigio al Real Madrid en una de sus etapas mas estables. En total entreno 41 partidos de Champions con el club blanco. Sus cifras: 24 victorias, 9 empates y 8 derrotas. Gano dos Champions League: la de 2000 frente al Valencia y la de 2002 frente al Bayer Leverkusen, con la famosa volea de Zidane. Su estilo se basa en la estabilidad, la armonia en el vestuario y la libertad para los jugadores creativos.",
+    "metadata": {
+      "equipos_dirigidos": ["Real Madrid"],
+      "matches": 41,
+      "wins": 24,
+      "draws": 9,
+      "losses": 8,
+      "ucl_titles": 2,
+      "titles": [2000, 2002],
+      "titles_detail": [
+        { "season": "1999-2000", "team": "Real Madrid" },
+        { "season": "2001-02", "team": "Real Madrid" }
+      ]
+    }
+  },
+
+  {
+    "id": "coach_jurgen_klopp_profile",
+    "categoria": "coach",
+    "tipo": "fact",
+    "entrenador": "Jurgen Klopp",
+    "season_year": null,
+    "titulo": "Perfil historico de Jurgen Klopp en la Champions League",
+    "texto": "Jurgen Klopp es uno de los entrenadores mas reconocibles del futbol moderno por su estilo de presion alta y transiciones intensas. Ha dirigido 100 partidos en Champions con Borussia Dortmund y Liverpool. Sus cifras: 58 victorias, 21 empates y 21 derrotas. Ha llegado a tres finales: 2013 con Dortmund, 2018 con Liverpool y 2019, donde se proclamo campeon. Es uno de los tecnicos con mejor rendimiento ofensivo en Champions.",
+    "metadata": {
+      "equipos_dirigidos": ["Borussia Dortmund", "Liverpool"],
+      "matches": 100,
+      "wins": 58,
+      "draws": 21,
+      "losses": 21,
+      "ucl_titles": 1,
+      "titles": [2019],
+      "titles_detail": [
+        { "season": "2018-19", "team": "Liverpool" }
+      ]
+    }
+  },
+
+  {
+    "id": "coach_thomas_tuchel_profile",
+    "categoria": "coach",
+    "tipo": "fact",
+    "entrenador": "Thomas Tuchel",
+    "season_year": null,
+    "titulo": "Perfil historico de Thomas Tuchel en la Champions League",
+    "texto": "Thomas Tuchel es un entrenador analitico y flexible que destaca por sus ajustes tacticos y su organizacion defensiva. Ha dirigido 73 partidos en Champions con Borussia Dortmund, Paris Saint Germain, Chelsea y Bayern Munich. Sus cifras: 40 victorias, 16 empates y 17 derrotas. Fue finalista en 2020 con el PSG y campeon en 2021 con el Chelsea tras eliminar a Atletico, Real Madrid y Manchester City.",
+    "metadata": {
+      "equipos_dirigidos": ["Borussia Dortmund", "Paris Saint Germain", "Chelsea", "Bayern Munich"],
+      "matches": 73,
+      "wins": 40,
+      "draws": 16,
+      "losses": 17,
+      "ucl_titles": 1,
+      "titles": [2021],
+      "titles_detail": [
+        { "season": "2020-21", "team": "Chelsea" }
+      ]
+    }
+  },
+
+  {
+    "id": "coach_johan_cruyff_profile",
+    "categoria": "coach",
+    "tipo": "fact",
+    "entrenador": "Johan Cruyff",
+    "season_year": null,
+    "titulo": "Perfil historico de Johan Cruyff como entrenador",
+    "texto": "Aunque Cruyff solo gano la Copa de Europa en 1992, su influencia se extiende por toda la era moderna de la Champions. Dirigio 52 partidos europeos con el Barcelona entre 1988 y 1996, logrando 25 victorias, 14 empates y 13 derrotas. Su estilo de juego de posicion, defensa adelantada y centrocampistas creativos sirvio de base para el Barcelona dominante de Guardiola y para generaciones enteras de entrenadores.",
+    "metadata": {
+      "equipos_dirigidos": ["Barcelona"],
+      "matches": 52,
+      "wins": 25,
+      "draws": 14,
+      "losses": 13,
+      "ucl_titles": 1,
+      "titles": [1992],
+      "titles_detail": [
+        { "season": "1991-92", "team": "Barcelona" }
+      ]
+    }
+  },
+
+  {
+    "id": "coach_rafa_benitez_profile",
+    "categoria": "coach",
+    "tipo": "fact",
+    "entrenador": "Rafael Benitez",
+    "season_year": null,
+    "titulo": "Perfil historico de Rafael Benitez en la Champions League",
+    "texto": "Rafael Benitez es uno de los grandes analistas tacticos del futbol europeo. Ha dirigido 70 partidos de Champions con Valencia, Liverpool, Inter y Napoli. Sus cifras: 34 victorias, 18 empates y 18 derrotas. Ganó la Champions con Liverpool en 2005 tras la remontada ante el Milan y fue finalista en 2007. Es reconocido por su organizacion defensiva y su preparacion detallada de las eliminatorias.",
+    "metadata": {
+      "equipos_dirigidos": ["Valencia", "Liverpool", "Inter", "Napoli"],
+      "matches": 70,
+      "wins": 34,
+      "draws": 18,
+      "losses": 18,
+      "ucl_titles": 1,
+      "titles": [2005],
+      "titles_detail": [
+        { "season": "2004-05", "team": "Liverpool" }
+      ]
+    }
+  },
+
+  {
+    "id": "coach_diego_simeone_profile",
+    "categoria": "coach",
+    "tipo": "fact",
+    "entrenador": "Diego Simeone",
+    "season_year": null,
+    "titulo": "Perfil historico de Diego Simeone en la Champions League",
+    "texto": "Diego Simeone es uno de los entrenadores mas competitivos de la Champions moderna. Ha dirigido 82 partidos con el Atletico de Madrid, logrando 45 victorias, 20 empates y 17 derrotas. Ha disputado dos finales, en 2014 y 2016, ambas perdidas ante el Real Madrid en el ultimo tramo del partido. Tambien ha alcanzado semifinales en 2017 y ha eliminado a equipos como Bayern Munich, Barcelona o Liverpool.",
+    "metadata": {
+      "equipos_dirigidos": ["Atletico de Madrid"],
+      "matches": 82,
+      "wins": 45,
+      "draws": 20,
+      "losses": 17,
+      "ucl_titles": 0,
+      "titles": [],
+      "titles_detail": []
+    }
+  },
+
+  {
+    "id": "coach_fabio_capello_profile",
+    "categoria": "coach",
+    "tipo": "fact",
+    "entrenador": "Fabio Capello",
+    "season_year": null,
+    "titulo": "Perfil historico de Fabio Capello en la Champions League",
+    "texto": "Fabio Capello fue el tecnico del Milan en una de las epocas mas dominantes del futbol europeo. En la Champions moderna se le recuerda especialmente por la final de 1994, cuando su Milan gano 4-0 al Barcelona en Atenas. Su estilo combinaba organizacion defensiva, presion intensa y transiciones rapidas, con jugadores como Baresi, Maldini, Desailly o Savicevic.",
+    "metadata": {
+      "equipos_dirigidos": ["Milan", "Real Madrid", "Roma", "Juventus"],
+      "matches": 86,
+      "wins": 43,
+      "draws": 25,
+      "losses": 18,
+      "ucl_titles": 1,
+      "titles": [1994],
+      "titles_detail": [
+        { "season": "1993-94", "team": "Milan" }
+      ]
+    }
+  },
+
+  {
+    "id": "coach_louis_van_gaal_profile",
+    "categoria": "coach",
+    "tipo": "fact",
+    "entrenador": "Louis van Gaal",
+    "season_year": null,
+    "titulo": "Perfil historico de Louis van Gaal en la Champions League",
+    "texto": "Louis van Gaal fue el arquitecto del Ajax campeon de Europa en 1995, un equipo joven que combinaba presion alta, salida de balon desde atras y rotacion constante de posiciones. Tambien llego a la final de 1996 y entreno a Barcelona y Bayern en la Champions. Su Ajax de mediados de los 90 es una referencia tactica para muchos entrenadores posteriores.",
+    "metadata": {
+      "equipos_dirigidos": ["Ajax", "Barcelona", "Bayern Munich", "AZ"],
+      "matches": 80,
+      "wins": 40,
+      "draws": 24,
+      "losses": 16,
+      "ucl_titles": 1,
+      "titles": [1995],
+      "titles_detail": [
+        { "season": "1994-95", "team": "Ajax" }
+      ]
+    }
+  },
+
+  {
+    "id": "coach_ottmar_hitzfeld_profile",
+    "categoria": "coach",
+    "tipo": "fact",
+    "entrenador": "Ottmar Hitzfeld",
+    "season_year": null,
+    "titulo": "Perfil historico de Ottmar Hitzfeld en la Champions League",
+    "texto": "Ottmar Hitzfeld es uno de los pocos entrenadores que han ganado la Champions League con dos clubes distintos. Se corono campeon con el Borussia Dortmund en 1997 y con el Bayern Munich en 2001. Sus equipos combinaban solidez defensiva, potencia fisica y eficacia a balon parado, ademas de ataques directos bien trabajados.",
+    "metadata": {
+      "equipos_dirigidos": ["Borussia Dortmund", "Bayern Munich"],
+      "matches": 87,
+      "wins": 45,
+      "draws": 23,
+      "losses": 19,
+      "ucl_titles": 2,
+      "titles": [1997, 2001],
+      "titles_detail": [
+        { "season": "1996-97", "team": "Borussia Dortmund" },
+        { "season": "2000-01", "team": "Bayern Munich" }
+      ]
+    }
+  },
+
+  {
+    "id": "coach_frank_rijkaard_profile",
+    "categoria": "coach",
+    "tipo": "fact",
+    "entrenador": "Frank Rijkaard",
+    "season_year": null,
+    "titulo": "Perfil historico de Frank Rijkaard en la Champions League",
+    "texto": "Frank Rijkaard fue el entrenador que devolvio al Barcelona a la cima de Europa en 2006. Con un equipo liderado por Ronaldinho, Eto'o y un joven Messi, gano la Champions de 2005-06 frente al Arsenal. Su Barca sento las bases de la evolucion posterior con Guardiola, combinando posesion, amplitud y agresividad tras perdida.",
+    "metadata": {
+      "equipos_dirigidos": ["Barcelona", "Sparta Rotterdam", "Galatasaray"],
+      "matches": 45,
+      "wins": 23,
+      "draws": 12,
+      "losses": 10,
+      "ucl_titles": 1,
+      "titles": [2006],
+      "titles_detail": [
+        { "season": "2005-06", "team": "Barcelona" }
+      ]
+    }
+  },
+
+  {
+    "id": "coach_roberto_di_matteo_profile",
+    "categoria": "coach",
+    "tipo": "fact",
+    "entrenador": "Roberto Di Matteo",
+    "season_year": null,
+    "titulo": "Perfil historico de Roberto Di Matteo en la Champions League",
+    "texto": "Roberto Di Matteo es recordado por su breve pero historica etapa al frente del Chelsea en 2012. Tomo el equipo a mitad de temporada y, con un planteamiento muy solido y resistente, elimino a rivales como Napoli, Barcelona y Bayern para ganar la Champions en la final de Munich. Su caso es un ejemplo de entrenador interino que logra el maximo exito continental.",
+    "metadata": {
+      "equipos_dirigidos": ["Chelsea", "Schalke 04"],
+      "matches": 20,
+      "wins": 10,
+      "draws": 5,
+      "losses": 5,
+      "ucl_titles": 1,
+      "titles": [2012],
+      "titles_detail": [
+        { "season": "2011-12", "team": "Chelsea" }
+      ]
+    }
+  },
+
+  {
+    "id": "coach_hansi_flick_profile",
+    "categoria": "coach",
+    "tipo": "fact",
+    "entrenador": "Hansi Flick",
+    "season_year": null,
+    "titulo": "Perfil historico de Hansi Flick en la Champions League",
+    "texto": "Hansi Flick llevo al Bayern Munich al titulo de Champions en 2020 con una de las campañas mas dominantes de la historia reciente, ganando todos los partidos del torneo. Su equipo se caracterizo por la presion muy alta, la linea defensiva adelantada y un ataque explosivo con jugadores como Lewandowski, Muller, Gnabry o Davies.",
+    "metadata": {
+      "equipos_dirigidos": ["Bayern Munich"],
+      "matches": 26,
+      "wins": 21,
+      "draws": 3,
+      "losses": 2,
+      "ucl_titles": 1,
+      "titles": [2020],
+      "titles_detail": [
+        { "season": "2019-20", "team": "Bayern Munich" }
+      ]
+    }
+  },
+
+  {
+    "id": "coach_luis_enrique_profile",
+    "categoria": "coach",
+    "tipo": "fact",
+    "entrenador": "Luis Enrique",
+    "season_year": null,
+    "titulo": "Perfil historico de Luis Enrique en la Champions League",
+    "texto": "Luis Enrique ha sido protagonista de dos etapas muy exitosas en la Champions League. Con el Barcelona gano el titulo en 2015 guiando al tridente Messi-Suarez-Neymar hacia un triplete historico. Años mas tarde, al mando del Paris Saint Germain, conquisto la Champions de 2025 con una goleada historica en la final. Su estilo combina un bloque agresivo sin balon con libertad para los atacantes y un uso intenso de las rotaciones.",
+    "metadata": {
+      "equipos_dirigidos": ["Barcelona", "Paris Saint Germain"],
+      "matches": 60,
+      "wins": 35,
+      "draws": 12,
+      "losses": 13,
+      "ucl_titles": 2,
+      "titles": [2015, 2025],
+      "titles_detail": [
+        { "season": "2014-15", "team": "Barcelona" },
+        { "season": "2024-25", "team": "Paris Saint Germain" }
+      ]
+    }
+  },
+
+  {
+    "id": "coach_qa_001_mas_champions",
+    "categoria": "coach",
+    "tipo": "qa",
+    "season_year": null,
+    "question": "Quien es el entrenador con mas Champions League ganadas?",
+    "answer": "El entrenador con mas Champions League en la historia es Carlo Ancelotti, con cuatro titulos: 2003 y 2007 con el Milan, y 2014 y 2022 con el Real Madrid.",
+    "metadata": {
+      "tema": "records_entrenadores",
+      "nivel": "basico"
+    }
+  },
+  {
+    "id": "coach_qa_002_mas_partidos_dirigidos",
+    "categoria": "coach",
+    "tipo": "qa",
+    "season_year": null,
+    "question": "Que entrenador ha dirigido mas partidos de Champions en la era moderna?",
+    "answer": "Sir Alex Ferguson es el entrenador con mas partidos dirigidos en Champions League desde 1992, con un total cercano a los 190 encuentros al frente del Manchester United, seguido muy de cerca por Carlo Ancelotti.",
+    "metadata": {
+      "tema": "records_entrenadores",
+      "nivel": "basico"
+    }
+  },
+  {
+    "id": "coach_qa_003_estilos_comparados",
+    "categoria": "coach",
+    "tipo": "qa",
+    "season_year": null,
+    "question": "En que se diferencian los estilos de Guardiola, Klopp y Mourinho en Champions?",
+    "answer": "Guardiola basa su juego en la posesion estructurada y la presion tras perdida; Klopp se centra en la intensidad, las transiciones y el ritmo alto; y Mourinho apuesta por bloques defensivos compactos, transiciones directas y una preparacion detallada del rival. Los tres representan modelos distintos pero exitosos en la Champions moderna.",
+    "metadata": {
+      "tema": "comparativa_estilos",
+      "nivel": "avanzado"
+    }
+  }
+]

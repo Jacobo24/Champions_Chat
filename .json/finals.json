@@ -1,912 +1,415 @@
 [
   {
-    "id": "ucl_1992_93_final_marseille_milan",
+    "id": "ucl_finals_overview_modern_era",
+    "categoria": "final",
+    "tipo": "fact",
+    "season_year": null,
+    "titulo": "La importancia de las finales en la historia moderna de la Champions",
+    "texto": "Las finales de la Champions League representan el punto culminante de cada temporada y, dentro de la era moderna, se han convertido en algunos de los eventos deportivos más seguidos del mundo. Cada final es un resumen táctico, técnico y emocional de la temporada europea, y muchas veces determina la narrativa histórica de clubes, entrenadores y jugadores. Desde 1992-93, la competición ha entregado finales decididas en el último minuto, en prórrogas, en tandas de penaltis y también goleadas inesperadas. La mezcla de tradición, presión, talento y momentos icónicos convierte a las finales en una fuente constante de historias. Las últimas décadas incluyen remontadas legendarias como Estambul 2005, goles agónicos como el de Ramos en 2014, noches memorables como el dominio del Barcelona en 2009 y 2011, y sorpresas rotundas como la goleada del PSG al Inter en 2025. Cada final forma parte de una narrativa más amplia donde los estilos de juego, las generaciones de jugadores y los cambios de época en el fútbol europeo quedan reflejados con claridad."
+  },
+
+  {
+    "id": "ucl_finals_1993_marseille_milan",
     "categoria": "final",
     "tipo": "fact",
     "season_year": 1993,
-    "round": "final",
-    "leg": "partido_unico",
-    "team_1": "Marseille",
-    "team_2": "Milan",
-    "result": "1-0",
-    "stadium": "Olympiastadion",
-    "city": "Munich",
-    "texto": "La primera final de la era Champions League, en la temporada 1992-93, enfrento a Marseille y Milan en Munich. Un gol de cabeza de Basile Boli dio el 1-0 a los franceses y supuso el primer titulo de la maxima competicion para un club frances.",
-    "metadata": {
-      "campeon": "Marseille",
-      "subcampeon": "Milan",
-      "decidido_en": "tiempo_reglamentario"
-    }
+    "titulo": "1992-93: Marseille 1-0 Milan",
+    "texto": "La primera final oficial de la era Champions League se disputó en Múnich y enfrentó al Olympique de Marseille contra el AC Milan. El partido fue muy cerrado, con un Milan dominante en posesión pero incapaz de romper la defensa francesa. El gol decisivo llegó en un córner: Basile Boli remató de cabeza para firmar el 1-0 que dio al conjunto francés su primer título europeo. Esta final marca el inicio simbólico de la Champions moderna y demuestra que, incluso en los años en que el fútbol italiano parecía invencible, podían aparecer campeones inesperados."
   },
+
   {
-    "id": "ucl_1993_94_final_milan_barcelona",
+    "id": "ucl_finals_1994_milan_barcelona",
     "categoria": "final",
     "tipo": "fact",
     "season_year": 1994,
-    "round": "final",
-    "leg": "partido_unico",
-    "team_1": "Milan",
-    "team_2": "Barcelona",
-    "result": "4-0",
-    "stadium": "Olympic Stadium",
-    "city": "Athens",
-    "texto": "El Milan de Capello firmo una de las exhibiciones mas recordadas en una final de Champions al golear 4-0 al Barcelona en Atenas. Con bajas importantes en defensa, el equipo italiano domino el partido con un futbol muy solido y eficaz.",
-    "metadata": {
-      "campeon": "Milan",
-      "subcampeon": "Barcelona",
-      "decidido_en": "tiempo_reglamentario"
-    }
+    "titulo": "1993-94: Milan 4-0 Barcelona",
+    "texto": "En Atenas, el Milan de Fabio Capello firmó una de las exhibiciones más recordadas de la historia de las finales. Pese a llegar con bajas clave, el equipo italiano se impuso por 4-0 al Barcelona del 'Dream Team' de Cruyff. La intensidad, el orden defensivo y la precisión en los ataques hicieron que el Milan dominara de principio a fin. Esta goleada sigue siendo una de las más rotundas jamás vistas en una final de Champions y consolidó la reputación del Milan como uno de los gigantes del fútbol europeo."
   },
+
   {
-    "id": "ucl_1994_95_final_ajax_milan",
+    "id": "ucl_finals_1995_ajax_milan",
     "categoria": "final",
     "tipo": "fact",
     "season_year": 1995,
-    "round": "final",
-    "leg": "partido_unico",
-    "team_1": "Ajax",
-    "team_2": "Milan",
-    "result": "1-0",
-    "stadium": "Ernst-Happel-Stadion",
-    "city": "Vienna",
-    "texto": "El Ajax de Van Gaal, con una generacion joven impresionante, vencio 1-0 al Milan con un gol de Patrick Kluivert en los minutos finales. Fue el cuarto titulo europeo del club neerlandes y simbolo del exito de su cantera.",
-    "metadata": {
-      "campeon": "Ajax",
-      "subcampeon": "Milan",
-      "decidido_en": "tiempo_reglamentario"
-    }
+    "titulo": "1994-95: Ajax 1-0 Milan",
+    "texto": "El Ajax de Louis van Gaal, formado en gran parte por jóvenes talentos de su cantera, derrotó 1-0 al Milan con un gol tardío de Patrick Kluivert. Esta final simboliza la capacidad histórica del Ajax para producir generaciones brillantes capaces de competir con los gigantes económicos de Europa. El título confirmó el potencial de una plantilla muy joven que combinaba presión alta, movilidad y una identidad futbolística fiel a la tradición del club neerlandés."
   },
+
   {
-    "id": "ucl_1995_96_final_juventus_ajax",
+    "id": "ucl_finals_1996_juventus_ajax",
     "categoria": "final",
     "tipo": "fact",
     "season_year": 1996,
-    "round": "final",
-    "leg": "partido_unico",
-    "team_1": "Juventus",
-    "team_2": "Ajax",
-    "result": "1-1 (4-2 pen)",
-    "stadium": "Stadio Olimpico",
-    "city": "Rome",
-    "texto": "Juventus y Ajax empataron 1-1 en Roma y la final se decidio en los penaltis, donde la Juve se impuso 4-2. Fue el segundo titulo de la maxima competicion para el club de Turin.",
-    "metadata": {
-      "campeon": "Juventus",
-      "subcampeon": "Ajax",
-      "decidido_en": "penaltis"
-    }
+    "titulo": "1995-96: Juventus 1-1 Ajax (4-2 pen)",
+    "texto": "La final de Roma entre Juventus y Ajax terminó 1-1 tras la prórroga y se decidió en los penaltis. La Juventus se mostró más sólida en la tanda y conquistó su segundo título europeo. Fue una final marcada por la igualdad táctica y por la transición del Ajax de gran cantera hacia un equipo más experimentado. A nivel histórico, se recuerda como uno de los últimos grandes momentos europeos del Ajax antes de un largo periodo sin títulos."
   },
+
   {
-    "id": "ucl_1996_97_final_dortmund_juventus",
+    "id": "ucl_finals_1997_dortmund_juventus",
     "categoria": "final",
     "tipo": "fact",
     "season_year": 1997,
-    "round": "final",
-    "leg": "partido_unico",
-    "team_1": "Borussia Dortmund",
-    "team_2": "Juventus",
-    "result": "3-1",
-    "stadium": "Olympiastadion",
-    "city": "Munich",
-    "texto": "El Borussia Dortmund sorprendio a la Juventus en Munich ganando 3-1, con doblete de Karl-Heinz Riedle y un gol de Ricken nada mas entrar al campo. Fue el primer titulo de Champions del club aleman.",
-    "metadata": {
-      "campeon": "Borussia Dortmund",
-      "subcampeon": "Juventus",
-      "decidido_en": "tiempo_reglamentario"
-    }
+    "titulo": "1996-97: Borussia Dortmund 3-1 Juventus",
+    "texto": "El Borussia Dortmund sorprendió al vencer 3-1 a la Juventus en Múnich, logrando su primera Champions. Con un doblete de Riedle y un gol de Ricken recién ingresado, el Dortmund demostró que el fútbol alemán no era solo Bayern. Esta final se considera un hito para la Bundesliga y para un club que, desde entonces, sería un habitual competidor europeo."
   },
+
   {
-    "id": "ucl_1997_98_final_real_madrid_juventus",
+    "id": "ucl_finals_1998_real_madrid_juventus",
     "categoria": "final",
     "tipo": "fact",
     "season_year": 1998,
-    "round": "final",
-    "leg": "partido_unico",
-    "team_1": "Real Madrid",
-    "team_2": "Juventus",
-    "result": "1-0",
-    "stadium": "Amsterdam Arena",
-    "city": "Amsterdam",
-    "texto": "Real Madrid rompio una sequia de 32 anos sin ganar la Copa de Europa venciendo 1-0 a la Juventus con un gol de Predrag Mijatovic en Amsterdam. Esta final marco el inicio de la era moderna europea del club blanco.",
-    "metadata": {
-      "campeon": "Real Madrid",
-      "subcampeon": "Juventus",
-      "decidido_en": "tiempo_reglamentario"
-    }
+    "titulo": "1997-98: Real Madrid 1-0 Juventus",
+    "texto": "El Real Madrid puso fin a su larga sequía de títulos europeos al vencer 1-0 a la Juventus con un gol de Mijatovic. Esta final es recordada como el inicio de la era moderna de grandeza del club blanco y un punto de inflexión histórico que conduciría a múltiples conquistas posteriores. Fue un partido de mucha tensión táctica y pocas ocasiones, típico de aquella época del fútbol europeo."
   },
+
   {
-    "id": "ucl_1998_99_final_manchester_united_bayern",
+    "id": "ucl_finals_1999_manchester_united_bayern",
     "categoria": "final",
     "tipo": "fact",
     "season_year": 1999,
-    "round": "final",
-    "leg": "partido_unico",
-    "team_1": "Manchester United",
-    "team_2": "Bayern Munich",
-    "result": "2-1",
-    "stadium": "Camp Nou",
-    "city": "Barcelona",
-    "texto": "Una de las finales mas dramaticas: el Bayern ganaba 1-0 hasta el minuto 90, pero dos goles en el descuento de Sheringham y Solskjaer dieron el 2-1 al Manchester United. Sir Alex Ferguson completo el triplete Liga-FA Cup-Champions.",
-    "metadata": {
-      "campeon": "Manchester United",
-      "subcampeon": "Bayern Munich",
-      "decidido_en": "tiempo_reglamentario"
-    }
+    "titulo": "1998-99: Manchester United 2-1 Bayern — La remontada del tiempo añadido",
+    "texto": "Una de las finales más dramáticas de todos los tiempos. El Bayern ganaba 1-0 en el minuto 90, pero dos goles consecutivos de Sheringham y Solskjaer en tiempo añadido dieron al Manchester United un 2-1 imposible. Este triunfo completó el triplete histórico (Liga, FA Cup y Champions) del equipo de Ferguson. Es considerada una de las mayores demostraciones de espíritu competitivo en una final de Champions."
   },
+
   {
-    "id": "ucl_1999_00_final_real_madrid_valencia",
+    "id": "ucl_finals_2000_real_madrid_valencia",
     "categoria": "final",
     "tipo": "fact",
     "season_year": 2000,
-    "round": "final",
-    "leg": "partido_unico",
-    "team_1": "Real Madrid",
-    "team_2": "Valencia",
-    "result": "3-0",
-    "stadium": "Stade de France",
-    "city": "Saint-Denis",
-    "texto": "Primera final entre clubes del mismo pais en Champions. Real Madrid derroto 3-0 a Valencia con goles de Morientes, McManaman y Raul, logrando su octava Copa de Europa.",
-    "metadata": {
-      "campeon": "Real Madrid",
-      "subcampeon": "Valencia",
-      "decidido_en": "tiempo_reglamentario"
-    }
+    "titulo": "1999-2000: Real Madrid 3-0 Valencia — Primera final entre clubes del mismo país",
+    "texto": "Por primera vez dos equipos de un mismo país disputaron la final: Real Madrid y Valencia. El conjunto blanco ganó 3-0 con goles de Morientes, McManaman y Raúl. Más allá del marcador, esta final marcó un antes y un después en la competición, demostrando la creciente superioridad de la liga española en aquel periodo."
   },
+
   {
-    "id": "ucl_2000_01_final_bayern_valencia",
+    "id": "ucl_finals_2001_bayern_valencia",
     "categoria": "final",
     "tipo": "fact",
     "season_year": 2001,
-    "round": "final",
-    "leg": "partido_unico",
-    "team_1": "Bayern Munich",
-    "team_2": "Valencia",
-    "result": "1-1 (5-4 pen)",
-    "stadium": "San Siro",
-    "city": "Milan",
-    "texto": "Bayern y Valencia empataron 1-1 en un partido con varios penaltis durante el juego. La final se decidio en la tanda, donde Oliver Kahn fue protagonista y dio el titulo al Bayern.",
-    "metadata": {
-      "campeon": "Bayern Munich",
-      "subcampeon": "Valencia",
-      "decidido_en": "penaltis"
-    }
+    "titulo": "2000-01: Bayern Munich 1-1 Valencia (5-4 pen)",
+    "texto": "Una final muy emocional e intensa. Hubo múltiples penaltis durante el juego y el Bayern terminó imponiéndose en la tanda. Oliver Kahn fue el héroe de la noche, deteniendo el penalti decisivo. La final simboliza tanto la resiliencia del Bayern como el cruel destino de un Valencia que llegaba a su segunda final consecutiva sin poder ganar el título."
   },
+
   {
-    "id": "ucl_2001_02_final_real_madrid_leverkusen",
+    "id": "ucl_finals_2002_real_madrid_leverkusen",
     "categoria": "final",
     "tipo": "fact",
     "season_year": 2002,
-    "round": "final",
-    "leg": "partido_unico",
-    "team_1": "Real Madrid",
-    "team_2": "Bayer Leverkusen",
-    "result": "2-1",
-    "stadium": "Hampden Park",
-    "city": "Glasgow",
-    "texto": "Real Madrid vencio 2-1 al Bayer Leverkusen en Glasgow en una final recordada por la volea de Zidane con la zurda justo antes del descanso. Fue la novena Copa de Europa del conjunto blanco.",
-    "metadata": {
-      "campeon": "Real Madrid",
-      "subcampeon": "Bayer Leverkusen",
-      "decidido_en": "tiempo_reglamentario"
-    }
+    "titulo": "2001-02: Real Madrid 2-1 Bayern Leverkusen — La volea eterna de Zidane",
+    "texto": "El Real Madrid conquistó su novena Copa de Europa en Glasgow con una de las jugadas más icónicas de la historia de la Champions. La volea de Zidane con la zurda, tras un centro bombeado de Roberto Carlos, se convirtió en símbolo del fútbol europeo. El Leverkusen compitió bien, pero la calidad individual decidió una final que muchos consideran una de las más emblemáticas."
   },
+
   {
-    "id": "ucl_2002_03_final_milan_juventus",
+    "id": "ucl_finals_2003_milan_juventus",
     "categoria": "final",
     "tipo": "fact",
     "season_year": 2003,
-    "round": "final",
-    "leg": "partido_unico",
-    "team_1": "Milan",
-    "team_2": "Juventus",
-    "result": "0-0 (3-2 pen)",
-    "stadium": "Old Trafford",
-    "city": "Manchester",
-    "texto": "Final italiana muy cerrada entre Milan y Juventus que termino 0-0 tras prorroga. En los penaltis, Dida fue clave y el Milan se impuso 3-2, sumando otra Champions a su palmares.",
-    "metadata": {
-      "campeon": "Milan",
-      "subcampeon": "Juventus",
-      "decidido_en": "penaltis"
-    }
+    "titulo": "2002-03: Milan 0-0 Juventus (3-2 pen)",
+    "texto": "Una final italiana cerrada, muy táctica y sin goles durante 120 minutos. En los penaltis, Dida fue determinante y el Milan ganó su sexta Champions. Esta final refleja el estilo defensivo y extremadamente estructurado habitual en la Serie A de principios de los 2000."
   },
+
   {
-    "id": "ucl_2003_04_final_porto_monaco",
+    "id": "ucl_finals_2004_porto_monaco",
     "categoria": "final",
     "tipo": "fact",
     "season_year": 2004,
-    "round": "final",
-    "leg": "partido_unico",
-    "team_1": "Porto",
-    "team_2": "Monaco",
-    "result": "3-0",
-    "stadium": "Arena AufSchalke",
-    "city": "Gelsenkirchen",
-    "texto": "El Porto de Jose Mourinho gano 3-0 al Monaco en una final protagonizada por dos equipos poco habituales. Dentro de un planteamiento muy solido, el conjunto portugues controlo el partido y cerro un ciclo brillante.",
-    "metadata": {
-      "campeon": "Porto",
-      "subcampeon": "Monaco",
-      "decidido_en": "tiempo_reglamentario"
-    }
+    "titulo": "2003-04: Porto 3-0 Monaco — El golpe de Mourinho",
+    "texto": "El Porto, dirigido por José Mourinho, derrotó 3-0 al Monaco en una final inesperada entre dos equipos sin tradición reciente de títulos. Porto dominó desde lo táctico y completó una temporada histórica. Esta final simboliza que en la Champions también pueden surgir campeones desde fuera de las grandes ligas si el proyecto deportivo es sólido."
   },
+
   {
-    "id": "ucl_2004_05_final_liverpool_milan",
+    "id": "ucl_finals_2005_liverpool_milan",
     "categoria": "final",
     "tipo": "fact",
     "season_year": 2005,
-    "round": "final",
-    "leg": "partido_unico",
-    "team_1": "Liverpool",
-    "team_2": "Milan",
-    "result": "3-3 (3-2 pen)",
-    "stadium": "Ataturk Olympic Stadium",
-    "city": "Istanbul",
-    "texto": "La final de Estambul es una de las mas famosas de la historia. Milan ganaba 3-0 al descanso, pero el Liverpool empato 3-3 en seis minutos locos de la segunda parte. Tras la prorroga, los ingleses ganaron la tanda de penaltis.",
-    "metadata": {
-      "campeon": "Liverpool",
-      "subcampeon": "Milan",
-      "decidido_en": "penaltis",
-      "remontada_iconica": true
-    }
+    "titulo": "2004-05: Liverpool 3-3 Milan (3-2 pen) — Estambul: la gran remontada",
+    "texto": "Quizá la final más célebre de la historia. El Milan ganaba 3-0 al descanso y parecía campeón, pero el Liverpool empató 3-3 con seis minutos de locura en la segunda parte. Dudek protagonizó paradas milagrosas en la prórroga y fue decisivo en los penaltis. Estambul 2005 es sinónimo de épica, resiliencia y emoción pura."
   },
+
   {
-    "id": "ucl_2005_06_final_barcelona_arsenal",
+    "id": "ucl_finals_2006_barcelona_arsenal",
     "categoria": "final",
     "tipo": "fact",
     "season_year": 2006,
-    "round": "final",
-    "leg": "partido_unico",
-    "team_1": "Barcelona",
-    "team_2": "Arsenal",
-    "result": "2-1",
-    "stadium": "Stade de France",
-    "city": "Saint-Denis",
-    "texto": "Arsenal se adelanto con un gol de Campbell pese a jugar con diez desde la expulsion de Lehmann. En la recta final, Barcelona le dio la vuelta con tantos de Eto'o y Belletti para lograr su segunda Champions.",
-    "metadata": {
-      "campeon": "Barcelona",
-      "subcampeon": "Arsenal",
-      "decidido_en": "tiempo_reglamentario"
-    }
+    "titulo": "2005-06: Barcelona 2-1 Arsenal",
+    "texto": "El Arsenal jugó casi todo el partido con diez jugadores tras la expulsión de Lehmann, pero llegó a adelantarse con gol de Campbell. En el tramo final, el Barcelona remontó con goles de Eto'o y Belletti. Esta final marca el segundo gran título europeo del club blaugrana en la era moderna."
   },
+
   {
-    "id": "ucl_2006_07_final_milan_liverpool",
+    "id": "ucl_finals_2007_milan_liverpool",
     "categoria": "final",
     "tipo": "fact",
     "season_year": 2007,
-    "round": "final",
-    "leg": "partido_unico",
-    "team_1": "Milan",
-    "team_2": "Liverpool",
-    "result": "2-1",
-    "stadium": "Olympic Stadium",
-    "city": "Athens",
-    "texto": "Reedicion de la final de 2005, esta vez con revancha para el Milan. Un doblete de Inzaghi, con un gol de rebote y otro tras gran pase de Kaka, dio el titulo al conjunto italiano pese al gol final de Kuyt.",
-    "metadata": {
-      "campeon": "Milan",
-      "subcampeon": "Liverpool",
-      "decidido_en": "tiempo_reglamentario"
-    }
+    "titulo": "2006-07: Milan 2-1 Liverpool — La revancha",
+    "texto": "Dos años después de Estambul, Milan y Liverpool se reencontraron. Esta vez, el Milan se impuso 2-1, con un doblete de Inzaghi. Fue una final con sabor a revancha para el equipo italiano, que cerró un ciclo brillante en Europa."
   },
+
   {
-    "id": "ucl_2007_08_final_manchester_united_chelsea",
+    "id": "ucl_finals_2008_manchester_united_chelsea",
     "categoria": "final",
     "tipo": "fact",
     "season_year": 2008,
-    "round": "final",
-    "leg": "partido_unico",
-    "team_1": "Manchester United",
-    "team_2": "Chelsea",
-    "result": "1-1 (6-5 pen)",
-    "stadium": "Luzhniki Stadium",
-    "city": "Moscow",
-    "texto": "Primera final inglesa de la Champions. Cristiano Ronaldo adelanto al United, Lampard empato y el partido acabo 1-1 tras la prorroga. En los penaltis, resbalo Terry en su lanzamiento y finalmente ganaron los de Ferguson.",
-    "metadata": {
-      "campeon": "Manchester United",
-      "subcampeon": "Chelsea",
-      "decidido_en": "penaltis"
-    }
+    "titulo": "2007-08: Manchester United 1-1 Chelsea (6-5 pen)",
+    "texto": "Primera final inglesa de la historia. Cristiano Ronaldo marcó para el United y Lampard empató. En los penaltis, el resbalón de John Terry se convirtió en una de las imágenes más icónicas de la competición. Finalmente, el United levantó la Champions y confirmó un ciclo exitoso en la Premier."
   },
+
   {
-    "id": "ucl_2008_09_final_barcelona_manchester_united",
+    "id": "ucl_finals_2009_barcelona_manchester_united",
     "categoria": "final",
     "tipo": "fact",
     "season_year": 2009,
-    "round": "final",
-    "leg": "partido_unico",
-    "team_1": "Barcelona",
-    "team_2": "Manchester United",
-    "result": "2-0",
-    "stadium": "Stadio Olimpico",
-    "city": "Rome",
-    "texto": "El Barcelona de Guardiola conquisto el triplete derrotando 2-0 al Manchester United en Roma. Goles de Eto'o y Messi coronaron un equipo basado en el juego de posicion y el control absoluto del balon.",
-    "metadata": {
-      "campeon": "Barcelona",
-      "subcampeon": "Manchester United",
-      "decidido_en": "tiempo_reglamentario"
-    }
+    "titulo": "2008-09: Barcelona 2-0 Manchester United — El inicio de una era",
+    "texto": "El Barcelona de Guardiola conquistó su primer triplete derrotando 2-0 al Manchester United en Roma. Los goles de Eto'o y Messi y el dominio absoluto del juego marcaron el inicio de uno de los proyectos tácticos más influyentes de la historia moderna."
   },
+
   {
-    "id": "ucl_2009_10_final_inter_bayern",
+    "id": "ucl_finals_2010_inter_bayern",
     "categoria": "final",
     "tipo": "fact",
     "season_year": 2010,
-    "round": "final",
-    "leg": "partido_unico",
-    "team_1": "Inter",
-    "team_2": "Bayern Munich",
-    "result": "2-0",
-    "stadium": "Santiago Bernabeu",
-    "city": "Madrid",
-    "texto": "El Inter de Mourinho completo el triplete ganando 2-0 al Bayern Munich en Madrid, con un doblete de Diego Milito. El planteamiento tactico del equipo italiano neutralizo al Bayern y sento catedra en eliminatorias.",
-    "metadata": {
-      "campeon": "Inter",
-      "subcampeon": "Bayern Munich",
-      "decidido_en": "tiempo_reglamentario"
-    }
+    "titulo": "2009-10: Inter 2-0 Bayern — El triplete de Mourinho",
+    "texto": "El Inter de Mourinho completó un triplete histórico al vencer 2-0 al Bayern con dos goles de Diego Milito. Fue una final donde el orden defensivo y la eficacia ofensiva del Inter se impusieron frente a un Bayern dominante en posesión. Representa uno de los picos del fútbol italiano moderno."
   },
+
   {
-    "id": "ucl_2010_11_final_barcelona_manchester_united",
+    "id": "ucl_finals_2011_barcelona_manchester_united",
     "categoria": "final",
     "tipo": "fact",
     "season_year": 2011,
-    "round": "final",
-    "leg": "partido_unico",
-    "team_1": "Barcelona",
-    "team_2": "Manchester United",
-    "result": "3-1",
-    "stadium": "Wembley",
-    "city": "London",
-    "texto": "Barcelona firmo una de las exhibiciones mas completas en una final imponiendose 3-1 al Manchester United en Wembley. Goles de Pedro, Messi y Villa, y dominio total en el juego, consolidaron al Barca de Guardiola como referencia mundial.",
-    "metadata": {
-      "campeon": "Barcelona",
-      "subcampeon": "Manchester United",
-      "decidido_en": "tiempo_reglamentario"
-    }
+    "titulo": "2010-11: Barcelona 3-1 Manchester United — La obra maestra de Wembley",
+    "texto": "El Barcelona firmó una de las actuaciones más completas jamás vistas en una final de Champions. Pedro, Messi y Villa marcaron en un partido donde el Barça dominó todas las fases del juego. Muchos analistas consideran esta final como la culminación del mejor fútbol de posición moderno."
   },
+
   {
-    "id": "ucl_2011_12_final_chelsea_bayern",
+    "id": "ucl_finals_2012_chelsea_bayern",
     "categoria": "final",
     "tipo": "fact",
     "season_year": 2012,
-    "round": "final",
-    "leg": "partido_unico",
-    "team_1": "Chelsea",
-    "team_2": "Bayern Munich",
-    "result": "1-1 (4-3 pen)",
-    "stadium": "Allianz Arena",
-    "city": "Munich",
-    "texto": "Bayern jugaba la final en casa y se adelanto con gol de Muller, pero Drogba empato para el Chelsea en el tramo final. Tras un penalti fallado por Robben en la prorroga, los ingleses ganaron en la tanda y levantaron su primera Champions.",
-    "metadata": {
-      "campeon": "Chelsea",
-      "subcampeon": "Bayern Munich",
-      "decidido_en": "penaltis"
-    }
+    "titulo": "2011-12: Chelsea 1-1 Bayern (4-3 pen)",
+    "texto": "El Bayern jugaba la final en casa y se adelantó con un gol de Müller. Sin embargo, Drogba empató en el tramo final y luego fue decisivo en la tanda de penaltis. Es el primer título europeo del Chelsea y uno de los grandes momentos de la carrera de Drogba."
   },
+
   {
-    "id": "ucl_2012_13_final_bayern_dortmund",
+    "id": "ucl_finals_2013_bayern_dortmund",
     "categoria": "final",
     "tipo": "fact",
     "season_year": 2013,
-    "round": "final",
-    "leg": "partido_unico",
-    "team_1": "Bayern Munich",
-    "team_2": "Borussia Dortmund",
-    "result": "2-1",
-    "stadium": "Wembley",
-    "city": "London",
-    "texto": "Final alemana en Wembley con mucho ritmo y ocasiones para ambos. Bayern se impuso 2-1 con un gol decisivo de Robben en los minutos finales, vengando derrotas europeas anteriores y cerrando un ciclo de dominio en Alemania.",
-    "metadata": {
-      "campeon": "Bayern Munich",
-      "subcampeon": "Borussia Dortmund",
-      "decidido_en": "tiempo_reglamentario"
-    }
+    "titulo": "2012-13: Bayern 2-1 Borussia Dortmund — Final alemana intensa",
+    "texto": "Wembley acogió una final vibrante entre dos equipos alemanes. El Bayern se impuso 2-1 con gol decisivo de Robben en los últimos minutos. Esta final consolidó a la Bundesliga como una liga táctica, física y competitiva al más alto nivel."
   },
+
   {
-    "id": "ucl_2013_14_final_real_madrid_atletico",
+    "id": "ucl_finals_2014_real_madrid_atletico",
     "categoria": "final",
     "tipo": "fact",
     "season_year": 2014,
-    "round": "final",
-    "leg": "partido_unico",
-    "team_1": "Real Madrid",
-    "team_2": "Atletico de Madrid",
-    "result": "4-1 (tras prorroga)",
-    "stadium": "Estadio da Luz",
-    "city": "Lisbon",
-    "texto": "El Atletico rozaba su primera Champions con 1-0 a favor, pero un cabezazo de Sergio Ramos en el minuto 93 llevo el partido a la prorroga. En el tiempo extra, Real Madrid arraso fisicamente y termino ganando 4-1, logrando la Decima.",
-    "metadata": {
-      "campeon": "Real Madrid",
-      "subcampeon": "Atletico de Madrid",
-      "decidido_en": "prorroga",
-      "gol_minuto_93": true
-    }
+    "titulo": "2013-14: Real Madrid 4-1 Atlético (prórroga) — El gol del minuto 93",
+    "texto": "Una final histórica marcada por el cabezazo de Sergio Ramos en el minuto 93 que llevó el partido a la prórroga. El Atlético había rozado su primera Champions, pero el Real Madrid impuso su superioridad física en el tiempo extra para lograr 'La Décima'. Es una de las finales más dramáticas y recordadas de la era moderna."
   },
+
   {
-    "id": "ucl_2014_15_final_barcelona_juventus",
+    "id": "ucl_finals_2015_barcelona_juventus",
     "categoria": "final",
     "tipo": "fact",
     "season_year": 2015,
-    "round": "final",
-    "leg": "partido_unico",
-    "team_1": "Barcelona",
-    "team_2": "Juventus",
-    "result": "3-1",
-    "stadium": "Olympiastadion",
-    "city": "Berlin",
-    "texto": "El Barcelona de Luis Enrique completo el triplete derrotando 3-1 a la Juventus en Berlin. La MSN (Messi, Suarez, Neymar) fue decisiva en una final en la que los italianos llegaron a empatar antes de ceder en la segunda parte.",
-    "metadata": {
-      "campeon": "Barcelona",
-      "subcampeon": "Juventus",
-      "decidido_en": "tiempo_reglamentario"
-    }
+    "titulo": "2014-15: Barcelona 3-1 Juventus — El triplete de la MSN",
+    "texto": "El Barcelona de Luis Enrique completó su segundo triplete derrotando 3-1 a la Juventus. Messi, Suárez y Neymar fueron protagonistas en un Barça que combinó juego de posición con velocidad y pegada en transición. Es uno de los títulos más celebrados del club en la era moderna."
   },
+
   {
-    "id": "ucl_2015_16_final_real_madrid_atletico",
+    "id": "ucl_finals_2016_real_madrid_atletico",
     "categoria": "final",
     "tipo": "fact",
     "season_year": 2016,
-    "round": "final",
-    "leg": "partido_unico",
-    "team_1": "Real Madrid",
-    "team_2": "Atletico de Madrid",
-    "result": "1-1 (5-3 pen)",
-    "stadium": "San Siro",
-    "city": "Milan",
-    "texto": "Segunda final madrilena en tres anos. Ramos adelanto al Real Madrid, Carrasco empato y el partido acabo 1-1 tras prorroga. En los penaltis, Juanfran fallo y Cristiano marco el lanzamiento decisivo para dar la Undecima al Madrid.",
-    "metadata": {
-      "campeon": "Real Madrid",
-      "subcampeon": "Atletico de Madrid",
-      "decidido_en": "penaltis"
-    }
+    "titulo": "2015-16: Real Madrid 1-1 Atlético (5-3 pen)",
+    "texto": "Segunda final madrileña en tres años. Ramos marcó para el Real Madrid y Carrasco empató. Tras una prórroga igualada, la tanda de penaltis decidió el título. El fallo de Juanfran y el lanzamiento decisivo de Cristiano Ronaldo dieron al Madrid su undécima Champions."
   },
+
   {
-    "id": "ucl_2016_17_final_real_madrid_juventus",
+    "id": "ucl_finals_2017_real_madrid_juventus",
     "categoria": "final",
     "tipo": "fact",
     "season_year": 2017,
-    "round": "final",
-    "leg": "partido_unico",
-    "team_1": "Real Madrid",
-    "team_2": "Juventus",
-    "result": "4-1",
-    "stadium": "Millennium Stadium",
-    "city": "Cardiff",
-    "texto": "Real Madrid se impuso 4-1 a la Juventus en Cardiff con un gran partido de Cristiano Ronaldo. Fue la primera vez en la era Champions que un equipo revalidaba titulo de forma consecutiva.",
-    "metadata": {
-      "campeon": "Real Madrid",
-      "subcampeon": "Juventus",
-      "decidido_en": "tiempo_reglamentario"
-    }
+    "titulo": "2016-17: Real Madrid 4-1 Juventus — La primera defensa del título en la era Champions",
+    "texto": "El Real Madrid de Zidane se impuso con autoridad 4-1 a la Juventus. Cristiano Ronaldo fue el gran protagonista. Esta final es histórica porque marca la primera vez que un equipo revalida la Champions desde su creación en 1992."
   },
+
   {
-    "id": "ucl_2017_18_final_real_madrid_liverpool",
+    "id": "ucl_finals_2018_real_madrid_liverpool",
     "categoria": "final",
     "tipo": "fact",
     "season_year": 2018,
-    "round": "final",
-    "leg": "partido_unico",
-    "team_1": "Real Madrid",
-    "team_2": "Liverpool",
-    "result": "3-1",
-    "stadium": "NSC Olimpiyskiy",
-    "city": "Kyiv",
-    "texto": "Final muy marcada por la lesion de Salah tras un choque con Ramos y por los errores del portero Karius. Gareth Bale marco un golazo de chilena y otro disparo lejano que sentencio el 3-1, dando la Decimotercera al Real Madrid.",
-    "metadata": {
-      "campeon": "Real Madrid",
-      "subcampeon": "Liverpool",
-      "decidido_en": "tiempo_reglamentario"
-    }
+    "titulo": "2017-18: Real Madrid 3-1 Liverpool — La chilena de Bale y los errores de Karius",
+    "texto": "Una final marcada por la lesión de Salah tras un choque con Ramos y por dos errores graves del portero Karius. Gareth Bale marcó uno de los goles más espectaculares en una final con una chilena memorable. El Madrid cerró así un ciclo con tres Champions consecutivas."
   },
+
   {
-    "id": "ucl_2018_19_final_liverpool_tottenham",
+    "id": "ucl_finals_2019_liverpool_tottenham",
     "categoria": "final",
     "tipo": "fact",
     "season_year": 2019,
-    "round": "final",
-    "leg": "partido_unico",
-    "team_1": "Liverpool",
-    "team_2": "Tottenham",
-    "result": "2-0",
-    "stadium": "Metropolitano",
-    "city": "Madrid",
-    "texto": "Liverpool se adelanto muy pronto con un penalti transformado por Salah y controlo la final frente a un Tottenham que llegaba tras una remontada epica al Ajax. Origi marco el 2-0 final y los reds lograron su sexta Copa de Europa.",
-    "metadata": {
-      "campeon": "Liverpool",
-      "subcampeon": "Tottenham",
-      "decidido_en": "tiempo_reglamentario"
-    }
+    "titulo": "2018-19: Liverpool 2-0 Tottenham",
+    "texto": "Un penalti transformado por Salah al inicio y un gol de Origi marcaron una final donde el Liverpool fue más sólido y eficaz. El Tottenham, que venía de su épica remontada contra el Ajax, no consiguió imponerse. Liverpool sumó así su sexta Copa de Europa."
   },
+
   {
-    "id": "ucl_2019_20_final_bayern_psg",
+    "id": "ucl_finals_2020_bayern_psg",
     "categoria": "final",
     "tipo": "fact",
     "season_year": 2020,
-    "round": "final",
-    "leg": "partido_unico",
-    "team_1": "Bayern Munich",
-    "team_2": "Paris Saint-Germain",
-    "result": "1-0",
-    "stadium": "Estadio da Luz",
-    "city": "Lisbon",
-    "texto": "Final disputada a puerta cerrada por la pandemia. Bayern vencio 1-0 al PSG con un gol de Kingsley Coman y completo una temporada perfecta en Champions, ganando todos los partidos disputados.",
-    "metadata": {
-      "campeon": "Bayern Munich",
-      "subcampeon": "Paris Saint-Germain",
-      "decidido_en": "tiempo_reglamentario"
-    }
+    "titulo": "2019-20: Bayern Munich 1-0 Paris Saint-Germain",
+    "texto": "En una final sin público debido a la pandemia, el Bayern logró una temporada perfecta ganando todos sus partidos de Champions. El gol de Kingsley Coman decidió un duelo muy parejo. Esta final simboliza el dominio físico y táctico del Bayern en esa temporada."
   },
+
   {
-    "id": "ucl_2020_21_final_chelsea_manchester_city",
+    "id": "ucl_finals_2021_chelsea_manchester_city",
     "categoria": "final",
     "tipo": "fact",
     "season_year": 2021,
-    "round": "final",
-    "leg": "partido_unico",
-    "team_1": "Chelsea",
-    "team_2": "Manchester City",
-    "result": "1-0",
-    "stadium": "Estadio do Dragao",
-    "city": "Porto",
-    "texto": "El Chelsea de Tuchel derroto 1-0 al Manchester City de Guardiola gracias a un gol de Havertz tras un pase al espacio de Mason Mount. El plan defensivo y las transiciones del Chelsea neutralizaron el juego de posicion del City.",
-    "metadata": {
-      "campeon": "Chelsea",
-      "subcampeon": "Manchester City",
-      "decidido_en": "tiempo_reglamentario"
-    }
+    "titulo": "2020-21: Chelsea 1-0 Manchester City",
+    "texto": "El Chelsea de Tuchel impuso su plan defensivo ante un Manchester City dominante en posesión. El gol de Havertz tras un pase filtrado de Mount decidió una final marcada por la organización defensiva del conjunto londinense."
   },
+
   {
-    "id": "ucl_2021_22_final_real_madrid_liverpool",
+    "id": "ucl_finals_2022_real_madrid_liverpool",
     "categoria": "final",
     "tipo": "fact",
     "season_year": 2022,
-    "round": "final",
-    "leg": "partido_unico",
-    "team_1": "Real Madrid",
-    "team_2": "Liverpool",
-    "result": "1-0",
-    "stadium": "Stade de France",
-    "city": "Saint-Denis",
-    "texto": "Courtois fue el gran protagonista con paradas decisivas ante un Liverpool muy dominante en ocasiones. Un gol de Vinicius dio el 1-0 al Real Madrid, que levanto su decimoquinto titulo europeo tras una trayectoria llena de remontadas.",
-    "metadata": {
-      "campeon": "Real Madrid",
-      "subcampeon": "Liverpool",
-      "decidido_en": "tiempo_reglamentario"
-    }
+    "titulo": "2021-22: Real Madrid 1-0 Liverpool — La final de Courtois",
+    "texto": "El Liverpool generó multitud de ocasiones, pero Courtois completó una de las actuaciones más memorables de un portero en una final de Champions. Un gol de Vinicius sentenció el título. El Real Madrid culminó así una campaña llena de remontadas icónicas."
   },
+
   {
-    "id": "ucl_2022_23_final_manchester_city_inter",
+    "id": "ucl_finals_2023_manchester_city_inter",
     "categoria": "final",
     "tipo": "fact",
     "season_year": 2023,
-    "round": "final",
-    "leg": "partido_unico",
-    "team_1": "Manchester City",
-    "team_2": "Inter",
-    "result": "1-0",
-    "stadium": "Ataturk Olympic Stadium",
-    "city": "Istanbul",
-    "texto": "El Manchester City conquisto su primera Champions venciendo 1-0 al Inter con un gol de Rodri. El equipo de Guardiola completo el triplete Liga-FA Cup-Champions, coronando varios anos de dominio en Inglaterra.",
-    "metadata": {
-      "campeon": "Manchester City",
-      "subcampeon": "Inter",
-      "decidido_en": "tiempo_reglamentario"
-    }
+    "titulo": "2022-23: Manchester City 1-0 Inter — El triplete de Guardiola",
+    "texto": "El City conquistó su primera Champions en un partido muy tenso ante un Inter competitivo. El gol de Rodri selló una temporada histórica donde el City ganó Premier, FA Cup y Champions. Esta final simboliza la consolidación del proyecto de Guardiola en Europa."
   },
+
   {
-    "id": "ucl_2023_24_final_real_madrid_dortmund",
+    "id": "ucl_finals_2024_real_madrid_dortmund",
     "categoria": "final",
     "tipo": "fact",
     "season_year": 2024,
-    "round": "final",
-    "leg": "partido_unico",
-    "team_1": "Real Madrid",
-    "team_2": "Borussia Dortmund",
-    "result": "2-0",
-    "stadium": "Wembley",
-    "city": "London",
-    "texto": "Real Madrid derrotro 2-0 al Borussia Dortmund en Wembley y alcanzo su decimoquinto titulo europeo. Tras una primera parte sufrida, el equipo blanco resolvio en la segunda mitad con goles a balon parado y transicion.",
-    "metadata": {
-      "campeon": "Real Madrid",
-      "subcampeon": "Borussia Dortmund",
-      "decidido_en": "tiempo_reglamentario"
-    }
+    "titulo": "2023-24: Real Madrid 2-0 Borussia Dortmund — La decimoquinta",
+    "texto": "El Real Madrid sufrió en la primera parte, pero resolvió la final en la segunda con eficacia en transiciones y jugadas a balón parado. El 2-0 permitió al Madrid conquistar su Champions número 15, ampliando aún más su dominio histórico."
   },
+
   {
-    "id": "ucl_2024_25_final_psg_inter",
+    "id": "ucl_finals_2025_psg_inter",
     "categoria": "final",
     "tipo": "fact",
     "season_year": 2025,
-    "round": "final",
-    "leg": "partido_unico",
-    "team_1": "Paris Saint-Germain",
-    "team_2": "Inter",
-    "result": "5-0",
-    "stadium": "Allianz Arena",
-    "city": "Munich",
-    "texto": "El Paris Saint-Germain gano su primera Champions goleando 5-0 al Inter en Munich, la mayor diferencia de goles en una final de la competicion. Con un equipo muy joven y dinamico, dirigido por Luis Enrique, el PSG completo un triplete historico para el futbol frances.",
-    "metadata": {
-      "campeon": "Paris Saint-Germain",
-      "subcampeon": "Inter",
-      "decidido_en": "tiempo_reglamentario",
-      "mayor_goleada_final": true
-    }
+    "titulo": "2024-25: Paris Saint-Germain 5-0 Inter — La mayor goleada en una final",
+    "texto": "El Paris Saint-Germain conquistó su primera Champions con una goleada inédita en la historia de la competición. El 5-0 al Inter en Múnich se convirtió en la mayor diferencia de goles registrada en una final de Champions. Dirigido por Luis Enrique, el PSG desplegó un juego dinámico y ofensivo que desbordó por completo al Inter. Esta final marca un hito para el fútbol francés y confirma el ascenso del PSG en el panorama europeo."
   },
 
   {
-    "id": "ucl_2003_04_cuartos_deportivo_milan_remontada",
+    "id": "ucl_eliminatoria_2004_depor_milan",
     "categoria": "eliminatoria",
     "tipo": "contexto",
     "season_year": 2004,
-    "round": "cuartos",
-    "leg": "vuelta",
-    "team_1": "Deportivo de La Coruna",
-    "team_2": "Milan",
-    "result_ida": "Milan 4-1 Deportivo",
-    "result_vuelta": "Deportivo 4-0 Milan",
-    "texto": "En los cuartos de final de 2003-04, el Deportivo de La Coruna protagonizo una de las remontadas mas grandes de la historia. Tras perder 4-1 en San Siro, el Depor gano 4-0 en Riazor con goles de Pandiani, Valeron, Luque y Fran, eliminando al vigente campeon europeo.",
-    "metadata": {
-      "global": "5-4 Deportivo",
-      "remontada_iconica": true
-    }
+    "titulo": "Cuartos 2003-04: Deportivo 4-0 Milan — Una de las mayores remontadas globales",
+    "texto": "El Deportivo de La Coruña protagonizó una de las remontadas más emblemáticas de la Champions moderna. Tras perder 4-1 en San Siro, el conjunto gallego venció 4-0 al Milan en Riazor con una actuación histórica. Goles de Pandiani, Valerón, Luque y Fran culminaron un 5-4 global que eliminó al vigente campeón. Esta eliminatoria se recuerda como una de las más sorprendentes y emocionantes de la competición."
   },
+
   {
-    "id": "ucl_2016_17_octavos_barcelona_psg_remontada",
+    "id": "ucl_eliminatoria_2017_barcelona_psg",
     "categoria": "eliminatoria",
     "tipo": "contexto",
     "season_year": 2017,
-    "round": "octavos",
-    "leg": "vuelta",
-    "team_1": "Barcelona",
-    "team_2": "Paris Saint-Germain",
-    "result_ida": "PSG 4-0 Barcelona",
-    "result_vuelta": "Barcelona 6-1 PSG",
-    "texto": "La famosa 'Remontada'. En la ida, el PSG gano 4-0 en Paris, dejando al Barcelona casi eliminado. En la vuelta, el Camp Nou vivio un 6-1 historico, con goles decisivos de Neymar y Sergi Roberto en los minutos finales, convirtiendo al Barca en el primer equipo en remontar cuatro goles de desventaja en la eliminatoria.",
-    "metadata": {
-      "global": "6-5 Barcelona",
-      "remontada_iconica": true
-    }
+    "titulo": "Octavos 2016-17: Barcelona 6-1 PSG — La Remontada",
+    "texto": "El Barcelona llegó al Camp Nou con un 4-0 en contra tras la ida en París. Contra todo pronóstico, logró un 6-1 con goles decisivos de Neymar y Sergi Roberto en los minutos finales. Es la primera vez en la historia de la Champions que un equipo remontó una desventaja de cuatro goles en una eliminatoria. 'La Remontada' es uno de los momentos más icónicos de la era moderna."
   },
+
   {
-    "id": "ucl_2017_18_cuartos_roma_barcelona",
+    "id": "ucl_eliminatoria_2018_roma_barcelona",
     "categoria": "eliminatoria",
     "tipo": "contexto",
     "season_year": 2018,
-    "round": "cuartos",
-    "leg": "vuelta",
-    "team_1": "Roma",
-    "team_2": "Barcelona",
-    "result_ida": "Barcelona 4-1 Roma",
-    "result_vuelta": "Roma 3-0 Barcelona",
-    "texto": "En 2017-18, la Roma dio la sorpresa eliminando al Barcelona tras un 4-1 en contra en la ida. En el Olimpico, ganaron 3-0 con un gol decisivo de cabeza de Manolas, conocido como 'el dios griego en Roma', y pasaron por el valor de los goles fuera de casa.",
-    "metadata": {
-      "global": "4-4, pasa Roma por goles fuera",
-      "remontada_iconica": true
-    }
+    "titulo": "Cuartos 2017-18: Roma 3-0 Barcelona — El Dios Griego",
+    "texto": "El Barcelona había ganado 4-1 en la ida, pero la Roma remontó con un 3-0 en el Olímpico. El gol decisivo fue un cabezazo de Manolas, apodado 'el dios griego' por la afición en esa noche histórica. La Roma avanzó gracias al valor de los goles fuera de casa. Es una de las grandes sorpresas recientes de la Champions."
   },
+
   {
-    "id": "ucl_2018_19_semis_liverpool_barcelona",
+    "id": "ucl_eliminatoria_2019_liverpool_barcelona",
     "categoria": "eliminatoria",
     "tipo": "contexto",
     "season_year": 2019,
-    "round": "semifinal",
-    "leg": "vuelta",
-    "team_1": "Liverpool",
-    "team_2": "Barcelona",
-    "result_ida": "Barcelona 3-0 Liverpool",
-    "result_vuelta": "Liverpool 4-0 Barcelona",
-    "texto": "En Anfield, el Liverpool protagonizo el 'Milagro de Anfield'. Tras perder 3-0 en el Camp Nou, los reds ganaron 4-0 con dobletes de Origi y Wijnaldum. El cuarto gol llego tras un saque de esquina rapido de Alexander-Arnold que sorprendio a la defensa blaugrana.",
-    "metadata": {
-      "global": "4-3 Liverpool",
-      "remontada_iconica": true
-    }
+    "titulo": "Semifinal 2018-19: Liverpool 4-0 Barcelona — El Milagro de Anfield",
+    "texto": "Tras perder 3-0 en el Camp Nou, el Liverpool logró un 4-0 inolvidable con dobletes de Origi y Wijnaldum. El cuarto gol llegó tras un saque de esquina rápido ejecutado por Alexander-Arnold. Es una de las remontadas más estudiadas tácticamente y un ejemplo del espíritu competitivo del Liverpool."
   },
+
   {
-    "id": "ucl_2018_19_octavos_manchester_united_psg",
+    "id": "ucl_eliminatoria_2019_united_psg",
     "categoria": "eliminatoria",
     "tipo": "contexto",
     "season_year": 2019,
-    "round": "octavos",
-    "leg": "vuelta",
-    "team_1": "Paris Saint-Germain",
-    "team_2": "Manchester United",
-    "result_ida": "Manchester United 0-2 PSG",
-    "result_vuelta": "PSG 1-3 Manchester United",
-    "texto": "En 2018-19, el PSG parecia tener la eliminatoria controlada tras el 0-2 de la ida en Old Trafford. En Paris, el United gano 1-3 con un penalti revisado por VAR en los minutos finales, culminando una remontada inesperada con muchos titulares lesionados.",
-    "metadata": {
-      "global": "3-3, pasa Manchester United por goles fuera",
-      "remontada_iconica": true
-    }
+    "titulo": "Octavos 2018-19: Manchester United 3-1 PSG — Remontada inesperada",
+    "texto": "El PSG había ganado 0-2 en Old Trafford y parecía clasificado, pero en París el United ganó 1-3 con un penalti revisado por VAR en el tramo final. Fue una eliminatoria sorprendente por la cantidad de bajas del United y por cómo el PSG volvió a sufrir un vuelco inesperado en Europa."
   },
+
   {
-    "id": "ucl_2018_19_semis_ajax_tottenham",
+    "id": "ucl_eliminatoria_2019_ajax_tottenham",
     "categoria": "eliminatoria",
     "tipo": "contexto",
     "season_year": 2019,
-    "round": "semifinal",
-    "leg": "vuelta",
-    "team_1": "Ajax",
-    "team_2": "Tottenham",
-    "result_ida": "Tottenham 0-1 Ajax",
-    "result_vuelta": "Ajax 2-3 Tottenham",
-    "texto": "El joven Ajax ganaba 2-0 la vuelta en Amsterdam y parecia encaminado a la final, pero Lucas Moura firmo un hat-trick para el Tottenham, con el 2-3 en el descuento. Los ingleses pasaron a su primera final de Champions.",
-    "metadata": {
-      "global": "3-3, pasa Tottenham por goles fuera",
-      "remontada_iconica": true
-    }
+    "titulo": "Semifinal 2018-19: Ajax 2-3 Tottenham — El hat-trick de Lucas Moura",
+    "texto": "El Ajax ganaba 2-0 en la vuelta y parecía casi clasificado, pero Lucas Moura firmó un hat-trick, marcando el 2-3 en el descuento. Gracias a los goles fuera de casa, el Tottenham llegó a su primera final de Champions. Esta eliminatoria se considera uno de los finales más dramáticos de una semifinal moderna."
   },
+
   {
-    "id": "ucl_2010_11_octavos_bayern_inter",
+    "id": "ucl_eliminatoria_2011_bayern_inter",
     "categoria": "eliminatoria",
     "tipo": "contexto",
     "season_year": 2011,
-    "round": "octavos",
-    "leg": "vuelta",
-    "team_1": "Bayern Munich",
-    "team_2": "Inter",
-    "result_ida": "Inter 0-1 Bayern",
-    "result_vuelta": "Bayern 2-3 Inter",
-    "texto": "En octavos de 2010-11, el Bayern gano 0-1 en Milan, pero en la vuelta el Inter se impuso 2-3 en Munich. Los italianos, vigentes campeones, remontaron la eliminatoria con un gol tardio de Pandev.",
-    "metadata": {
-      "global": "3-3, pasa Inter por goles fuera"
-    }
+    "titulo": "Octavos 2010-11: Inter 3-2 Bayern — Decidido por goles fuera",
+    "texto": "Tras perder 0-1 en la ida, el Inter venció 2-3 en Múnich con un gol tardío de Pandev. El 3-3 global permitió al Inter avanzar gracias al valor de los goles fuera de casa. Fue una eliminatoria vibrante entre dos campeones recientes de Europa."
   },
+
   {
-    "id": "ucl_2021_22_semis_real_madrid_manchester_city",
+    "id": "ucl_eliminatoria_2022_real_madrid_city",
     "categoria": "eliminatoria",
     "tipo": "contexto",
     "season_year": 2022,
-    "round": "semifinal",
-    "leg": "vuelta",
-    "team_1": "Real Madrid",
-    "team_2": "Manchester City",
-    "result_ida": "Manchester City 4-3 Real Madrid",
-    "result_vuelta": "Real Madrid 3-1 Manchester City (tras prorroga)",
-    "texto": "En la vuelta de semifinales 2021-22, el City ganaba 0-1 en el minuto 89 y parecia sentenciar la eliminatoria. Dos goles seguidos de Rodrygo forzaron la prorroga y un penalti transformado por Benzema dio el pase al Real Madrid en una de sus remontadas mas celebres.",
-    "metadata": {
-      "global": "6-5 Real Madrid",
-      "remontada_iconica": true
-    }
+    "titulo": "Semifinal 2021-22: Real Madrid 3-1 Manchester City (prórroga) — La locura del Bernabéu",
+    "texto": "El City ganaba 0-1 en el minuto 89 y parecía finalista. Pero dos goles de Rodrygo en un minuto forzaron la prórroga. Un penalti convertido por Benzema completó una remontada legendaria. Esta eliminatoria resume el espíritu competitivo del Real Madrid en la era moderna."
   },
+
   {
-    "id": "ucl_2012_13_semis_barcelona_bayern",
+    "id": "ucl_eliminatoria_2013_bayern_barcelona_7_0",
     "categoria": "eliminatoria",
     "tipo": "fact",
     "season_year": 2013,
-    "round": "semifinal",
-    "leg": "global",
-    "team_1": "Barcelona",
-    "team_2": "Bayern Munich",
-    "result": "4-0 ida, 3-0 vuelta",
-    "texto": "Las semifinales de 2012-13 entre Bayern y Barcelona terminaron con un contundente 7-0 global a favor del equipo aleman. Fue un punto de inflexion en Europa y simbolo del cambio de ciclo hacia el poderio fisico y tactico del Bayern.",
-    "metadata": {
-      "global": "7-0 Bayern",
-      "goleada_historica": true
-    }
+    "titulo": "Semifinal 2012-13: Bayern 7-0 Barcelona global — Cambio de ciclo",
+    "texto": "El Bayern se impuso 4-0 en la ida y 3-0 en la vuelta, firmando un 7-0 global que simbolizó un cambio de ciclo en Europa. El poderío físico y táctico del Bayern contrastó con un Barcelona en transición. Esta eliminatoria es recordada como una de las mayores demostraciones de superioridad en semifinales."
   },
 
   {
-    "id": "ucl_group_historic_1998_99_manchester_united_barcelona",
+    "id": "ucl_group_1999_united_barcelona",
     "categoria": "fase_grupos",
     "tipo": "contexto",
     "season_year": 1999,
-    "round": "fase_de_grupos",
-    "team_1": "Manchester United",
-    "team_2": "Barcelona",
-    "texto": "En la fase de grupos 1998-99 se vivieron dos 3-3 espectaculares entre Manchester United y Barcelona. Fueron partidos llenos de ida y vuelta, con grandes goles y ritmo altisimo, que anticipaban la capacidad del United para competir hasta el ultimo minuto en esa edicion.",
-    "metadata": {
-      "grupos": true,
-      "partido_historico": true
-    }
-  },
-  {
-    "id": "ucl_group_historic_2014_15_roma_bayern",
-    "categoria": "fase_grupos",
-    "tipo": "contexto",
-    "season_year": 2015,
-    "round": "fase_de_grupos",
-    "team_1": "Roma",
-    "team_2": "Bayern Munich",
-    "texto": "En la fase de grupos 2014-15, el Bayern vencio 7-1 a la Roma en un partido que mostro la enorme superioridad del equipo aleman en aquella fase. Fue uno de los marcadores mas abultados fuera de las rondas previas.",
-    "metadata": {
-      "grupos": true,
-      "goleada_historica": true
-    }
-  },
-  {
-    "id": "ucl_group_historic_2015_16_psg_real_madrid",
-    "categoria": "fase_grupos",
-    "tipo": "contexto",
-    "season_year": 2016,
-    "round": "fase_de_grupos",
-    "team_1": "Paris Saint-Germain",
-    "team_2": "Real Madrid",
-    "texto": "En la fase de grupos 2015-16, PSG y Real Madrid se enfrentaron en dos duelos de alto nivel tactico. El PSG domino en casa pero no paso del 0-0, mientras que el Madrid gano 1-0 en el Bernabeu, asegurando el liderato de grupo.",
-    "metadata": {
-      "grupos": true,
-      "partido_historico": true
-    }
+    "titulo": "Fase de grupos 1998-99: Manchester United y Barcelona — Dos empates 3-3",
+    "texto": "En la fase de grupos 1998-99 se vivieron dos partidos memorables entre Manchester United y Barcelona, ambos terminados 3-3. Fueron encuentros llenos de ritmo, goles y ocasiones que anticipaban la espectacular trayectoria del United en esa edición, que terminaría con la histórica remontada en la final de 1999."
   },
 
   {
-    "id": "ucl_eliminatorias_qa_mayor_remontada_global",
-    "categoria": "eliminatoria",
-    "tipo": "qa",
-    "season_year": null,
-    "question": "Cual es una de las mayores remontadas globales en eliminatorias de Champions en este contexto?",
-    "answer": "Una de las mayores remontadas globales es la del Deportivo de La Coruna ante el Milan en 2003-04: tras perder 4-1 en la ida en San Siro, el Depor gano 4-0 en Riazor y paso por un global de 5-4.",
-    "metadata": {
-      "tema": "remontadas",
-      "nivel": "basico"
-    }
-  },
-  {
-    "id": "ucl_eliminatorias_qa_remontada_cuatro_goles",
-    "categoria": "eliminatoria",
-    "tipo": "qa",
-    "season_year": null,
-    "question": "Que equipo consiguio remontar una desventaja de cuatro goles en una eliminatoria de Champions?",
-    "answer": "El Barcelona remonto una desventaja de cuatro goles ante el Paris Saint-Germain en los octavos de final 2016-17. Perdio 4-0 en la ida en Paris y gano 6-1 en la vuelta en el Camp Nou para un global de 6-5.",
-    "metadata": {
-      "tema": "remontadas",
-      "nivel": "basico"
-    }
-  },
-  {
-    "id": "ucl_eliminatorias_qa_mayor_goleada_final",
-    "categoria": "final",
-    "tipo": "qa",
-    "season_year": null,
-    "question": "Cual es la mayor goleada en una final de la era Champions moderna segun este contexto?",
-    "answer": "En la temporada 2024-25, el Paris Saint-Germain derroto 5-0 al Inter en Munich, la mayor diferencia de goles registrada en una final de Champions League.",
-    "metadata": {
-      "tema": "records_finales",
-      "nivel": "basico"
-    }
-  },
-  {
-    "id": "ucl_eliminatorias_qa_finales_penaltis",
-    "categoria": "final",
-    "tipo": "qa",
-    "season_year": null,
-    "question": "Que finales de Champions desde 1992-93 se decidieron en penaltis?",
-    "answer": "Desde 1992-93, varias finales se decidieron en penaltis: Juventus-Ajax 1995-96, Milan-Juventus 2002-03, Liverpool-Milan 2004-05, Manchester United-Chelsea 2007-08, Chelsea-Bayern 2011-12 y Real Madrid-Atletico 2015-16.",
-    "metadata": {
-      "tema": "finales_penaltis",
-      "nivel": "medio"
-    }
-  },
-  {
-    "id": "ucl_eliminatorias_qa_tripletes_modernos",
-    "categoria": "final",
-    "tipo": "qa",
-    "season_year": null,
-    "question": "Que equipos han logrado el triplete liga-copa-Champions en esta etapa moderna?",
-    "answer": "En la era moderna cubierta aqui, han logrado el triplete: el Barcelona (2008-09 y 2014-15), el Inter (2009-10), el Bayern Munich (2012-13 y 2019-20), el Manchester City (2022-23) y el Paris Saint-Germain (2024-25).",
-    "metadata": {
-      "tema": "tripletes",
-      "nivel": "medio"
-    }
-  },
-  {
-    "id": "ucl_eliminatorias_qa_finales_mas_recordadas",
-    "categoria": "final",
-    "tipo": "qa",
-    "season_year": null,
-    "question": "Que finales suelen considerarse mas historicas por su guion?",
-    "answer": "Entre las finales mas recordadas estan: Manchester United 2-1 Bayern 1999 por los goles en el descuento, Liverpool-Milan 2005 por la remontada de Estambul, Real Madrid-Atletico 2014 por el gol de Ramos en el 93 y la prorroga, y la goleada 5-0 del PSG al Inter en 2025 por su caracter inedito.",
-    "metadata": {
-      "tema": "finales_iconicas",
-      "nivel": "medio"
-    }
-  },
-  {
-    "id": "ucl_eliminatorias_qa_partidos_grupo_historicos",
+    "id": "ucl_group_2015_roma_bayern",
     "categoria": "fase_grupos",
-    "tipo": "qa",
-    "season_year": null,
-    "question": "Hay partidos de fase de grupos que se consideren historicos en este contexto?",
-    "answer": "Si, por ejemplo los dos 3-3 entre Manchester United y Barcelona en la fase de grupos 1998-99 y goleadas como el 7-1 del Bayern a la Roma en 2014-15. Aunque no son eliminatorias directas, suelen citarse como partidos claves de fase de grupos.",
-    "metadata": {
-      "tema": "fase_de_grupos",
-      "nivel": "medio"
-    }
+    "tipo": "contexto",
+    "season_year": 2015,
+    "titulo": "Fase de grupos 2014-15: Roma 1-7 Bayern",
+    "texto": "El Bayern goleó 1-7 a la Roma en una de las mayores exhibiciones ofensivas en fase de grupos. El ritmo, la presión y la eficacia del equipo alemán dejaron un resultado histórico que sigue siendo uno de los marcadores más abultados de la fase de grupos moderna."
+  },
+
+  {
+    "id": "ucl_group_2016_psg_real_madrid",
+    "categoria": "fase_grupos",
+    "tipo": "contexto",
+    "season_year": 2016,
+    "titulo": "Fase de grupos 2015-16: PSG vs Real Madrid — Duelo táctico",
+    "texto": "PSG y Real Madrid protagonizaron una fase de grupos de altísimo nivel táctico. En París empataron 0-0 en un partido muy controlado, mientras que en el Bernabéu el Madrid ganó 1-0 asegurando el liderato. Aunque no hubo una lluvia de goles, fueron partidos estudiados y muy analizados por el equilibrio entre dos grandes proyectos europeos."
   }
 ]

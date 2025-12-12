@@ -1,14 +1,14 @@
 [
   {
-  "id": "players_overview_top_appearances",
-  "categoria": "player",
-  "tipo": "fact",
-  "season_year": null,
-  "titulo": "Jugadores con mas partidos disputados en la Champions segun el dataset",
-  "texto": "El dataset incluye tambien a los jugadores con mas partidos disputados en la Champions League moderna. Cristiano Ronaldo es el futbolista con mas apariciones, con 183 partidos, seguido muy de cerca por Iker Casillas con 177. A continuacion aparecen Thomas Muller y Lionel Messi con 163 cada uno, Manuel Neuer con 155, Karim Benzema con 152 y Raul con 142. Otros nombres con muchas presencias son Robert Lewandowski, Gianluigi Buffon, Zlatan Ibrahimovic, Thierry Henry, Petr Cech, Antoine Griezmann, Victor Valdes y Oliver Kahn. Esta lista mezcla delanteros, porteros y jugadores de distintas posiciones que han sido titulares de forma muy constante durante muchos anos en la competicion.",
-  "metadata": {
-    "tema": "maximos_partidos",
-    "top_appearances": [
+    "id": "players_overview_top_appearances",
+    "categoria": "player",
+    "tipo": "fact",
+    "season_year": null,
+    "titulo": "Jugadores con más partidos disputados en la Champions según el dataset",
+    "texto": "El dataset incluye también a los jugadores con más partidos disputados en la Champions League moderna. Cristiano Ronaldo es el futbolista con más apariciones, con 183 partidos, seguido muy de cerca por Iker Casillas con 177. A continuación aparecen Thomas Müller y Lionel Messi con 163 cada uno, Manuel Neuer con 155, Karim Benzema con 152 y Raúl con 142. Otros nombres con muchas presencias son Robert Lewandowski, Gianluigi Buffon, Zlatan Ibrahimović, Thierry Henry, Petr Cech, Antoine Griezmann, Víctor Valdés y Oliver Kahn. Esta lista mezcla delanteros, porteros y jugadores de distintas posiciones que han sido titulares de forma muy constante durante muchos años en la competición, y resume muy bien qué perfiles han estado presentes en la élite europea durante más tiempo. Según este ranking del dataset: Cristiano Ronaldo alcanza los 183 partidos de Champions, Iker Casillas 177, Thomas Müller 163 con el Bayern Múnich, Lionel Messi 163 entre sus dos clubes, Manuel Neuer 155 repartidos en dos equipos, Karim Benzema 152 también con dos clubes, Raúl 142, Robert Lewandowski 137 con tres clubes diferentes, Gianluigi Buffon 124, Zlatan Ibrahimović 124 con hasta siete clubes distintos, Thierry Henry 112, Petr Cech 111, Antoine Griezmann 110, Víctor Valdés 106 con el FC Barcelona y Oliver Kahn 103 con el Bayern Múnich.",
+    "metadata": {
+      "tema": "maximos_partidos",
+      "top_appearances": [
         {
           "player_name": "Cristiano Ronaldo",
           "nationality": "Portugal",
@@ -60,7 +60,7 @@
         {
           "player_name": "Gianluigi Buffon",
           "nationality": "Italia",
-            "teams_descr": "Para 3 clubes",
+          "teams_descr": "Para 3 clubes",
           "apps": 124
         },
         {
@@ -101,15 +101,14 @@
         }
       ]
     }
-  }
-  ,
+  },
   {
     "id": "players_overview_top_scorers",
     "categoria": "player",
     "tipo": "fact",
     "season_year": null,
-    "titulo": "Maximos goleadores historicos segun el dataset",
-    "texto": "El dataset de Champions recoge a los grandes goleadores historicos de la competicion moderna. Cristiano Ronaldo lidera la tabla con 140 goles en 183 partidos, seguido por Lionel Messi con 129 goles en 163 partidos. Tras ellos aparecen Robert Lewandowski con 105 goles, Karim Benzema con 90 y Raul con 71. Otros nombres clave en el top goleador son Kylian Mbappe, Thomas Muller, Ruud van Nistelrooy, Erling Haaland y Thierry Henry. Entre todos suman cientos de goles y asistencias, y representan distintos perfiles de delantero: rematadores puros, delanteros totales y atacantes muy participativos en la creacion del juego.",
+    "titulo": "Máximos goleadores históricos según el dataset",
+    "texto": "El dataset de Champions recoge a los grandes goleadores históricos de la competición moderna. Cristiano Ronaldo lidera la tabla con 140 goles en 183 partidos, seguido por Lionel Messi con 129 goles en 163 partidos. Tras ellos aparecen Robert Lewandowski con 105 goles, Karim Benzema con 90 y Raúl con 71. Otros nombres clave en el top goleador son Kylian Mbappé, Thomas Müller, Ruud van Nistelrooy, Erling Haaland y Thierry Henry. Entre todos suman cientos de goles y asistencias, y representan distintos perfiles de delantero: rematadores puros, delanteros totales y atacantes muy participativos en la creación del juego. Según los datos detallados del dataset, Cristiano Ronaldo acumula 140 goles, 50 asistencias y 19 penaltis transformados en 183 partidos con tres clubes; Lionel Messi registra 129 goles, 45 asistencias y 18 penaltis en 163 partidos con dos clubes; Robert Lewandowski suma 105 goles, 26 asistencias y 19 penaltis en 137 partidos repartidos entre tres clubes; Karim Benzema llega a 90 goles, 30 asistencias y 3 penaltis en 152 partidos para dos clubes; Raúl alcanza 71 goles, 32 asistencias y 1 penalti en 142 partidos con dos clubes. Además, Kylian Mbappé completa 64 goles, 27 asistencias y 9 penaltis en 92 partidos con tres clubes; Thomas Müller suma 57 goles, 34 asistencias y 8 penaltis en 163 encuentros con el Bayern Múnich; Ruud van Nistelrooy anota 56 goles, 18 asistencias y 10 penaltis en solo 73 partidos con tres clubes; Erling Haaland firma 54 goles, 5 asistencias y 8 penaltis en 53 partidos con tres clubes; y Thierry Henry registra 50 goles, 24 asistencias y 3 penaltis en 112 partidos con tres clubes. Este nivel de detalle permite usar el dataset para comparar no solo quién marca más, sino también quién crea más ocasiones o depende más o menos del penalti.",
     "metadata": {
       "tema": "maximos_goleadores",
       "top_scorers": [
@@ -206,14 +205,13 @@
       ]
     }
   },
-
   {
     "id": "players_overview_top_assisters",
     "categoria": "player",
     "tipo": "fact",
     "season_year": null,
-    "titulo": "Jugadores con mas asistencias en la Champions segun el dataset",
-    "texto": "Ademas de los goleadores, la base de datos recoge a los grandes asistentes de la era moderna. Segun los datos de acciones ofensivas, Angel Di Maria suma 41 asistencias, Lionel Messi 40, Neymar 33, Ryan Giggs y Xavi Hernandez 30 cada uno. Tambien destacan Andres Iniesta y Karim Benzema con 29 asistencias, Thomas Muller con 28, Kevin De Bruyne con 27 y Zlatan Ibrahimovic con 26. Son jugadores que no solo marcan, sino que generan la ultima pase y participan de forma constante en la creacion de ocasiones.",
+    "titulo": "Jugadores con más asistencias en la Champions según el dataset",
+    "texto": "Además de los goleadores, la base de datos recoge a los grandes asistentes de la era moderna. Según los datos de acciones ofensivas, Ángel Di María suma 41 asistencias, Lionel Messi 40, Neymar 33, Ryan Giggs y Xavi Hernández 30 cada uno. También destacan Andrés Iniesta y Karim Benzema con 29 asistencias, Thomas Müller con 28, Kevin De Bruyne con 27 y Zlatan Ibrahimović con 26. Son jugadores que no solo marcan, sino que generan el último pase y participan de forma constante en la creación de ocasiones. Esta información permite analizar qué futbolistas sostienen el volumen ofensivo de sus equipos más allá del gol: extremos que centran, mediapuntas que filtran pases interiores y centrocampistas que conectan las fases de juego y dejan a los delanteros en posición ventajosa de remate.",
     "metadata": {
       "tema": "maximos_asistentes",
       "top_assisters": [
@@ -260,14 +258,13 @@
       ]
     }
   },
-
   {
     "id": "players_overview_top_goalkeepers",
     "categoria": "player",
     "tipo": "fact",
     "season_year": null,
-    "titulo": "Porteros historicos con mas porterias a cero",
-    "texto": "El dataset de porteros refleja a varios guardametas legendarios de la Champions. Manuel Neuer suma 63 porterias a cero en 155 partidos y encaja 150 goles, con una media de 92 minutos por gol recibido. Iker Casillas alcanza 59 porterias a cero en 177 partidos y 204 goles encajados. Gianluigi Buffon registra 53 porterias a cero en 124 partidos, y Edwin van der Sar y Petr Cech tambien superan las 49 porterias imbatidas. Tambien destacan Victor Valdes, Jan Oblak, Dida, Oliver Kahn y Ederson, todos con mas de 30 porterias a cero en la competicion.",
+    "titulo": "Porteros históricos con más porterías a cero",
+    "texto": "El dataset de porteros refleja a varios guardametas legendarios de la Champions. Manuel Neuer suma 63 porterías a cero en 155 partidos y encaja 150 goles, con una media de 92 minutos por gol recibido. Iker Casillas alcanza 59 porterías a cero en 177 partidos y 204 goles encajados. Gianluigi Buffon registra 53 porterías a cero en 124 partidos, y Edwin van der Sar y Petr Cech también superan las 49 porterías imbatidas. También destacan Víctor Valdés, Jan Oblak, Dida, Oliver Kahn y Ederson, todos con más de 30 porterías a cero en la competición. Según el detalle numérico del dataset, Manuel Neuer (para dos clubes) acumula 155 partidos, 63 porterías a cero, 150 goles encajados y recibe un gol cada 92 minutos; Iker Casillas (para dos clubes) llega a 177 partidos, 59 porterías a cero, 204 goles encajados y una media de 77 minutos por gol; Gianluigi Buffon (para tres clubes) disputa 124 partidos, con 53 porterías a cero, 118 goles encajados y 95 minutos por gol recibido. Edwin van der Sar, también en tres clubes, suma 98 partidos, 51 porterías a cero, 85 goles encajados y una media de 103 minutos por gol. Petr Cech, con tres clubes, juega 111 partidos, deja su portería a cero en 49 ocasiones, encaja 115 goles y recibe un gol cada 86 minutos. Víctor Valdés, en el FC Barcelona, disputa 106 partidos, consigue 45 porterías a cero, encaja 113 goles y presenta una media de 107 minutos por gol encajado. Jan Oblak, repartido entre dos clubes, juega 98 partidos, con 36 porterías a cero, 114 goles encajados y 77 minutos por gol. Dida, con el AC Milan, suma 72 partidos, 35 porterías a cero, 59 goles encajados y una media de 109 minutos por gol recibido. Oliver Kahn, con el Bayern Múnich, disputa 103 partidos, con 34 porterías a cero, 105 goles encajados y 88 minutos por gol. Por último, Ederson (para dos clubes) llega a 86 partidos, con 33 porterías a cero, 96 goles encajados y 80 minutos por gol recibido. Este bloque de datos permite trabajar comparativas de regularidad, solidez defensiva y estilo de portero en la era moderna de la Champions.",
     "metadata": {
       "tema": "porteros_historicos",
       "top_goalkeepers": [
@@ -364,15 +361,14 @@
       ]
     }
   },
-
   {
     "id": "player_cristiano_ronaldo_profile",
     "categoria": "player",
     "tipo": "fact",
     "season_year": null,
     "player_name": "Cristiano Ronaldo",
-    "titulo": "Cristiano Ronaldo: maximo goleador de la Champions segun el dataset",
-    "texto": "Cristiano Ronaldo aparece en el dataset como el maximo goleador historico de la Champions League, con 140 goles en 183 partidos y 50 asistencias. Ha marcado para tres clubes diferentes y suma 19 goles de penalti. Su perfil estadistico refleja un delantero total: gran volumen de remates, presencia constante en partidos clave y capacidad para aparecer en eliminatorias decisivas. Ademas de los goles, sus asistencias muestran que no solo finaliza, sino que tambien participa en la generacion de ocasiones.",
+    "titulo": "Cristiano Ronaldo: máximo goleador de la Champions según el dataset",
+    "texto": "Cristiano Ronaldo aparece en el dataset como el máximo goleador histórico de la Champions League, con 140 goles en 183 partidos y 50 asistencias. Ha marcado para tres clubes diferentes y suma 19 goles de penalti. Su perfil estadístico refleja un delantero total: gran volumen de remates, presencia constante en partidos clave y capacidad para aparecer en eliminatorias decisivas. Además de los goles, sus asistencias muestran que no solo finaliza, sino que también participa en la generación de ocasiones. El hecho de que combine tantos goles con un número tan alto de asistencias lo convierte en una referencia para estudiar delanteros que influyen en todas las fases del ataque, desde la recepción y descarga hasta el remate final.",
     "metadata": {
       "posicion": "delantero",
       "apps": 183,
@@ -388,7 +384,7 @@
     "season_year": null,
     "player_name": "Lionel Messi",
     "titulo": "Lionel Messi en la Champions: goleador y generador de juego",
-    "texto": "Lionel Messi suma 129 goles en 163 partidos de Champions en el dataset, con 45 asistencias y 18 penaltis transformados. Aunque sus cifras goleadoras son extraordinarias, sus datos de asistencias muestran su doble rol de goleador y creador. Ha jugado para dos clubes diferentes y ha sido el centro del juego ofensivo de sus equipos, acumulando grandes temporadas de goles y asistencias a la vez.",
+    "texto": "Lionel Messi suma 129 goles en 163 partidos de Champions en el dataset, con 45 asistencias y 18 penaltis transformados. Aunque sus cifras goleadoras son extraordinarias, sus datos de asistencias muestran su doble rol de goleador y creador. Ha jugado para dos clubes diferentes y ha sido el centro del juego ofensivo de sus equipos, acumulando grandes temporadas de goles y asistencias a la vez. Este perfil encaja con un futbolista que baja a recibir entre líneas, genera ventajas a partir del regate y el pase y, al mismo tiempo, mantiene cifras de finalización propias de un nueve. El dataset permite verlo tanto como máximo finalizador de su equipo en muchas temporadas como principal generador de ocasiones y último pase.",
     "metadata": {
       "posicion": "delantero / mediapunta",
       "apps": 163,
@@ -403,8 +399,8 @@
     "tipo": "fact",
     "season_year": null,
     "player_name": "Robert Lewandowski",
-    "titulo": "Robert Lewandowski: delantero referencia de area",
-    "texto": "Robert Lewandowski registra 105 goles en 137 partidos de Champions, con 26 asistencias y 19 penaltis marcados. Sus cifras le colocan como uno de los mejores delanteros de area del periodo moderno. Combina remate de primeras, juego de espaldas y eficacia desde el punto de penalti. En varias temporadas se situa por encima de los 10 goles en una misma edicion, siendo uno de los maximos goleadores en diferentes campanas.",
+    "titulo": "Robert Lewandowski: delantero referencia de área",
+    "texto": "Robert Lewandowski registra 105 goles en 137 partidos de Champions, con 26 asistencias y 19 penaltis marcados. Sus cifras le colocan como uno de los mejores delanteros de área del periodo moderno. Combina remate de primeras, juego de espaldas y eficacia desde el punto de penalti. En varias temporadas se sitúa por encima de los 10 goles en una misma edición, siendo uno de los máximos goleadores en diferentes campañas. El dataset lo presenta como un nueve muy claro: gran parte de sus acciones se concentran en zona de remate, donde castiga cualquier centro o balón suelto. Esto lo convierte en un ejemplo ideal para analizar delanteros que dependen menos de la conducción y más del posicionamiento y la sincronización con los centros laterales.",
     "metadata": {
       "posicion": "delantero centro",
       "apps": 137,
@@ -420,7 +416,7 @@
     "season_year": null,
     "player_name": "Karim Benzema",
     "titulo": "Karim Benzema: delantero total en Champions",
-    "texto": "Karim Benzema suma 90 goles y 30 asistencias en 152 partidos de Champions segun el dataset. Solo tiene 3 goles de penalti, lo que refuerza el peso del gol en jugada y de cabeza. Su perfil estadistico refleja un delantero total: ayuda en la construccion, cae a bandas, genera espacios y, ademas, mantiene un promedio de gol muy alto en fases finales. Su gran temporada de 2021-22 se ve reflejada con un pico goleador especialmente elevado.",
+    "texto": "Karim Benzema suma 90 goles y 30 asistencias en 152 partidos de Champions según el dataset. Solo tiene 3 goles de penalti, lo que refuerza el peso del gol en jugada y de cabeza. Su perfil estadístico refleja un delantero total: ayuda en la construcción, cae a bandas, genera espacios y, además, mantiene un promedio de gol muy alto en fases finales. Su gran temporada de 2021-22 se ve reflejada con un pico goleador especialmente elevado. Benzema es un buen ejemplo de cómo un delantero puede ser a la vez pasador y rematador, y cómo su influencia táctica (ocupando zonas intermedias, fijando centrales o liberando a compañeros) acaba traduciéndose en cifras muy altas en contextos de máxima exigencia como la Champions.",
     "metadata": {
       "posicion": "delantero",
       "apps": 152,
@@ -435,8 +431,8 @@
     "tipo": "fact",
     "season_year": null,
     "player_name": "Kylian Mbappé",
-    "titulo": "Kylian Mbappé: explosividad y produccion ofensiva",
-    "texto": "Kylian Mbappe acumula 64 goles y 27 asistencias en 92 partidos de Champions en el dataset. Ha marcado 9 penaltis y se mantiene con un promedio de gol por partido muy elevado para su edad. Sus numeros combinan velocidad, desborde y definicion, y tambien una buena cifra de pases de gol. Es uno de los jugadores mas productivos ofensivamente en las ultimas temporadas de la competicion.",
+    "titulo": "Kylian Mbappé: explosividad y producción ofensiva",
+    "texto": "Kylian Mbappé acumula 64 goles y 27 asistencias en 92 partidos de Champions en el dataset. Ha marcado 9 penaltis y se mantiene con un promedio de gol por partido muy elevado para su edad. Sus números combinan velocidad, desborde y definición, y también una buena cifra de pases de gol. Es uno de los jugadores más productivos ofensivamente en las últimas temporadas de la competición. Este perfil estadístico refleja a un atacante que amenaza al espacio, castiga transiciones y también puede asociarse en zonas interiores. La combinación de goles, asistencias y penaltis convertidos lo sitúa como uno de los referentes de la nueva generación en la Champions moderna.",
     "metadata": {
       "posicion": "delantero",
       "apps": 92,
@@ -451,8 +447,8 @@
     "tipo": "fact",
     "season_year": null,
     "player_name": "Erling Haaland",
-    "titulo": "Erling Haaland: promedio goleador de elite",
-    "texto": "Erling Haaland presenta uno de los promedios goleadores mas altos del dataset: 54 goles en solo 53 partidos de Champions, con 5 asistencias y 8 goles de penalti. Sus datos muestran un delantero extremadamente eficiente, capaz de marcar en casi cada partido. Su impacto se nota sobre todo en las primeras temporadas en la competicion, donde mantiene cifras de gol por minuto muy altas.",
+    "titulo": "Erling Haaland: promedio goleador de élite",
+    "texto": "Erling Haaland presenta uno de los promedios goleadores más altos del dataset: 54 goles en solo 53 partidos de Champions, con 5 asistencias y 8 goles de penalti. Sus datos muestran un delantero extremadamente eficiente, capaz de marcar en casi cada partido. Su impacto se nota sobre todo en las primeras temporadas en la competición, donde mantiene cifras de gol por minuto muy altas. Este perfil encaja con un finalizador muy puro, que necesita pocos toques para convertir y que concentra gran parte de su impacto en el área rival. A nivel didáctico, el caso Haaland es perfecto para trabajar conceptos como goles esperados, eficiencia, volumen de remates y dependencia del sistema ofensivo que le rodea.",
     "metadata": {
       "posicion": "delantero centro",
       "apps": 53,
@@ -468,7 +464,7 @@
     "season_year": null,
     "player_name": "Thomas Müller",
     "titulo": "Thomas Müller: goleador, asistente y especialista en espacios",
-    "texto": "Thomas Muller suma 57 goles y 34 asistencias en 163 partidos de Champions. Ha transformado 8 penaltis. Sus numeros, equilibrados entre gol y pase, encajan con su rol de segundo punta o mediapunta que interpreta muy bien los espacios. Es uno de los jugadores mas constantes del Bayern en la competicion, con participacion tanto en fases de grupo como en eliminatorias avanzadas.",
+    "texto": "Thomas Müller suma 57 goles y 34 asistencias en 163 partidos de Champions. Ha transformado 8 penaltis. Sus números, equilibrados entre gol y pase, encajan con su rol de segundo punta o mediapunta que interpreta muy bien los espacios. Es uno de los jugadores más constantes del Bayern en la competición, con participación tanto en fases de grupo como en eliminatorias avanzadas. El dataset le presenta como un futbolista muy difícil de etiquetar: no es un nueve clásico ni un interior al uso, pero aparece continuamente en zonas de remate y en la última asistencia. Por eso, su caso es ideal para estudiar conceptos como ataques de segunda línea, lectura de espacios y aportación sin balón.",
     "metadata": {
       "posicion": "mediapunta / segundo delantero",
       "apps": 163,
@@ -484,7 +480,7 @@
     "season_year": null,
     "player_name": "Thierry Henry",
     "titulo": "Thierry Henry: delantero completo en Champions",
-    "texto": "Thierry Henry registra 50 goles y 24 asistencias en 112 partidos de Champions en el dataset, con 3 penaltis convertidos. Sus cifras reflejan un delantero muy completo, capaz de marcar, asistir, caer a banda y participar en la construccion del juego. Sus temporadas con grandes producciones goleadoras y de asistencias le convierten en uno de los atacantes mas completos de la era moderna.",
+    "texto": "Thierry Henry registra 50 goles y 24 asistencias en 112 partidos de Champions en el dataset, con 3 penaltis convertidos. Sus cifras reflejan un delantero muy completo, capaz de marcar, asistir, caer a banda y participar en la construcción del juego. Sus temporadas con grandes producciones goleadoras y de asistencias le convierten en uno de los atacantes más completos de la era moderna. En los datos se ve cómo combina ataques desde banda izquierda con apariciones por dentro y contraataques a campo abierto. Esto lo convierte en una buena referencia para explicar delanteros que no se limitan al remate, sino que también participan en la creación y en el arrastre de marcas.",
     "metadata": {
       "posicion": "delantero",
       "apps": 112,
@@ -500,7 +496,7 @@
     "season_year": null,
     "player_name": "Mohamed Salah",
     "titulo": "Mohamed Salah: extremo goleador",
-    "texto": "Mohamed Salah aparece en el dataset con 48 goles y 20 asistencias en 93 partidos, y 6 goles de penalti. Aunque parte desde la banda derecha, sus cifras son propias de un delantero centro. Es uno de los ejemplos mas claros de extremo goleador en la Champions moderna, con gran volumen de remates y produccion ofensiva continuada en varias temporadas.",
+    "texto": "Mohamed Salah aparece en el dataset con 48 goles y 20 asistencias en 93 partidos, y 6 goles de penalti. Aunque parte desde la banda derecha, sus cifras son propias de un delantero centro. Es uno de los ejemplos más claros de extremo goleador en la Champions moderna, con gran volumen de remates y producción ofensiva continuada en varias temporadas. El hecho de que, partiendo desde la banda, tenga cifras de goles comparables a nueve puros es útil para estudiar la evolución de los roles ofensivos: extremos que atacan el área, laterales profundos que ocupan la amplitud y un delantero que rompe desde fuera hacia dentro.",
     "metadata": {
       "posicion": "extremo derecho",
       "apps": 93,
@@ -509,7 +505,6 @@
       "penalties": 6
     }
   },
-
   {
     "id": "player_angel_di_maria_profile",
     "categoria": "player",
@@ -517,7 +512,7 @@
     "season_year": null,
     "player_name": "Ángel Di María",
     "titulo": "Ángel Di María: uno de los grandes asistentes de la Champions",
-    "texto": "Ángel Di María es uno de los jugadores con mas asistencias en el dataset de Champions, con 41 pases de gol acumulados a lo largo de sus participaciones. Ademas de las asistencias, aporta llegada desde segunda linea y amenaza a porteria rival. Su perfil combina regate, centro tenso y capacidad para decidir partidos de eliminatorias con goles o asistencias clave.",
+    "texto": "Ángel Di María es uno de los jugadores con más asistencias en el dataset de Champions, con 41 pases de gol acumulados a lo largo de sus participaciones. Además de las asistencias, aporta llegada desde segunda línea y amenaza a portería rival. Su perfil combina regate, centro tenso y capacidad para decidir partidos de eliminatorias con goles o asistencias clave. Las cifras de asistencias reflejan que su impacto se mide tanto en acciones a balón parado como en jugadas abiertas, y lo convierten en una referencia para estudiar extremos y mediapuntas que sostienen el volumen creativo de sus equipos.",
     "metadata": {
       "posicion": "extremo / mediapunta",
       "assists": 41
@@ -530,7 +525,7 @@
     "season_year": null,
     "player_name": "Xavi Hernández",
     "titulo": "Xavi Hernández: organizador de juego",
-    "texto": "Xavi Hernández suma 30 asistencias en la Champions segun los datos de acciones ofensivas. Aunque sus cifras goleadoras son menores, su importancia en el juego esta en la distribucion, los pases clave y el control del ritmo. En el Barcelona de la era Guardiola y posteriores, fue el cerebro del centro del campo y uno de los grandes responsables de que los goleadores del equipo recibieran balones en ventaja.",
+    "texto": "Xavi Hernández suma 30 asistencias en la Champions según los datos de acciones ofensivas. Aunque sus cifras goleadoras son menores, su importancia en el juego está en la distribución, los pases clave y el control del ritmo. En el Barcelona de la era Guardiola y posteriores, fue el cerebro del centro del campo y uno de los grandes responsables de que los goleadores del equipo recibieran balones en ventaja. El dataset lo muestra como un mediocentro que conecta fases: baja a recibir, gira, filtra y vuelve a ofrecerse, más allá de aparecer o no en el último pase. Es un ejemplo perfecto para ilustrar el rol del organizador o playmaker en la Champions moderna.",
     "metadata": {
       "posicion": "centrocampista",
       "assists": 30
@@ -543,7 +538,7 @@
     "season_year": null,
     "player_name": "Andrés Iniesta",
     "titulo": "Andrés Iniesta: generador de ventajas y asistencias",
-    "texto": "Andrés Iniesta registra 29 asistencias en el dataset de Champions. Su peso no se mide solo en goles o pases de gol, sino en conducciones, regates y desmarques que rompen lineas. Estadisticamente se le ve como un jugador que suma en la creacion de ocasiones y que aparece en momentos importantes, aunque su aportacion no siempre se traduzca directamente en gol o asistencia.",
+    "texto": "Andrés Iniesta registra 29 asistencias en el dataset de Champions. Su peso no se mide solo en goles o pases de gol, sino en conducciones, regates y desmarques que rompen líneas. Estadísticamente se le ve como un jugador que suma en la creación de ocasiones y que aparece en momentos importantes, aunque su aportación no siempre se traduzca directamente en gol o asistencia. Estos datos permiten entenderlo como un generador de ventajas: recibe entre líneas, supera rivales y luego descarga hacia los finalizadores. Es clave para estudiar cómo jugadores con pocas cifras de gol pueden ser, aun así, decisivos en el rendimiento ofensivo colectivo.",
     "metadata": {
       "posicion": "centrocampista ofensivo",
       "assists": 29
@@ -555,22 +550,21 @@
     "tipo": "fact",
     "season_year": null,
     "player_name": "Kevin De Bruyne",
-    "titulo": "Kevin De Bruyne: pasador de elite",
-    "texto": "Kevin De Bruyne suma 27 asistencias en la Champions en el dataset, ademas de un buen numero de goles. Es uno de los mejores pasadores largos y de centros tensos de la competicion. Sus datos reflejan una alta participacion en jugadas de gol, tanto desde la frontal como atacando los espacios entre lineas.",
+    "titulo": "Kevin De Bruyne: pasador de élite",
+    "texto": "Kevin De Bruyne suma 27 asistencias en la Champions en el dataset, además de un buen número de goles. Es uno de los mejores pasadores largos y de centros tensos de la competición. Sus datos reflejan una alta participación en jugadas de gol, tanto desde la frontal como atacando los espacios entre líneas. Sus registros son ideales para analizar el impacto del golpeo en centros laterales, los pases al espacio y la capacidad de un centrocampista para activar a delanteros y extremos con balones medidos. En muchos partidos de Champions aparece como el jugador que más ocasiones genera, aunque no siempre sea el que más marca.",
     "metadata": {
       "posicion": "centrocampista ofensivo",
       "assists": 27
     }
   },
-
   {
     "id": "player_sergio_ramos_profile",
     "categoria": "player",
     "tipo": "fact",
     "season_year": null,
     "player_name": "Sergio Ramos",
-    "titulo": "Sergio Ramos: defensa goleador y lider defensivo",
-    "texto": "Sergio Ramos combina datos defensivos muy altos con un registro goleador poco comun para un defensa. En el dataset de Champions suma 17 goles y 3 penaltis anotados en 99 apariciones ofensivas, y desde el punto de vista defensivo acumula 55 entradas, 887 balones recuperados y 289 despejes en 142 partidos disputados. Es uno de los centrales con mas presencia en ambas areas de la era moderna.",
+    "titulo": "Sergio Ramos: defensa goleador y líder defensivo",
+    "texto": "Sergio Ramos combina datos defensivos muy altos con un registro goleador poco común para un defensa. En el dataset de Champions suma 17 goles y 3 penaltis anotados en 99 apariciones ofensivas, y desde el punto de vista defensivo acumula 55 entradas, 887 balones recuperados y 289 despejes en 142 partidos disputados. Es uno de los centrales con más presencia en ambas áreas de la era moderna. Sus cifras muestran un defensa determinante en acciones a balón parado, tanto en ataque como en defensa, y un jugador capaz de sostener muchas fases de presión rival. Es un buen ejemplo para estudiar centrales que no solo defienden, sino que también deciden eliminatorias con goles en momentos clave.",
     "metadata": {
       "posicion": "defensa central",
       "goals": 17,
@@ -588,7 +582,7 @@
     "season_year": null,
     "player_name": "Marco Verratti",
     "titulo": "Marco Verratti: centrocampista recuperador",
-    "texto": "Marco Verratti aparece en el dataset como uno de los jugadores con mas entradas realizadas en la Champions. Suma 243 entradas y 403 balones recuperados en 74 partidos. Sus cifras defensivas son muy altas para un centrocampista, lo que refleja su papel de mediocentro agresivo en la presion y en la recuperacion, ademas de su capacidad para dar continuidad al juego tras el robo.",
+    "texto": "Marco Verratti aparece en el dataset como uno de los jugadores con más entradas realizadas en la Champions. Suma 243 entradas y 403 balones recuperados en 74 partidos. Sus cifras defensivas son muy altas para un centrocampista, lo que refleja su papel de mediocentro agresivo en la presión y en la recuperación, además de su capacidad para dar continuidad al juego tras el robo. El volumen de recuperaciones y entradas por partido lo sitúa como un ancla defensiva en el centro del campo, pero con buen pie para enlazar con los jugadores más creativos. Es un perfil muy útil para analizar mediocentros que combinan destrucción y construcción en contextos de máxima exigencia.",
     "metadata": {
       "posicion": "centrocampista defensivo",
       "defending__tackles": 243,
@@ -604,7 +598,7 @@
     "season_year": null,
     "player_name": "Casemiro",
     "titulo": "Casemiro: ancla defensiva en el centro del campo",
-    "texto": "Casemiro suma 123 entradas y 613 balones recuperados en 75 partidos de Champions en el dataset. Tambien registra mas de 100 despejes. Estas cifras lo situan como uno de los mediocentros defensivos mas influyentes del periodo reciente, protegiendo a la defensa, ganando duelos y equilibrando un centro del campo lleno de jugadores creativos.",
+    "texto": "Casemiro suma 123 entradas y 613 balones recuperados en 75 partidos de Champions en el dataset. También registra más de 100 despejes, con 101 acciones de este tipo. Estas cifras lo sitúan como uno de los mediocentros defensivos más influyentes del periodo reciente, protegiendo a la defensa, ganando duelos y equilibrando un centro del campo lleno de jugadores creativos. Su impacto se aprecia especialmente en eliminatorias largas, donde su capacidad para recuperar balones y cortar transiciones rivales permite que los atacantes asuman más riesgos. Es un ejemplo claro de cómo un mediocentro puede ser determinante sin necesidad de acumular goles o asistencias.",
     "metadata": {
       "posicion": "centrocampista defensivo",
       "defending__tackles": 123,
@@ -619,8 +613,8 @@
     "tipo": "fact",
     "season_year": null,
     "player_name": "Mats Hummels",
-    "titulo": "Mats Hummels: central con alta participacion defensiva",
-    "texto": "Mats Hummels aparece con 116 entradas, 700 balones recuperados y 86 partidos jugados en la Champions segun el dataset. Se trata de un defensa central con gran anticipacion, juego aereo y capacidad para iniciar la salida de balon. Sus numeros reflejan un volumen muy alto de acciones defensivas y de intervencion en la fase de inicio ofensivo.",
+    "titulo": "Mats Hummels: central con alta participación defensiva",
+    "texto": "Mats Hummels aparece con 116 entradas, 700 balones recuperados y 86 partidos jugados en la Champions según el dataset. Se trata de un defensa central con gran anticipación, juego aéreo y capacidad para iniciar la salida de balón. Sus números reflejan un volumen muy alto de acciones defensivas y de intervención en la fase de inicio ofensivo. Con 233 despejes registrados, se ve también su influencia en el área propia, sacando balones comprometidos y dominando el juego aéreo. Es un perfil ideal para estudiar centrales que combinan lectura defensiva, dominio del espacio y buena salida de balón desde atrás.",
     "metadata": {
       "posicion": "defensa central",
       "defending__tackles": 116,
@@ -629,7 +623,6 @@
       "defending__matches_appearance": 86
     }
   },
-
   {
     "id": "player_manuel_neuer_profile",
     "categoria": "player",
@@ -637,7 +630,7 @@
     "season_year": null,
     "player_name": "Manuel Neuer",
     "titulo": "Manuel Neuer: portero dominante en la era moderna",
-    "texto": "Manuel Neuer suma 155 partidos de Champions en el dataset, con 63 porterias a cero y 150 goles encajados, encajando un gol cada 92 minutos. Ademas de las cifras puramente defensivas, su juego con los pies y su rol de portero-libre han influido en la forma de interpretar la posicion. Es uno de los porteros mas completos y dominantes de la era moderna.",
+    "texto": "Manuel Neuer suma 155 partidos de Champions en el dataset, con 63 porterías a cero y 150 goles encajados, encajando un gol cada 92 minutos. Además de las cifras puramente defensivas, su juego con los pies y su rol de portero-libre han influido en la forma de interpretar la posición. Es uno de los porteros más completos y dominantes de la era moderna. Sus datos combinan volumen de partidos, alta frecuencia de porterías imbatidas y una media de goles encajados por minuto muy competitiva. Esto permite usar su perfil para explicar la evolución del portero moderno: un jugador que no solo para, sino que también participa en la construcción y permite a la defensa jugar más adelantada.",
     "metadata": {
       "posicion": "portero",
       "apps": 155,
@@ -653,7 +646,7 @@
     "season_year": null,
     "player_name": "Iker Casillas",
     "titulo": "Iker Casillas: longevidad y paradas decisivas",
-    "texto": "Iker Casillas registra 177 partidos de Champions con 59 porterias a cero y 204 goles encajados. Su media de 77 minutos por gol recibido, unida a la gran cantidad de partidos, refleja una carrera de maxima exigencia en la competicion. Es uno de los porteros con mayor numero de apariciones y con mas intervenciones decisivas en momentos clave.",
+    "texto": "Iker Casillas registra 177 partidos de Champions con 59 porterías a cero y 204 goles encajados. Su media de 77 minutos por gol recibido, unida a la gran cantidad de partidos, refleja una carrera de máxima exigencia en la competición. Es uno de los porteros con mayor número de apariciones y con más intervenciones decisivas en momentos clave. El dataset muestra cómo su rendimiento se mantiene alto a lo largo de muchos años, con participaciones continuadas en fases finales. Es un caso muy útil para analizar la combinación de longevidad, regularidad y capacidad para aparecer en noches decisivas de Champions.",
     "metadata": {
       "posicion": "portero",
       "apps": 177,
@@ -669,7 +662,7 @@
     "season_year": null,
     "player_name": "Gianluigi Buffon",
     "titulo": "Gianluigi Buffon: regularidad en la cima europea",
-    "texto": "Gianluigi Buffon acumula 124 partidos en Champions, 53 porterias a cero y 118 goles encajados. Con una media de 95 minutos por gol recibido, sus datos reflejan un portero muy solido durante muchos anos, manteniendose en la elite con varios clubes y en diferentes etapas de su carrera.",
+    "texto": "Gianluigi Buffon acumula 124 partidos en Champions, 53 porterías a cero y 118 goles encajados. Con una media de 95 minutos por gol recibido, sus datos reflejan un portero muy sólido durante muchos años, manteniéndose en la élite con varios clubes y en diferentes etapas de su carrera. Aunque no ha levantado tantas Champions como otros porteros del listado, sus cifras individuales son de máximo nivel. El dataset permite verlo como un guardameta de enorme estabilidad, clave para entender proyectos que llegan de forma recurrente a fases avanzadas de la competición gracias a una base defensiva muy fiable.",
     "metadata": {
       "posicion": "portero",
       "apps": 124,
@@ -678,14 +671,13 @@
       "minutes_per_goal_conceded": 95
     }
   },
-
   {
     "id": "players_qa_001_top_scorer",
     "categoria": "player",
     "tipo": "qa",
     "season_year": null,
-    "question": "Quien es el maximo goleador historico de la Champions segun este dataset?",
-    "answer": "Segun el dataset de goleadores, el maximo goleador historico de la Champions es Cristiano Ronaldo con 140 goles en 183 partidos.",
+    "question": "Quién es el máximo goleador histórico de la Champions según este dataset?",
+    "answer": "Según el dataset de goleadores, el máximo goleador histórico de la Champions es Cristiano Ronaldo con 140 goles en 183 partidos disputados para tres clubes distintos. Además, suma 50 asistencias y 19 penaltis marcados, lo que refleja no solo su capacidad rematadora sino también su influencia en la creación de ocasiones en la era moderna de la competición.",
     "metadata": {
       "tema": "records_jugadores",
       "nivel": "basico"
@@ -696,8 +688,8 @@
     "categoria": "player",
     "tipo": "qa",
     "season_year": null,
-    "question": "Que jugadores destacan como asistentes en la Champions en estos datos?",
-    "answer": "En los datos de acciones ofensivas destacan como grandes asistentes Angel Di Maria con 41 asistencias, Lionel Messi con 40, Neymar con 33, y centrocampistas como Xavi Hernandez, Andres Iniesta y Kevin De Bruyne con mas de 25 asistencias cada uno.",
+    "question": "Qué jugadores destacan como asistentes en la Champions en estos datos?",
+    "answer": "En los datos de acciones ofensivas destacan como grandes asistentes Ángel Di María con 41 asistencias, Lionel Messi con 40, Neymar con 33, y centrocampistas como Xavi Hernández, Andrés Iniesta y Kevin De Bruyne con más de 25 asistencias cada uno. Estos jugadores no solo marcan, sino que sostienen el volumen creativo de sus equipos, conectando líneas y generando el último pase que convierte las posesiones en ocasiones claras de gol.",
     "metadata": {
       "tema": "maximos_asistentes",
       "nivel": "medio"
@@ -708,8 +700,8 @@
     "categoria": "player",
     "tipo": "qa",
     "season_year": null,
-    "question": "Que porteros tienen mas porterias a cero en la Champions segun el dataset?",
-    "answer": "Los porteros con mas porterias a cero en este dataset son Manuel Neuer con 63, Iker Casillas con 59 y Gianluigi Buffon con 53. Tambien destacan Edwin van der Sar, Petr Cech, Victor Valdes, Jan Oblak, Dida, Oliver Kahn y Ederson, todos con mas de 30 porterias imbatidas.",
+    "question": "Qué porteros tienen más porterías a cero en la Champions según el dataset?",
+    "answer": "Los porteros con más porterías a cero en este dataset son Manuel Neuer con 63, Iker Casillas con 59 y Gianluigi Buffon con 53 partidos sin encajar gol. También destacan Edwin van der Sar, Petr Cech, Víctor Valdés, Jan Oblak, Dida, Oliver Kahn y Ederson, todos con más de 30 porterías imbatidas. Estas cifras reflejan guardametas muy regulares a lo largo de muchas temporadas y permiten comparar estilos de portero y contextos defensivos de sus equipos en la Champions moderna.",
     "metadata": {
       "tema": "porteros_historicos",
       "nivel": "medio"
@@ -720,8 +712,8 @@
     "categoria": "player",
     "tipo": "qa",
     "season_year": null,
-    "question": "En que se diferencian los perfiles de Cristiano, Messi y Lewandowski segun sus datos?",
-    "answer": "Cristiano Ronaldo presenta el mayor volumen goleador y un numero alto de penaltis, ademas de muchas apariciones en fases finales. Messi combina goles y asistencias de forma muy equilibrada, actuando como goleador y creador. Lewandowski tiene un perfil de 9 puro, con muchos goles desde el area y gran eficacia rematadora, con algo menos de participacion en la construccion que Messi o Cristiano.",
+    "question": "En qué se diferencian los perfiles de Cristiano, Messi y Lewandowski según sus datos?",
+    "answer": "Cristiano Ronaldo presenta el mayor volumen goleador y un número alto de penaltis, además de muchas apariciones en fases finales, lo que lo perfila como un finalizador masivo en contextos de máxima exigencia. Messi combina goles y asistencias de forma muy equilibrada, actuando como goleador y creador y participando mucho en la construcción del juego entre líneas. Lewandowski tiene un perfil de 9 puro, con muchos goles desde el área y una gran eficacia rematadora, con algo menos de participación en la construcción que Messi o Cristiano. Estas diferencias se ven reflejadas en goles, asistencias y forma de intervenir en el ataque, y ayudan a entender cómo cada uno encaja en modelos de juego distintos dentro de la Champions.",
     "metadata": {
       "tema": "comparativa_delanteros",
       "nivel": "avanzado"
@@ -732,8 +724,8 @@
     "categoria": "player",
     "tipo": "qa",
     "season_year": null,
-    "question": "Como complementan los centrocampistas creativos a los grandes goleadores en la Champions?",
-    "answer": "Jugadores como Xavi, Iniesta, De Bruyne o Verratti no siempre lideran la tabla de goles, pero sus datos de asistencias, recuperaciones y pases clave muestran que generan las condiciones para que los grandes delanteros marquen. Controlan el ritmo, recuperan balones y filtran pases en ventaja, permitiendo que goleadores como Cristiano, Messi, Lewandowski o Benzema conviertan esa produccion en cifras de gol muy altas.",
+    "question": "Cómo complementan los centrocampistas creativos a los grandes goleadores en la Champions?",
+    "answer": "Jugadores como Xavi, Iniesta, De Bruyne o Verratti no siempre lideran la tabla de goles, pero sus datos de asistencias, recuperaciones y pases clave muestran que generan las condiciones para que los grandes delanteros marquen. Controlan el ritmo, recuperan balones y filtran pases en ventaja, permitiendo que goleadores como Cristiano, Messi, Lewandowski o Benzema conviertan esa producción en cifras de gol muy altas. En resumen, los mediocentros creativos y recuperadores construyen el contexto táctico y numérico que hace posible que los atacantes conviertan ocasiones en goles de forma constante en la Champions.",
     "metadata": {
       "tema": "rol_centrocampistas",
       "nivel": "medio"

@@ -1,535 +1,138 @@
 [
   {
-    "id": "team_real_madrid_profile",
-    "categoria": "team",
+    "id": "ucl_history_overview_era_moderna",
+    "categoria": "history",
     "tipo": "fact",
-    "team_name": "Real Madrid",
     "season_year": null,
-    "titulo": "Perfil historico del Real Madrid en la Champions League",
-    "texto": "El Real Madrid es el club mas exitoso de la historia de la Champions League. En la era moderna se caracteriza por su resiliencia, su capacidad para remontar eliminatorias y la presencia constante de jugadores decisivos. Ha vivido varios ciclos ganadores, desde el equipo de Redondo, Raul, Figo y Zidane a finales de los 90, hasta la etapa de Ancelotti y las tres Champions consecutivas de Zidane. Desde 1995 hasta 2025 ha disputado 331 partidos de Champions, con 199 victorias, 60 empates y 72 derrotas. En ese periodo ha marcado 698 goles y ha encajado 371. Es el equipo que mas partidos y mas goles ha conseguido en la competicion desde 1992, consolidando su imagen de rey de Europa.",
-    "metadata": {
-      "team_name_en": "Real Madrid",
-      "country": "España",
-      "dataset_name": "Real Madrid",
-      "matches_played": 331,
-      "wins": 199,
-      "draws": 60,
-      "losses": 72,
-      "goals_for": 698,
-      "goals_against": 371,
-      "seasons_first": 1995,
-      "seasons_last": 2025,
-      "ucl_titles": 15,
-      "ucl_titles_seasons": [
-        "1955-56",
-        "1956-57",
-        "1957-58",
-        "1958-59",
-        "1959-60",
-        "1965-66",
-        "1997-98",
-        "1999-2000",
-        "2001-02",
-        "2013-14",
-        "2015-16",
-        "2016-17",
-        "2017-18",
-        "2021-22",
-        "2023-24"
-      ]
-    }
+    "titulo": "Visión general de la era moderna de la Champions League",
+    "texto": "La era moderna de la Champions League comienza en la temporada 1992-93, cuando la antigua Copa de Europa se transforma en un formato con fase de grupos y se refuerza la marca Champions League. A partir de ese momento, la competición deja de ser solo un torneo de campeones de liga y abre la puerta a la participación de varios equipos por país, sobre todo de las grandes ligas europeas. Esto provoca que cada año coincidan más clubes potentes y que el nivel medio aumente mucho. En este periodo moderno, los grandes protagonistas son los equipos de España, Inglaterra, Italia y Alemania, con ciclos de dominio muy marcados: el Real Madrid de las tres Champions seguidas, el Barcelona de Guardiola y Luis Enrique, el Bayern dominante en varias etapas y la aparición de proyectos de gran inversión como el Paris Saint-Germain o el Manchester City. La era moderna también se caracteriza por cambios constantes en el formato (número de participantes, estructura de grupos y eliminatorias) y en las normas (introducción del VAR, aumento de cambios, eliminación del gol de visitante), lo que hace que comparar épocas requiera entender bien este contexto histórico."
   },
   {
-    "id": "team_barcelona_profile",
-    "categoria": "team",
+    "id": "ucl_history_format_1990s_2000s",
+    "categoria": "history",
     "tipo": "fact",
-    "team_name": "Barcelona",
-    "season_year": null,
-    "titulo": "Perfil historico del FC Barcelona en la Champions League",
-    "texto": "El Barcelona ha sido uno de los equipos mas influyentes tacticamente en la era moderna de la Champions. Su identidad esta marcada por el juego de posicion, la posesion alta y la presion tras perdida. Con Rijkaard gana la Champions de 2006, con Guardiola alcanza su pico en 2009 y 2011, y con Luis Enrique conquista el titulo de 2015 con el tridente MSN. Desde 1992 hasta 2025 el Barça ha jugado 309 partidos de Champions, con 179 victorias, 70 empates y 60 derrotas. Ha marcado 626 goles y ha encajado 333. Es uno de los clubes con mas participaciones, partidos y goles en el periodo moderno.",
-    "metadata": {
-      "team_name_en": "Barcelona",
-      "country": "España",
-      "dataset_name": "Barcelona",
-      "matches_played": 309,
-      "wins": 179,
-      "draws": 70,
-      "losses": 60,
-      "goals_for": 626,
-      "goals_against": 333,
-      "seasons_first": 1992,
-      "seasons_last": 2025,
-      "ucl_titles": 5,
-      "ucl_titles_seasons": [
-        "1991-92",
-        "2005-06",
-        "2008-09",
-        "2010-11",
-        "2014-15"
-      ]
-    }
+    "season_year": 1993,
+    "titulo": "Primeros formatos modernos: de la liguilla inicial a las dos fases de grupos",
+    "texto": "En la década de los 90, la Champions League experimenta sus primeras grandes transformaciones de formato. Tras la introducción de la fase de grupos en 1992-93, la competición prueba distintas estructuras para equilibrar ingresos televisivos, número de partidos y exigencia deportiva. Durante varios años se mantiene una primera liguilla que sustituye a muchas eliminatorias clásicas de ida y vuelta. Más adelante, alrededor del cambio de siglo, se añade incluso una segunda fase de grupos antes de llegar a los cuartos de final, lo que hace que los grandes clubes jueguen muchísimos partidos de alto nivel antes de llegar a las rondas decisivas. Esta etapa se recuerda por la acumulación de grandes duelos en grupos, por ejemplo enfrentamientos tempranos entre gigantes europeos, pero también por cierto desgaste del formato, que acaba siendo considerado demasiado largo. A partir de mediados de los 2000 se simplifica la estructura hacia algo más reconocible: una fase de grupos única seguida de octavos, cuartos, semifinales y final a partido único."
   },
   {
-    "id": "team_bayern_munich_profile",
-    "categoria": "team",
+    "id": "ucl_history_format_32_equipos",
+    "categoria": "history",
     "tipo": "fact",
-    "team_name": "Bayern Munich",
-    "season_year": null,
-    "titulo": "Perfil historico del Bayern Munich en la Champions League",
-    "texto": "El Bayern Munich es uno de los clubes mas consistentes de la Champions moderna. Se caracteriza por su intensidad fisica, su presion alta y su capacidad para combinar juego de bandas y talento tecnico. Ha ganado Champions en 2001, 2013 y 2020, con etapas muy potentes como el Bayern de Heynckes y el de Flick. Desde 1994 hasta 2025 ha disputado 308 partidos de Champions, con 181 victorias, 62 empates y 65 derrotas. Ha marcado 632 goles y ha recibido 315. Es uno de los tres equipos con mas partidos y goles de la competicion desde 1992.",
-    "metadata": {
-      "team_name_en": "Bayern München",
-      "country": "Alemania",
-      "dataset_name": "Bayern München",
-      "matches_played": 308,
-      "wins": 181,
-      "draws": 62,
-      "losses": 65,
-      "goals_for": 632,
-      "goals_against": 315,
-      "seasons_first": 1994,
-      "seasons_last": 2025,
-      "ucl_titles": 6,
-      "ucl_titles_seasons": [
-        "1973-74",
-        "1974-75",
-        "1975-76",
-        "2000-01",
-        "2012-13",
-        "2019-20"
-      ]
-    }
+    "season_year": 2004,
+    "titulo": "La etapa clásica de 32 equipos y fase de grupos con octavos de final",
+    "texto": "Durante buena parte de la era moderna, la imagen mental estándar de la Champions es un formato con 32 equipos en fase de grupos: ocho grupos de cuatro equipos, todos contra todos a doble partido, y los dos primeros de cada grupo se clasifican a octavos de final. Desde esa estructura se avanza mediante eliminatorias de ida y vuelta hasta llegar a la final a partido único en sede neutral. Este formato se consolida a partir de mediados de los años 2000 y se mantiene durante muchas temporadas, convirtiéndose en la referencia para las comparaciones históricas. En este contexto, los grandes clubes intentan asegurar primero el pase en grupos y luego gestionar sus picos de forma física y táctica para llegar fuertes a cuartos, semifinales y final. Muchas de las grandes noches que aparecen en otros archivos del dataset (remontadas, goleadas históricas, finales icónicas) se enmarcan precisamente dentro de esta etapa de 32 equipos y eliminatorias clásicas a partir de octavos."
   },
   {
-    "id": "team_ac_milan_profile",
-    "categoria": "team",
+    "id": "ucl_history_format_nueva_liga_swiss",
+    "categoria": "history",
     "tipo": "fact",
-    "team_name": "AC Milan",
-    "season_year": null,
-    "titulo": "Perfil historico del AC Milan en la Champions League",
-    "texto": "El AC Milan es un club historico de Europa, conocido por su organizacion defensiva, su tradicion tactica y sus grandes centrocampistas y delanteros. En la era moderna de la Champions destaca la exhibicion de 1994, las finales de 2003 y 2007 con Ancelotti y la cicatriz de la final de 2005 ante el Liverpool. Desde 1992 hasta 2025 ha disputado 207 partidos de Champions, con 94 victorias, 57 empates y 56 derrotas. Ha marcado 290 goles y ha encajado 197. Aunque ha tenido etapas de ausencia, sigue siendo uno de los clubes con mas peso historico en la competicion.",
-    "metadata": {
-      "team_name_en": "Milan",
-      "country": "Italia",
-      "dataset_name": "Milan",
-      "matches_played": 207,
-      "wins": 94,
-      "draws": 57,
-      "losses": 56,
-      "goals_for": 290,
-      "goals_against": 197,
-      "seasons_first": 1992,
-      "seasons_last": 2025,
-      "ucl_titles": 7,
-      "ucl_titles_seasons": [
-        "1962-63",
-        "1968-69",
-        "1988-89",
-        "1989-90",
-        "1993-94",
-        "2002-03",
-        "2006-07"
-      ]
-    }
+    "season_year": 2025,
+    "titulo": "El cambio reciente hacia un formato de liga ampliada",
+    "texto": "En la parte más reciente de la historia, la Champions evoluciona hacia un formato con más equipos y una fase de \"liga\" ampliada en lugar de los tradicionales grupos cerrados de cuatro. El objetivo es aumentar el número de partidos entre grandes clubes, generar más ingresos televisivos y ofrecer más cruces atractivos desde muy pronto en la competición. En lugar de coincidir siempre con los mismos tres rivales en un grupo, los equipos se enfrentan a varios oponentes distintos en una liguilla global, y la clasificación para las rondas eliminatorias se decide en una tabla más amplia. Este cambio refleja la tendencia de la UEFA y de los grandes clubes a explotar aún más el producto Champions, al tiempo que abre debates sobre la dificultad de comparar registros históricos de distintas eras, ya que algunos equipos jugarán más partidos por temporada que los de la etapa clásica de 32 equipos y grupos de cuatro."
   },
   {
-    "id": "team_liverpool_profile",
-    "categoria": "team",
+    "id": "ucl_history_rules_away_goals",
+    "categoria": "history",
     "tipo": "fact",
-    "team_name": "Liverpool",
-    "season_year": null,
-    "titulo": "Perfil historico del Liverpool en la Champions League",
-    "texto": "El Liverpool es un club asociado al espiritu competitivo y a las grandes remontadas europeas. El Milagro de Estambul en 2005, la remontada 4-0 al Barcelona en 2019 y la final ganada al Tottenham ese mismo año son ejemplos de su caracter en Champions. Con Klopp adopta un estilo de presion alta y transiciones rapidas que le devuelve a la elite europea. Desde 2001 hasta 2025 ha jugado 163 partidos de Champions, con 88 victorias, 35 empates y 40 derrotas. Ha marcado 291 goles y ha encajado 160.",
-    "metadata": {
-      "team_name_en": "Liverpool",
-      "country": "Inglaterra",
-      "dataset_name": "Liverpool",
-      "matches_played": 163,
-      "wins": 88,
-      "draws": 35,
-      "losses": 40,
-      "goals_for": 291,
-      "goals_against": 160,
-      "seasons_first": 2001,
-      "seasons_last": 2025,
-      "ucl_titles": 6,
-      "ucl_titles_seasons": [
-        "1976-77",
-        "1977-78",
-        "1980-81",
-        "1983-84",
-        "2004-05",
-        "2018-19"
-      ]
-    }
+    "season_year": 2022,
+    "titulo": "La norma del gol de visitante y su eliminación",
+    "texto": "Durante gran parte de la era moderna, las eliminatorias de Champions se decidían, en caso de empate global, por la norma del gol de visitante: si dos equipos acababan una eliminatoria con el mismo número de goles totales, pasaba de ronda quien hubiera marcado más goles fuera de casa. Esta regla condicionaba fuertemente la manera de plantear los partidos de ida y vuelta: muchos equipos priorizaban no encajar en casa y valoraban mucho marcar aunque fuera perdiendo fuera de su estadio. Algunas remontadas y eliminatorias históricas de la Champions se explican precisamente por esta norma. Sin embargo, en las últimas temporadas de este contexto histórico la UEFA decide eliminar el valor doble del gol de visitante. A partir de ese momento, si una eliminatoria termina igualada en el marcador global, se juega prórroga y, si es necesario, tanda de penaltis, sin que los goles fuera de casa tengan un valor especial. Este cambio altera el enfoque estratégico: ya no se premia de forma extra marcar fuera, y los entrenadores pueden plantear las eliminatorias con menos miedo a recibir un gol en casa."
   },
   {
-    "id": "team_manchester_united_profile",
-    "categoria": "team",
+    "id": "ucl_history_rules_substitutions_var",
+    "categoria": "history",
     "tipo": "fact",
-    "team_name": "Manchester United",
     "season_year": null,
-    "titulo": "Perfil historico del Manchester United en la Champions League",
-    "texto": "El Manchester United fue uno de los grandes dominadores europeos durante la era Ferguson. Su estilo combinaba juego vertical, extremos rapidos y una fuerte mentalidad competitiva. La final de 1999 con la remontada al Bayern y la final inglesa de 2008 frente al Chelsea resumen su peso en la competicion. Desde 1993 hasta 2024 ha jugado 248 partidos de Champions, con 127 victorias, 62 empates y 59 derrotas. Ha marcado 420 goles y ha encajado 251.",
-    "metadata": {
-      "team_name_en": "Man Utd",
-      "country": "Inglaterra",
-      "dataset_name": "Man Utd",
-      "matches_played": 248,
-      "wins": 127,
-      "draws": 62,
-      "losses": 59,
-      "goals_for": 420,
-      "goals_against": 251,
-      "seasons_first": 1993,
-      "seasons_last": 2024,
-      "ucl_titles": 3,
-      "ucl_titles_seasons": [
-        "1967-68",
-        "1998-99",
-        "2007-08"
-      ]
-    }
+    "titulo": "Cambios en sustituciones, VAR y tecnología en la Champions moderna",
+    "texto": "Además del formato, la Champions moderna ha vivido cambios importantes en las reglas de partido. Tradicionalmente solo se permitían tres sustituciones, lo que obligaba a entrenadores y jugadores a gestionar el esfuerzo de forma muy cuidadosa, especialmente en prórrogas. Con el tiempo, y especialmente tras la pandemia, se introducen y consolidan las cinco sustituciones permitidas, a menudo con ciertas ventanas de cambio para no interrumpir en exceso el juego. Esto ha modificado la gestión de las plantillas: los entrenadores pueden rotar más, ajustar mejor la presión y refrescar a los atacantes en los minutos finales. Paralelamente, la competición adopta tecnología como el sistema de detección automática de gol (goal-line technology) y, posteriormente, el VAR (videoarbitraje). El VAR se utiliza para revisar goles, penaltis, expulsiones directas y errores de identidad, y ha cambiado la percepción de muchas jugadas clave en eliminatorias y finales: los jugadores y técnicos saben que una decisión puede revisarse en pantalla. Aunque algunas decisiones polémicas siguen existiendo, la herramienta ha reducido ciertos errores claros y ha añadido una capa más de análisis a la historia reciente de la Champions."
   },
   {
-    "id": "team_chelsea_profile",
-    "categoria": "team",
+    "id": "ucl_history_leagues_spanish_dominance",
+    "categoria": "history",
     "tipo": "fact",
-    "team_name": "Chelsea",
     "season_year": null,
-    "titulo": "Perfil historico del Chelsea en la Champions League",
-    "texto": "El Chelsea se convierte en potencia europea en el siglo XXI, combinando grandes inversiones con una identidad competitiva y solida. A pesar del constante cambio de entrenadores, el club mantiene una presencia regular en fases avanzadas de la Champions. Gana el titulo en 2012 con Drogba y Cech como heroes y repite en 2021 con Tuchel. Desde 1999 hasta 2023 ha jugado 197 partidos de Champions, con 101 victorias, 52 empates y 44 derrotas. Ha marcado 334 goles y ha recibido 181.",
-    "metadata": {
-      "team_name_en": "Chelsea",
-      "country": "Inglaterra",
-      "dataset_name": "Chelsea",
-      "matches_played": 197,
-      "wins": 101,
-      "draws": 52,
-      "losses": 44,
-      "goals_for": 334,
-      "goals_against": 181,
-      "seasons_first": 1999,
-      "seasons_last": 2023,
-      "ucl_titles": 2,
-      "ucl_titles_seasons": [
-        "2011-12",
-        "2020-21"
-      ]
-    }
+    "titulo": "Dominio de los clubes españoles en la era moderna",
+    "texto": "En este contexto histórico, los clubes españoles han tenido un peso enorme en la Champions League moderna. El Real Madrid, según los datos de equipos del dataset, alcanza los 15 títulos europeos, con finales icónicas repartidas entre distintas generaciones: desde las de finales de los 90 y principios de los 2000 hasta las tres Champions consecutivas con Zidane y la conquista de la decimoquinta. El Barcelona, por su parte, suma 5 títulos, con picos muy claros en 2006, 2009, 2011 y 2015, asociados a proyectos de juego de posición y a figuras como Xavi, Iniesta y Messi. El Atlético de Madrid no llega a ganar la competición en este contexto, pero disputa varias finales y semifinales, construyendo una identidad muy reconocible de equipo competitivo al máximo nivel europeo. Si se suman los títulos de Real Madrid y Barcelona, los clubes españoles de este contexto alcanzan 20 Copas de Europa/Champions. Además de los trofeos, su huella se nota en la manera de jugar: el Barça de Guardiola populariza el dominio extremo de la posesión y la presión tras pérdida, mientras que el Real Madrid de sus grandes noches de remontada consolida la idea de competir al máximo nivel incluso en situaciones muy adversas."
   },
   {
-    "id": "team_manchester_city_profile",
-    "categoria": "team",
+    "id": "ucl_history_leagues_english_power",
+    "categoria": "history",
     "tipo": "fact",
-    "team_name": "Manchester City",
     "season_year": null,
-    "titulo": "Perfil historico del Manchester City en la Champions League",
-    "texto": "El Manchester City es un proyecto de largo plazo que se consolida en Champions durante la era Guardiola. Su estilo se basa en el juego de posicion, la posesion alta, la presion tras perdida y un uso muy trabajado de los espacios. Tras varias temporadas quedandose cerca, el City gana su primera Champions en 2023 y completa un triplete historico. Desde 2012 hasta 2025 ha disputado 135 partidos de Champions, con 75 victorias, 27 empates y 33 derrotas. Ha marcado 287 goles y ha encajado 162.",
-    "metadata": {
-      "team_name_en": "Man City",
-      "country": "Inglaterra",
-      "dataset_name": "Man City",
-      "matches_played": 135,
-      "wins": 75,
-      "draws": 27,
-      "losses": 33,
-      "goals_for": 287,
-      "goals_against": 162,
-      "seasons_first": 2012,
-      "seasons_last": 2025,
-      "ucl_titles": 1,
-      "ucl_titles_seasons": [
-        "2022-23"
-      ]
-    }
+    "titulo": "El peso de la Premier League: ciclos de poder inglés",
+    "texto": "Los clubes ingleses también tienen un papel protagonista en la historia moderna de la Champions. Según los datos del contexto de equipos, el Liverpool suma 6 títulos, el Manchester United 3, el Chelsea 2 y el Manchester City 1 en esta etapa, mientras que el Tottenham llega a una final sin lograr ganar el trofeo. En total, los clubes de la Premier League alcanzan 12 Champions en este contexto ampliado, repartidas entre distintas generaciones: el Manchester United de Ferguson en 1999 y 2008, el Liverpool de 2005 y 2019, el Chelsea de 2012 y 2021 y el Manchester City de su triplete con Guardiola. Se pueden distinguir varios ciclos: un primer periodo fuerte de los ingleses a finales de los 90 y primeros 2000, con el United y el Liverpool como protagonistas; una etapa de dominio español; y una fase más reciente en la que los equipos de la Premier vuelven a ocupar muchas plazas en semifinales y finales gracias a plantillas muy profundas y a la enorme capacidad económica de la liga inglesa. La Champions se convierte así en un escenario donde el ritmo físico y la intensidad típicos de la Premier se ponen a prueba frente a otros estilos europeos."
   },
   {
-    "id": "team_paris_saint_germain_profile",
-    "categoria": "team",
+    "id": "ucl_history_leagues_italian_tradition",
+    "categoria": "history",
     "tipo": "fact",
-    "team_name": "Paris Saint Germain",
     "season_year": null,
-    "titulo": "Perfil historico del Paris Saint Germain en la Champions League",
-    "texto": "El Paris Saint Germain representa el modelo de club de gran inversion economica en la era moderna. Domina la liga francesa pero ha tenido dificultades para culminar la Champions, con una sola final disputada en 2020. Su historia reciente esta marcada por eliminaciones dramaticas, como la remontada del Barcelona en 2017 o la del Manchester United en 2019, y por la presencia de estrellas como Mbappe, Neymar o Messi. Desde 1994 hasta 2025 ha jugado 166 partidos de Champions, con 90 victorias, 29 empates y 47 derrotas. Ha marcado 328 goles y ha recibido 189.",
-    "metadata": {
-      "team_name_en": "Paris",
-      "country": "Francia",
-      "dataset_name": "Paris",
-      "matches_played": 166,
-      "wins": 90,
-      "draws": 29,
-      "losses": 47,
-      "goals_for": 328,
-      "goals_against": 189,
-      "seasons_first": 1994,
-      "seasons_last": 2025,
-      "ucl_titles": 1,
-      "ucl_titles_seasons": [
-        "2024-25"
-      ]
-    }
+    "titulo": "La tradición italiana: defensas sólidas y finales recurrentes",
+    "texto": "Italia tiene una tradición larguísima en la Copa de Europa y la Champions, y en este contexto de datos sigue apareciendo como una de las grandes potencias históricas. El AC Milan suma 7 títulos, la Juventus 2, el Inter 3 y la Roma participa en momentos muy señalados aunque no llegue a ganar el trofeo. En total, los clubes italianos alcanzan 12 Champions en este contexto ampliado. Más allá de los títulos, los equipos de Serie A aparecen muchas veces en finales y semifinales, incluso en épocas donde la liga italiana no es la más poderosa a nivel económico. La imagen clásica del fútbol italiano, asociada a defensas muy sólidas, porteros legendarios y transiciones bien gestionadas, se combina en la era moderna con propuestas más agresivas en presión y ataque. Milan, Inter y Juventus protagonizan finales tanto ganadas como perdidas frente a rivales españoles, ingleses y alemanes, y ayudan a contar la historia de la Champions como un choque constante entre estilos: defensa organizada, contraataque, juego de posesión y presión alta."
   },
   {
-    "id": "team_juventus_profile",
-    "categoria": "team",
+    "id": "ucl_history_leagues_german_model",
+    "categoria": "history",
     "tipo": "fact",
-    "team_name": "Juventus",
     "season_year": null,
-    "titulo": "Perfil historico de la Juventus en la Champions League",
-    "texto": "La Juventus es uno de los grandes clubes de Italia y de Europa, conocida por su solidez defensiva y su regularidad en competiciones domesticas. En Champions, sin embargo, su historia reciente esta marcada por varias finales perdidas (1997, 1998, 2003, 2015 y 2017). Desde 1995 hasta 2025 ha disputado 230 partidos de Champions, con 114 victorias, 56 empates y 60 derrotas. Ha marcado 356 goles y ha encajado 237.",
-    "metadata": {
-      "team_name_en": "Juventus",
-      "country": "Italia",
-      "dataset_name": "Juventus",
-      "matches_played": 230,
-      "wins": 114,
-      "draws": 56,
-      "losses": 60,
-      "goals_for": 356,
-      "goals_against": 237,
-      "seasons_first": 1995,
-      "seasons_last": 2025,
-      "ucl_titles": 2,
-      "ucl_titles_seasons": [
-        "1984-85",
-        "1995-96"
-      ]
-    }
+    "titulo": "El modelo alemán: Bayern, Dortmund y un alto nivel competitivo",
+    "texto": "En este contexto, Alemania aparece principalmente representada por el Bayern de Múnich y el Borussia Dortmund. El Bayern suma 6 títulos de Champions, repartidos entre distintas épocas, y se mantiene de forma casi ininterrumpida en la élite europea, acumulando finales, semifinales y grandes goleadas en fases de grupos y eliminatorias. El Borussia Dortmund suma 1 título y varias apariciones destacadas, incluida una final alemana ante el Bayern y otra final más reciente. En total, los clubes alemanes de este contexto alcanzan 7 Champions, pero su influencia va más allá del número de trofeos: el modelo alemán combina una fuerte estructura de club, estadios llenos, gran trabajo físico y táctico y una apuesta recurrente por el talento joven. El Borussia Dortmund, por ejemplo, es un club que forma y vende estrellas, mientras que el Bayern suele ser el destino final dentro de la propia Bundesliga para muchos de los mejores jugadores del país. En la Champions, esto se traduce en equipos muy intensos, con presión alta y mucha capacidad para castigar errores del rival."
   },
   {
-    "id": "team_atletico_de_madrid_profile",
-    "categoria": "team",
+    "id": "ucl_history_leagues_france_portugal_netherlands",
+    "categoria": "history",
     "tipo": "fact",
-    "team_name": "Atletico de Madrid",
     "season_year": null,
-    "titulo": "Perfil historico del Atletico de Madrid en la Champions League",
-    "texto": "El Atletico de Madrid se ha consolidado como un equipo muy competitivo en la Champions bajo Diego Simeone. Su identidad se basa en la defensa organizada, las transiciones y la intensidad. Ha llegado a dos finales, en 2014 y 2016, ambas perdidas ante el Real Madrid, y ha firmado varias campañas destacadas en semifinales y cuartos. Desde 1996 hasta 2025 ha jugado 137 partidos de Champions, con 65 victorias, 37 empates y 35 derrotas. Ha marcado 197 goles y ha encajado 137.",
-    "metadata": {
-      "team_name_en": "Atleti",
-      "country": "España",
-      "dataset_name": "Atleti",
-      "matches_played": 137,
-      "wins": 65,
-      "draws": 37,
-      "losses": 35,
-      "goals_for": 197,
-      "goals_against": 137,
-      "seasons_first": 1996,
-      "seasons_last": 2025,
-      "ucl_titles": 0,
-      "ucl_titles_seasons": []
-    }
+    "titulo": "Francia, Portugal y Países Bajos: fábricas de talento y momentos cumbre",
+    "texto": "Además de las cuatro grandes ligas con más títulos en este contexto, hay países que desempeñan un papel clave como fabricas de talento y como protagonistas de momentos muy concretos de la historia de la Champions. Francia aparece representada en este contexto tanto por el Paris Saint-Germain, que según los datos de equipos consigue su primera Champions en 2024-25 con una goleada muy llamativa en la final, como por otros clubes históricos que han llegado a finales en épocas anteriores. Portugal tiene en el Porto a uno de los grandes ejemplos de proyecto competitivo basado en scouting y revalorización de jugadores: sus 2 títulos en este contexto ampliado, con la Champions de 2003-04 como gran hito, muestran que también desde ligas menos poderosas económicamente se puede ganar el máximo torneo europeo. Países Bajos, por su parte, tiene en el Ajax a una referencia histórica con 4 Copas de Europa/Champions. Aunque su presupuesto no se puede comparar con el de los gigantes de las grandes ligas, cada cierto tiempo forma generaciones capaces de competir al máximo nivel, como la que alcanza la cima en 1994-95 y la que vuelve a sorprender en 2018-19. En conjunto, estos países representan la idea de que la Champions no es solo cosa de tres o cuatro ligas, sino un escenario donde los grandes proyectos deportivos, aunque vengan de ligas menos ricas, pueden alcanzar cotas muy altas."
   },
   {
-    "id": "team_borussia_dortmund_profile",
-    "categoria": "team",
+    "id": "ucl_history_tactical_trends",
+    "categoria": "history",
     "tipo": "fact",
-    "team_name": "Borussia Dortmund",
     "season_year": null,
-    "titulo": "Perfil historico del Borussia Dortmund en la Champions League",
-    "texto": "El Borussia Dortmund es un club formador, con ciclos de alto nivel basados en talento joven. Fue campeon en 1997, finalista en 2013 y volvio a alcanzar la final en 2024. Las etapas con Klopp y las generaciones de jugadores como Reus, Lewandowski, Hummels o Bellingham han marcado su identidad reciente. Desde 1995 hasta 2025 ha disputado 173 partidos de Champions, con 83 victorias, 35 empates y 55 derrotas. Ha marcado 281 goles y ha encajado 209.",
-    "metadata": {
-      "team_name_en": "B. Dortmund",
-      "country": "Alemania",
-      "dataset_name": "B. Dortmund",
-      "matches_played": 173,
-      "wins": 83,
-      "draws": 35,
-      "losses": 55,
-      "goals_for": 281,
-      "goals_against": 209,
-      "seasons_first": 1995,
-      "seasons_last": 2025,
-      "ucl_titles": 1,
-      "ucl_titles_seasons": [
-        "1996-97"
-      ]
-    }
+    "titulo": "Tendencias tácticas en la era moderna de la Champions",
+    "texto": "La historia moderna de la Champions también puede leerse a través de las tendencias tácticas que se van imponiendo. En los primeros años de la era Champions se ve todavía mucha influencia de sistemas clásicos con dos delanteros, bloques medios y defensas más hundidas. Con la llegada de proyectos como el Milan de Sacchi antes de la era Champions o el Barcelona de Rijkaard y Guardiola, el juego de posición, la presión avanzada y la salida limpia desde atrás empiezan a ser una seña de identidad de algunos campeones. Más adelante, clubes como el Borussia Dortmund de Klopp y otros equipos alemanes popularizan la presión alta y el gegenpressing, es decir, la presión inmediata tras pérdida para recuperar el balón rápido. Al mismo tiempo, los equipos ingleses y algunos italianos combinan intensidad física con gran calidad técnica. El resultado es que la Champions se convierte en un laboratorio táctico donde conviven estilos muy diferentes: bloques bajos y contragolpe, posesión dominante, presión alta y sistemas híbridos que se adaptan a cada rival. Para analizar bien un partido o una eliminatoria histórica en este contexto, hay que entender en qué momento táctico estaba el fútbol europeo y qué tipo de propuesta llevaba cada club al máximo escenario continental."
   },
   {
-    "id": "team_ajax_profile",
-    "categoria": "team",
+    "id": "ucl_history_economy_superclubs",
+    "categoria": "history",
     "tipo": "fact",
-    "team_name": "Ajax",
     "season_year": null,
-    "titulo": "Perfil historico del Ajax en la Champions League",
-    "texto": "El Ajax es una de las grandes fabricas de talento del futbol europeo. Aunque su presupuesto es menor que el de los gigantes, ciclicamente forma equipos muy competitivos en Champions. Fue campeon en 1995 y volvio a ser protagonista en 2018-19, cuando llego a semifinales eliminando a Real Madrid y Juventus. Desde 1994 hasta 2023 ha disputado 140 partidos de Champions, con 58 victorias, 35 empates y 47 derrotas. Ha marcado 203 goles y ha recibido 165.",
-    "metadata": {
-      "team_name_en": "Ajax",
-      "country": "Holanda",
-      "dataset_name": "Ajax",
-      "matches_played": 140,
-      "wins": 58,
-      "draws": 35,
-      "losses": 47,
-      "goals_for": 203,
-      "goals_against": 165,
-      "seasons_first": 1994,
-      "seasons_last": 2023,
-      "ucl_titles": 4,
-      "ucl_titles_seasons": [
-        "1970-71",
-        "1971-72",
-        "1972-73",
-        "1994-95"
-      ]
-    }
+    "titulo": "La economía del fútbol y el nacimiento de los superclubs europeos",
+    "texto": "Otro elemento clave en la historia moderna de la Champions es la aparición de los llamados superclubs: equipos con ingresos muy elevados, presencia global de marca y capacidad para reunir a muchos de los mejores jugadores del mundo. La combinación de derechos de televisión, acuerdos comerciales internacionales y grandes inversiones externas hace que clubes como Real Madrid, Barcelona, Manchester United, Bayern Múnich, Manchester City o Paris Saint-Germain jueguen en una liga económica casi propia. Esto se refleja en la Champions: son estos equipos los que más a menudo llegan a cuartos, semifinales y finales, y quienes pueden reconstruir proyectos competitivos de forma rápida tras una mala temporada. Al mismo tiempo, clubes de ligas como Portugal, Países Bajos o incluso algunos equipos italianos y alemanes mantienen un rol de formadores: desarrollan talento joven que luego se vende a estos superclubs. La Champions se convierte así en un escaparate global donde se comprueba qué proyectos son capaces de competir contra los gigantes económicos y qué equipos logran desafiar la lógica financiera con ideas tácticas y gestión de plantilla muy eficientes."
   },
   {
-    "id": "team_porto_profile",
-    "categoria": "team",
-    "tipo": "fact",
-    "team_name": "Porto",
-    "season_year": null,
-    "titulo": "Perfil historico del Porto en la Champions League",
-    "texto": "El Porto es un club que destaca por su scouting y su capacidad para desarrollar jugadores y luego traspasarlos. En la Champions moderna vivio su gran momento en 2003-04, cuando el equipo de Mourinho conquisto el titulo en una edicion llena de sorpresas. Desde 1992 hasta 2024 ha jugado 228 partidos de Champions, con 101 victorias, 53 empates y 74 derrotas. Ha marcado 318 goles y ha encajado 259.",
-    "metadata": {
-      "team_name_en": "Porto",
-      "country": "Portugal",
-      "dataset_name": "Porto",
-      "matches_played": 228,
-      "wins": 101,
-      "draws": 53,
-      "losses": 74,
-      "goals_for": 318,
-      "goals_against": 259,
-      "seasons_first": 1992,
-      "seasons_last": 2024,
-      "ucl_titles": 2,
-      "ucl_titles_seasons": [
-        "1986-87",
-        "2003-04"
-      ]
-    }
-  },
-  {
-    "id": "team_inter_profile",
-    "categoria": "team",
-    "tipo": "fact",
-    "team_name": "Inter",
-    "season_year": null,
-    "titulo": "Perfil historico del Inter de Milan en la Champions League",
-    "texto": "El Inter de Milan ha tenido etapas irregulares en Champions, pero con picos muy altos. El mas destacado es el triplete de 2010 con Mourinho, donde gana liga, copa y Champions. En los ultimos anos ha vuelto a aparecer en fases finales, llegando a la final de 2023 y a semifinales en 2024. Desde 1998 hasta 2025 ha disputado 167 partidos de Champions, con 80 victorias, 42 empates y 45 derrotas. Ha marcado 235 goles y ha encajado 182.",
-    "metadata": {
-      "team_name_en": "Inter",
-      "country": "Italia",
-      "dataset_name": "Inter",
-      "matches_played": 167,
-      "wins": 80,
-      "draws": 42,
-      "losses": 45,
-      "goals_for": 235,
-      "goals_against": 182,
-      "seasons_first": 1998,
-      "seasons_last": 2025,
-      "ucl_titles": 3,
-      "ucl_titles_seasons": [
-        "1963-64",
-        "1964-65",
-        "2009-10"
-      ]
-    }
-  },
-  {
-    "id": "team_roma_profile",
-    "categoria": "team",
-    "tipo": "fact",
-    "team_name": "Roma",
-    "season_year": null,
-    "titulo": "Perfil historico de la Roma en la Champions League",
-    "texto": "La Roma no es uno de los maximos dominadores, pero ha tenido momentos muy recordados en la Champions moderna. El mas famoso es la remontada 3-0 al Barcelona en 2018, que le dio el pase a semifinales. Desde 2001 hasta 2019 ha jugado 100 partidos de Champions, con 36 victorias, 25 empates y 38 derrotas. Ha marcado 133 goles y ha recibido 148.",
-    "metadata": {
-      "team_name_en": "Roma",
-      "country": "Italia",
-      "dataset_name": "Roma",
-      "matches_played": 100,
-      "wins": 36,
-      "draws": 25,
-      "losses": 38,
-      "goals_for": 133,
-      "goals_against": 148,
-      "seasons_first": 2001,
-      "seasons_last": 2019,
-      "ucl_titles": 0,
-      "ucl_titles_seasons": []
-    }
-  },
-  {
-    "id": "team_tottenham_profile",
-    "categoria": "team",
-    "tipo": "fact",
-    "team_name": "Tottenham",
-    "season_year": null,
-    "titulo": "Perfil historico del Tottenham en la Champions League",
-    "texto": "El Tottenham es un club ingles que ha tenido participaciones mas puntuales en la Champions, pero con una campaña muy llamativa en 2018-19, cuando llega a la final tras una remontada epica al Ajax en semifinales. Desde 2011 hasta 2023 ha disputado 53 partidos de Champions, con 23 victorias, 12 empates y 18 derrotas. Ha marcado 89 goles y ha encajado 74.",
-    "metadata": {
-      "team_name_en": "Tottenham",
-      "country": "Inglaterra",
-      "dataset_name": "Tottenham",
-      "matches_played": 53,
-      "wins": 23,
-      "draws": 12,
-      "losses": 18,
-      "goals_for": 89,
-      "goals_against": 74,
-      "seasons_first": 2011,
-      "seasons_last": 2023,
-      "ucl_titles": 0,
-      "ucl_titles_seasons": []
-    }
-  },
-
-  {
-    "id": "team_qa_001_mas_partidos_champions",
-    "categoria": "team",
+    "id": "ucl_history_qa_most_titles_by_country",
+    "categoria": "history",
     "tipo": "qa",
-    "team_name": null,
     "season_year": null,
-    "question": "Que equipo ha disputado mas partidos de Champions League desde 1992?",
-    "answer": "Desde el inicio de la era moderna, el Real Madrid es el equipo que ha disputado mas partidos de Champions League, con 331 encuentros entre 1995 y 2025. Le siguen Barcelona con 309 y Bayern Munich con 308.",
-    "metadata": {
-      "tema": "comparativa_equipos",
-      "nivel": "basico"
-    }
+    "question": "Qué país o qué liga ha ganado más Champions según este contexto?",
+    "answer": "Según este contexto de datos, los clubes españoles son los que más Champions acumulan en la era moderna ampliada. El Real Madrid suma 15 títulos y el Barcelona 5, lo que hace un total de 20 Copas de Europa/Champions para equipos de La Liga. Les siguen los clubes ingleses, con 12 títulos repartidos entre Liverpool (6), Manchester United (3), Chelsea (2) y Manchester City (1), y los clubes italianos, también con 12, gracias a los 7 títulos del AC Milan, los 3 del Inter y los 2 de la Juventus. Los equipos alemanes suman 7 títulos en este contexto, con 6 del Bayern de Múnich y 1 del Borussia Dortmund. Además, clubes como Ajax o Porto aportan títulos importantes para Países Bajos y Portugal. En conjunto, la historia reciente de la Champions está claramente dominada por España, Inglaterra, Italia y Alemania, con España por delante en número de trofeos."
   },
   {
-    "id": "team_qa_002_mas_goles_champions",
-    "categoria": "team",
+    "id": "ucl_history_qa_away_goals_rule",
+    "categoria": "history",
     "tipo": "qa",
-    "team_name": null,
     "season_year": null,
-    "question": "Que equipo ha marcado mas goles en la Champions desde 1992?",
-    "answer": "El Real Madrid es el equipo que mas goles ha marcado en la Champions League moderna, con 698 goles. Bayern Munich y Barcelona tambien superan los 600 goles, con 632 y 626 respectivamente.",
-    "metadata": {
-      "tema": "comparativa_equipos",
-      "nivel": "basico"
-    }
+    "question": "Cómo afectaba la norma del gol de visitante a las eliminatorias de Champions y qué cambió al eliminarla?",
+    "answer": "Durante muchos años, si una eliminatoria de Champions acababa con empate en el marcador global, pasaba de ronda el equipo que hubiera marcado más goles fuera de casa. Esta norma del gol de visitante hacía que marcar fuera tuviera un valor extra y condicionaba la forma de jugar: algunos equipos daban por bueno un 2-1 o incluso un 3-2 en contra si incluía varios goles como visitante, mientras que en casa se priorizaba no encajar. Al eliminarse esta regla, las eliminatorias empatadas se deciden por prórroga y penaltis, y dejar de encajar en casa ya no tiene esa penalización tan grande si el rival consigue marcar. El cambio busca que los equipos jueguen con menos miedo y que no se premie de manera tan extrema marcar fuera, aunque en la práctica muchos entrenadores siguen valorando mucho los goles de visitante, incluso sin regla específica, por el impacto psicológico y el marcador en el contexto de la eliminatoria."
   },
   {
-    "id": "team_qa_003_estilo_barcelona_vs_real_madrid",
-    "categoria": "team",
+    "id": "ucl_history_qa_var_introduction",
+    "categoria": "history",
     "tipo": "qa",
-    "team_name": null,
     "season_year": null,
-    "question": "En que se diferencian el Barcelona y el Real Madrid en su forma de competir en la Champions?",
-    "answer": "El Barcelona se ha caracterizado por un juego de posicion muy estructurado, con posesion alta, presion tras perdida y un centro del campo creativo con jugadores como Xavi, Iniesta y Busquets. El Real Madrid ha estado mas ligado al talento individual, la transicion y la gestion de los momentos clave, con figuras como Zidane, Cristiano Ronaldo, Ramos, Modric o Benzema y una gran capacidad para remontar eliminatorias.",
-    "metadata": {
-      "tema": "identidad_equipos",
-      "nivel": "medio"
-    }
+    "question": "Qué impacto ha tenido la introducción del VAR en la historia reciente de la Champions?",
+    "answer": "La introducción del VAR en la Champions ha cambiado la manera en la que se viven las jugadas decisivas. Antes, un fuera de juego muy ajustado, un penalti dudoso o una expulsión polémica quedaban fijados por la decisión del árbitro en el momento. Con el VAR, muchas de esas acciones se revisan en vídeo y se corrigen errores claros, lo que ha evitado algunos goles en fuera de juego o penaltis inexistentes. Al mismo tiempo, el VAR ha añadido nuevas polémicas en acciones de interpretación y ha introducido pausas en el juego que afectan al ritmo emocional de partidos y eliminatorias. A nivel histórico, su impacto se ve en finales y cruces donde un gol anulado por fuera de juego milimétrico o un penalti pitado tras revisión cambian por completo la narrativa. Para entender bien la historia reciente de la Champions en este contexto, hay que tener en cuenta que muchas jugadas que antes habrían pasado como \"errores inevitables\" ahora se revisan en pantalla y se convierten en momentos clave de análisis."
   },
   {
-    "id": "team_qa_004_equipos_sorpresa",
-    "categoria": "team",
+    "id": "ucl_history_qa_spanish_dominance_period",
+    "categoria": "history",
     "tipo": "qa",
-    "team_name": null,
     "season_year": null,
-    "question": "Que equipos suelen considerarse sorpresas positivas en la historia reciente de la Champions?",
-    "answer": "Porto, Ajax, Borussia Dortmund, Roma y Tottenham han protagonizado campanas consideradas sorpresas positivas. El Porto gano la Champions en 2004, el Ajax fue semifinalista en 2019 eliminando a Real Madrid y Juventus, el Dortmund ha llegado a finales y semifinales con plantillas muy jovenes, Roma remonto 3-0 al Barcelona en 2018 y el Tottenham llego a la final de 2019 tras una remontada epica ante Ajax.",
-    "metadata": {
-      "tema": "equipos_revelacion",
-      "nivel": "medio"
-    }
+    "question": "Cuándo se puede hablar de un periodo de dominio español en la Champions dentro de este contexto?",
+    "answer": "Dentro de este contexto, se suele hablar de un periodo de dominio español especialmente fuerte entre mediados de la década de 2000 y finales de la de 2010. En esos años, Real Madrid y Barcelona no solo ganan muchas Champions, sino que además se reparten finales, semifinales y grandes noches de remontadas. El Barcelona de Rijkaard y, sobre todo, el de Guardiola y Luis Enrique marca una era con los títulos de 2006, 2009, 2011 y 2015. El Real Madrid, por su parte, encadena varias Champions en poco tiempo, incluyendo las tres consecutivas de la etapa de Zidane y la conquista de la decimoquinta en este contexto, con eliminatorias célebres por sus remontadas. A esto se suma la presencia habitual del Atlético de Madrid en fases avanzadas, con finales épicas ante el propio Real Madrid. Sumados, estos éxitos hacen que durante más de una década la Champions se vea muchas veces como un terreno dominado por clubes de La Liga."
   }
 ]
